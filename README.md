@@ -13,4 +13,4 @@ This repository contains a modified version of the original font, intended for p
 * `texgyrescholamathflash.otf`: The compiled OpenType font, ready to install.
 
 ## License
-Distributed under the **GUST Font License (GFL)**. See the `LICENSE.txt` file for the full license text. This font is a derivative work, renamed to prevent confusion with the official upstream release.
+Distributed under the **GUST Font License (GFL)**. See the `LICENSE` file for the full license text. This font is a derivative work, renamed to prevent confusion with the official upstream release.
