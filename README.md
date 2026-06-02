@@ -1,8 +1,8 @@
 # TeX-Gyre-Schola-MFlashTweaks
-A slightly tweaked version of the **TeX Gyre Schola Math** font, which was originally created and distributed by the **GUST e-foundry**. This is an unofficial derivative work
+A slightly tweaked version of the **TeX Gyre Schola Math** font, which was originally created and distributed by the **GUST e-foundry**. This is an unofficial derivative work.
 
 ## Modifications
-This repository contains a modified version of the original font, intended for personal use and fixing quirks (like small integral height) with the original.
+This repository contains a modified version of the original font, intended for personal use and fixing quirks (like small integral height) with the original. I found that the original operator sizes felt a bit off or relatively disproportionate. But I love this font and wanted a neat solution to these minor irks.
 
 ### Changes Made (so far):
 * Increased the minimum operator height
@@ -18,8 +18,12 @@ Just like all OpenType fonts (OTF), you require the `LuaLatex` or `XeLatex` comp
 ## Comparison
 ### Without tweaks (vanilla TeX Gyre Schola Math)
 ![Without tweaks](WithoutTweaks.png)
+
+---
+
 ### With tweaks (this version)
 ![With tweaks](WithTweaks.png)
 
+Notice the difference in integral height and how much the summation sign protrudes out. I personally prefer those changes.
 ## License
 Distributed under the **GUST Font License (GFL)**. See the `LICENSE` file for the full license text. This font is a derivative work, renamed to prevent confusion with the official upstream release.
