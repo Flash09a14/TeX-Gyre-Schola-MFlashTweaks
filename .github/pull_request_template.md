@@ -6,7 +6,7 @@ Before submitting, please ensure you have completed the following:
 - [ ] I have included 2 screenshots showing the **Before** and **After** states below.
 - [ ] I have updated `README.md` to state these changes and include the photos and any relevant additional info.
 - [ ] I have documented these changes under the "CHANGES" section in `MANIFEST.md`.
-- [ ] I have run `python3 NormalizeFont.py TeXGyreScholaMath-FlashTweaks.sfdir` before the pull request
+- [ ] I have `ufonormalizer` already installed and runned `ufonormalizer TeXGyreScholaMath-FlashTweaks.ufo` before the pull request
 - [ ] My changes do not violate the license or attempt to trademark project assets.
 
 ### Screenshots
