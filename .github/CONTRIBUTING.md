@@ -16,6 +16,9 @@ Any changes submitted via a pull request must include the following:
 * **Font Disclosures:** If you use another font, or have modified the original TeX Gyre Schola font in any relevant way, please clearly state the font name and your modifications in the `README.md`. If it is a personal or unavailable font, please explicitly state so.
 * **Content:** Please provide clear before/after comparisons of the specific symbols, formulas, or equations that utilize your modified glyphs.
 
+### After modifications
+Please run `python3 NormalizeFont.py TeXGyreScholaMath-FlashTweaks.sfdir` to normalize the fonts before publishing a pull request to avoid long compile times and headaches with weird floating point noise and timestamps.
+
 ## Suggestions and Discussions
 
 Any ideas, suggestions, or talking points? Please open a thread in the **Discussions** tab rather than opening an issue or PR first. 
