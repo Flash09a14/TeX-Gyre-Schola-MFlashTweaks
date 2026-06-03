@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="angleleft" format="2">
+  <advance width="434"/>
+  <unicode hex="2329"/>
+  <outline>
+    <contour>
+      <point x="354" y="-150" type="line"/>
+      <point x="308" y="-150" type="line"/>
+      <point x="80" y="260" type="line"/>
+      <point x="308" y="670" type="line"/>
+      <point x="354" y="670" type="line"/>
+      <point x="203" y="260" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>80</integer>
+            <key>width</key>
+            <integer>274</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

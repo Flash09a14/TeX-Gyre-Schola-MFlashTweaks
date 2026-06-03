@@ -17,7 +17,7 @@ Any changes submitted via a pull request must include the following:
 * **Content:** Please provide clear before/after comparisons of the specific symbols, formulas, or equations that utilize your modified glyphs.
 
 ### After modifications
-Please run `python3 NormalizeFont.py TeXGyreScholaMath-FlashTweaks.sfdir` to normalize the fonts before publishing a pull request to avoid long compile times and headaches with weird floating point noise and timestamps.
+If you haven't already, install `ufonormalizer` with `pip` (make sure you have python), and then please run `ufonormalizer TeXGyreScholaMath-FlashTweaks.ufo` on the terminal to normalize the font before publishing a pull request to avoid long compile times and headaches with weird floating point noise and timestamps.
 
 ## Suggestions and Discussions
 

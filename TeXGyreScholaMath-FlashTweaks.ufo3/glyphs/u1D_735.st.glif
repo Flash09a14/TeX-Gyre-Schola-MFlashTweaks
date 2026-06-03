@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u1D735.st" format="2">
+  <advance width="943"/>
+  <outline>
+    <contour>
+      <point x="1007" y="737" type="line"/>
+      <point x="370" y="-10" type="line"/>
+      <point x="299" y="-9" type="line"/>
+      <point x="128" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="807" y="624" type="line"/>
+      <point x="329" y="624" type="line"/>
+      <point x="429" y="182" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-10</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>624</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

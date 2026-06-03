@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightthreearrows.ex" format="2">
+  <advance width="310"/>
+  <outline>
+    <contour>
+      <point x="310" y="655" type="line"/>
+      <point x="310" y="585" type="line"/>
+      <point x="0" y="585" type="line"/>
+      <point x="0" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="295" type="line"/>
+      <point x="310" y="225" type="line"/>
+      <point x="0" y="225" type="line"/>
+      <point x="0" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="-65" type="line"/>
+      <point x="310" y="-135" type="line"/>
+      <point x="0" y="-135" type="line"/>
+      <point x="0" y="-65" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-135</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>225</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>585</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>310</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

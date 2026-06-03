@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shortuparrow.v1" format="2">
+  <advance width="574"/>
+  <outline>
+    <contour>
+      <point x="494" y="651" type="line"/>
+      <point x="437" y="651" type="line"/>
+      <point x="322" y="767" type="line"/>
+      <point x="322" y="-360" type="line"/>
+      <point x="252" y="-360" type="line"/>
+      <point x="252" y="767" type="line"/>
+      <point x="137" y="651" type="line"/>
+      <point x="80" y="651" type="line"/>
+      <point x="266" y="880" type="line"/>
+      <point x="287" y="880" type="line"/>
+      <point x="308" y="880" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>252</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

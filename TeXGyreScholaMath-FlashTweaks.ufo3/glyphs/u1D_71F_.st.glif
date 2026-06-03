@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u1D71F.st" format="2">
+  <advance width="987"/>
+  <outline>
+    <contour>
+      <point x="922" y="0" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="680" y="747" type="line"/>
+      <point x="751" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="113" type="line"/>
+      <point x="621" y="555" type="line"/>
+      <point x="244" y="113" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

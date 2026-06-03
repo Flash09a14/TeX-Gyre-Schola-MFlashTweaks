@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni219A.md" format="2">
+  <advance width="354"/>
+  <outline>
+    <contour>
+      <point x="354" y="295" type="line"/>
+      <point x="354" y="225" type="line"/>
+      <point x="199" y="225" type="line"/>
+      <point x="160" y="80" type="line"/>
+      <point x="98" y="80" type="line"/>
+      <point x="137" y="225" type="line"/>
+      <point x="0" y="225" type="line"/>
+      <point x="0" y="295" type="line"/>
+      <point x="155" y="295" type="line"/>
+      <point x="194" y="440" type="line"/>
+      <point x="256" y="440" type="line"/>
+      <point x="217" y="295" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>225</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
