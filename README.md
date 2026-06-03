@@ -17,12 +17,12 @@ Just like all OpenType fonts (OTF), you require the `LuaLatex` or `XeLatex` comp
 
 ## Comparison
 ### Without tweaks (vanilla TeX Gyre Schola Math)
-![Without tweaks](WithoutTweaks.png)
+![Without tweaks](NoTweaks.png)
 
 ---
 
 ### With tweaks (this version)
-![With tweaks](WithTweaks.png)
+![With tweaks](Tweaks.png)
 
 Notice the difference in integral height and how much the summation sign protrudes out. I personally prefer those changes.
 ## Legal
