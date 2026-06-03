@@ -9,7 +9,7 @@ This repository contains a modified version of the original font, intended for p
 * Made the summation symbol more angular
 
 ## Files Included
-* `texgyrescholamathflash.sfd`: The source file for FontForge.
+* `texgyrescholamathflash.sfddir`: The source directory for FontForge
 * `texgyrescholamathflash.otf`: The compiled OpenType font, ready to install.
 
 ## Usage
