@@ -1,0 +1,23 @@
+StartChar: guilsinglright.st
+Encoding: 1114412 -1 2406
+Width: 305
+GlyphClass: 2
+Flags: MW
+HStem: 85 317<63 65>
+VStem: 53 200<93 243 243 393>
+LayerCount: 2
+Fore
+SplineSet
+253 243 m 1
+ 186 185 l 1
+ 133 138 l 1
+ 90 100 l 2
+ 78 90 73 84 65 85 c 0
+ 58 85 53 90 53 96 c 0
+ 53 106 66 125 157 243 c 1
+ 67 361 53 381 53 390 c 0
+ 53 396 60 402 66 402 c 0
+ 73 402 78 397 90 387 c 2
+ 253 243 l 1
+EndSplineSet
+EndChar

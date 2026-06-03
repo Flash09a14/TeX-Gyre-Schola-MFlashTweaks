@@ -1,0 +1,34 @@
+StartChar: quotedblbase
+Encoding: 8222 8222 498
+Width: 389
+GlyphClass: 2
+Flags: MW
+HStem: -10 118<115 118 115 115 299 299 299 302>
+VStem: 125 53<-26 -16> 309 53<-26 -16>
+LayerCount: 2
+Fore
+SplineSet
+178 9 m 0
+ 178 -61 136 -122 47 -183 c 1
+ 24 -155 l 1
+ 91 -108 125 -61 125 -19 c 0
+ 125 -13 123 -10 118 -10 c 2
+ 115 -10 l 2
+ 113 -11 103 -11 99 -11 c 0
+ 58 -11 31 12 31 48 c 0
+ 31 82 59 108 96 108 c 0
+ 145 108 178 69 178 9 c 0
+362 9 m 0
+ 362 -61 320 -122 231 -183 c 1
+ 208 -155 l 1
+ 275 -108 309 -61 309 -19 c 0
+ 309 -13 307 -10 302 -10 c 2
+ 299 -10 l 2
+ 297 -11 287 -11 283 -11 c 0
+ 242 -11 215 12 215 48 c 0
+ 215 82 243 108 280 108 c 0
+ 329 108 362 69 362 9 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" quotedblbase.st quotedblbase.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" quotedblbase.st quotedblbase.sts
+EndChar

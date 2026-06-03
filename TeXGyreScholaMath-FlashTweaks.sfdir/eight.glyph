@@ -1,0 +1,36 @@
+StartChar: eight
+Encoding: 56 56 25
+Width: 556
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 283
+HStem: -15 43<225.5 321 225.5 344> 661 43<242.5 320.5>
+VStem: 41 83<124 205.5 124 209.5> 74 77<526 568> 410 74<513 575.5> 433 80<138 192>
+LayerCount: 2
+Fore
+SplineSet
+513 201 m 0xc4
+ 513 75 421 -15 267 -15 c 0
+ 128 -15 41 59 41 168 c 0xe4
+ 41 251 84 304 187 344 c 1
+ 106 387 74 440 74 513 c 0
+ 74 623 163 704 285 704 c 0
+ 400 704 484 637 484 545 c 0xd8
+ 484 480 449 431 374 390 c 1
+ 471 346 513 288 513 201 c 0xc4
+410 539 m 0xd8
+ 410 612 359 661 282 661 c 0
+ 203 661 151 618 151 555 c 0
+ 151 497 186 458 267 429 c 2
+ 333 405 l 1
+ 390 453 410 487 410 539 c 0xd8
+433 159 m 0xe4
+ 433 225 401 264 325 291 c 2
+ 233 324 l 1
+ 155 288 124 243 124 168 c 0
+ 124 80 179 28 272 28 c 0
+ 370 28 433 79 433 159 c 0xe4
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" eight.st eight.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" eight.st eight.sts
+EndChar

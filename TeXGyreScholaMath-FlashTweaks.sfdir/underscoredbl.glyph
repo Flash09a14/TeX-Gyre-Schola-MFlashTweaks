@@ -1,0 +1,22 @@
+StartChar: underscoredbl
+Encoding: 8215 8215 492
+Width: 518
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 259
+HStem: -252 60<80 438 80 438> -126 60<80 438 80 438>
+LayerCount: 2
+Fore
+SplineSet
+438 -126 m 1
+ 80 -126 l 1
+ 80 -66 l 1
+ 438 -66 l 1
+ 438 -126 l 1
+438 -252 m 1
+ 80 -252 l 1
+ 80 -192 l 1
+ 438 -192 l 1
+ 438 -252 l 1
+EndSplineSet
+EndChar

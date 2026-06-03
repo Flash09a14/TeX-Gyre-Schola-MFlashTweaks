@@ -1,0 +1,35 @@
+StartChar: icircumflex.sts
+Encoding: 1114435 -1 2429
+Width: 421
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 8
+HStem: 0 36<56 71 71 109.5 355 370 56 71> 412 43<42 103 42 42> 446 20G<269 269>
+VStem: 156 113<83 362 362 383>
+LayerCount: 2
+Fore
+SplineSet
+370 0 m 1xb0
+ 56 0 l 1
+ 56 36 l 1
+ 71 36 l 2
+ 148 36 156 43 156 83 c 2
+ 156 362 l 2
+ 156 404 148 412 103 412 c 2
+ 42 412 l 1
+ 42 455 l 1xd0
+ 269 466 l 1
+ 269 83 l 2
+ 269 43 277 36 355 36 c 2
+ 370 36 l 1
+ 370 0 l 1xb0
+401 527 m 1
+ 358 527 l 1
+ 212 628 l 1
+ 66 527 l 1
+ 22 527 l 1
+ 174 693 l 1
+ 250 693 l 1
+ 401 527 l 1
+EndSplineSet
+EndChar

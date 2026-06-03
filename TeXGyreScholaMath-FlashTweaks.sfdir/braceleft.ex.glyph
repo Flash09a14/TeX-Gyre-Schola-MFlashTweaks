@@ -1,0 +1,17 @@
+StartChar: braceleft.ex
+Encoding: 1116004 -1 3998
+Width: 678
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<281 393 281 281>
+VStem: 281 112<0 610>
+LayerCount: 2
+Fore
+SplineSet
+393 0 m 1
+ 281 0 l 1
+ 281 610 l 1
+ 393 610 l 1
+ 393 0 l 1
+EndSplineSet
+EndChar

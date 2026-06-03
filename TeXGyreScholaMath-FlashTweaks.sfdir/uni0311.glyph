@@ -1,0 +1,20 @@
+StartChar: uni0311
+Encoding: 785 785 311
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -269
+GlyphVariantsHorizontal: uni0311 uni0311.h1 uni0311.h2 uni0311.h3 uni0311.h4 uni0311.h5 uni0311.h6
+HStem: 664 60<-304 -234>
+LayerCount: 2
+Fore
+SplineSet
+-75 591 m 1
+ -105 581 l 1
+ -126 644 -199 664 -269 664 c 0
+ -339 664 -412 644 -433 581 c 1
+ -463 591 l 1
+ -436 673 -356 724 -269 724 c 0
+ -182 724 -102 673 -75 591 c 1
+EndSplineSet
+EndChar

@@ -1,0 +1,32 @@
+StartChar: uni2B0D
+Encoding: 11021 11021 1100
+Width: 580
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: uni2B0D uni2B0D.v1
+GlyphCompositionVertical: 3  uni2B0D.bt%0,0,180,540 uni2B0D.ex%1,360,360,360 uni2B0D.tp%0,180,0,540
+VStem: 205 170<55 465 55 465>
+LayerCount: 2
+Fore
+SplineSet
+500 13 m 1
+ 311 -250 l 1
+ 290 -250 l 1
+ 269 -250 l 1
+ 80 13 l 1
+ 80 55 l 1
+ 205 55 l 1
+ 205 465 l 1
+ 80 465 l 1
+ 80 507 l 1
+ 269 770 l 1
+ 290 770 l 1
+ 311 770 l 1
+ 500 507 l 1
+ 500 465 l 1
+ 375 465 l 1
+ 375 55 l 1
+ 500 55 l 1
+ 500 13 l 1
+EndSplineSet
+EndChar

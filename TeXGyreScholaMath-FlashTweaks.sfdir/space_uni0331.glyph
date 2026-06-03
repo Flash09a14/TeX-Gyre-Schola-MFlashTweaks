@@ -1,0 +1,19 @@
+StartChar: space_uni0331
+Encoding: 1114123 -1 2117
+Width: 333
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 18
+TopAccentHorizontal: 167
+HStem: -171 54<10 323 10 323>
+VStem: 10 313<-171 -117 -171 -117>
+LayerCount: 2
+Fore
+SplineSet
+323 -171 m 1
+ 10 -171 l 1
+ 10 -117 l 1
+ 323 -117 l 1
+ 323 -171 l 1
+EndSplineSet
+EndChar

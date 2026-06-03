@@ -1,0 +1,29 @@
+StartChar: u1D45C
+Encoding: 119900 119900 1204
+Width: 500
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 262
+HStem: -15 38<155 210.5 155 219> 432 38<249 295.5>
+VStem: 5 90<115 169.5 94 213.5> 355 95<283 333 244 347.5>
+LayerCount: 2
+Fore
+SplineSet
+450 281 m 0
+ 450 207 418 127 365 67 c 0
+ 317 13 255 -15 183 -15 c 0
+ 74 -15 5 58 5 172 c 0
+ 5 255 34 327 89 384 c 0
+ 143 440 208 470 273 470 c 0
+ 370 470 450 385 450 281 c 0
+355 309 m 0
+ 355 386 323 432 268 432 c 0
+ 230 432 198 414 170 378 c 0
+ 129 323 95 211 95 128 c 0
+ 95 60 126 23 184 23 c 0
+ 237 23 274 53 308 122 c 0
+ 335 177 355 257 355 309 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D45C.st u1D45C.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D45C.st u1D45C.sts
+EndChar

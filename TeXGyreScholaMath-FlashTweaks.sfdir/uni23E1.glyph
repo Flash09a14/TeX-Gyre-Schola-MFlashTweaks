@@ -1,0 +1,23 @@
+StartChar: uni23E1
+Encoding: 9185 9185 980
+Width: 584
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 28
+GlyphVariantsHorizontal: uni23E1 uni23E1.h1 uni23E1.h2 uni23E1.h3 uni23E1.h4 uni23E1.h5 uni23E1.h6
+GlyphCompositionHorizontal: 3  uni23E1.lft%0,0,602,1806 uni23E1.ex%1,1204,1204,1204 uni23E1.rt%0,602,0,1806
+HStem: -292 84<179 405 179 405>
+LayerCount: 2
+Fore
+SplineSet
+584 -113 m 1
+ 405 -292 l 1
+ 179 -292 l 1
+ 0 -113 l 1
+ 84 -113 l 1
+ 179 -208 l 1
+ 405 -208 l 1
+ 500 -113 l 1
+ 584 -113 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,21 @@
+StartChar: uni27C2
+Encoding: 10178 10178 1035
+Width: 780
+GlyphClass: 2
+Flags: MW
+HStem: 0 70<80 355 425 700 80 355>
+VStem: 355 70<70 670 70 670>
+LayerCount: 2
+Fore
+SplineSet
+700 0 m 1
+ 80 0 l 1
+ 80 70 l 1
+ 355 70 l 1
+ 355 670 l 1
+ 425 670 l 1
+ 425 70 l 1
+ 700 70 l 1
+ 700 0 l 1
+EndSplineSet
+EndChar

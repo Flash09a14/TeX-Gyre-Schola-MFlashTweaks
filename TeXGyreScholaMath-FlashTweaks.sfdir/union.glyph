@@ -1,0 +1,23 @@
+StartChar: union
+Encoding: 8746 8746 733
+Width: 780
+GlyphClass: 2
+Flags: MW
+HStem: -68 70<317 463 317 484.5>
+VStem: 80 70<242 570> 630 70<242 570>
+LayerCount: 2
+Fore
+SplineSet
+700 242 m 2
+ 700 53 579 -68 390 -68 c 0
+ 201 -68 80 53 80 242 c 2
+ 80 570 l 1
+ 150 570 l 1
+ 150 242 l 2
+ 150 96 244 2 390 2 c 0
+ 536 2 630 96 630 242 c 2
+ 630 570 l 1
+ 700 570 l 1
+ 700 242 l 2
+EndSplineSet
+EndChar

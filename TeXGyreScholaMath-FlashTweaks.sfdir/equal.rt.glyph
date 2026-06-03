@@ -1,0 +1,22 @@
+StartChar: equal.rt
+Encoding: 1116143 -1 4137
+Width: 207
+GlyphClass: 2
+Flags: MW
+HStem: 125 70<0 207 0 207> 325 70<0 207 0 207>
+VStem: 0 207<125 195 125 195 325 395>
+LayerCount: 2
+Fore
+SplineSet
+207 325 m 1
+ 0 325 l 1
+ 0 395 l 1
+ 207 395 l 1
+ 207 325 l 1
+207 125 m 1
+ 0 125 l 1
+ 0 195 l 1
+ 207 195 l 1
+ 207 125 l 1
+EndSplineSet
+EndChar

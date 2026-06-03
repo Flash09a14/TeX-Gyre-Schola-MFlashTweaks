@@ -1,0 +1,30 @@
+StartChar: arrowdbldown
+Encoding: 8659 8659 675
+Width: 633
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: arrowdbldown arrowdbldown.v1
+GlyphCompositionVertical: 3  arrowdbldown.bt%0,0,155,465 arrowdbldown.ex%1,310,310,310 arrowdbldown.tp%0,155,0,465
+VStem: 197 70<65 670 -4 670> 367 70<65 670 65 670 65 670>
+LayerCount: 2
+Fore
+SplineSet
+553 123 m 1
+ 338 -150 l 1
+ 317 -150 l 1
+ 296 -150 l 1
+ 80 123 l 1
+ 137 123 l 1
+ 197 65 l 1
+ 197 670 l 1
+ 267 670 l 1
+ 267 -4 l 1
+ 317 -53 l 1
+ 367 -4 l 1
+ 367 670 l 1
+ 437 670 l 1
+ 437 65 l 1
+ 497 123 l 1
+ 553 123 l 1
+EndSplineSet
+EndChar

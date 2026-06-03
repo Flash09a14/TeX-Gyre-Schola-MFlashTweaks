@@ -1,0 +1,28 @@
+StartChar: uni222D.ex
+Encoding: 1116242 -1 4236
+Width: 1784
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<339 479 339 339 822 822 822 962 1305 1305 1305 1445>
+VStem: 339 140<0 594 0 594> 822 140<0 594> 1305 140<0 594>
+CounterMasks: 1 70
+LayerCount: 2
+Fore
+SplineSet
+479 594 m 1
+ 479 0 l 1
+ 339 0 l 1
+ 339 594 l 1
+ 479 594 l 1
+962 0 m 1
+ 822 0 l 1
+ 822 594 l 1
+ 962 594 l 1
+ 962 0 l 1
+1445 0 m 1
+ 1305 0 l 1
+ 1305 594 l 1
+ 1445 594 l 1
+ 1445 0 l 1
+EndSplineSet
+EndChar

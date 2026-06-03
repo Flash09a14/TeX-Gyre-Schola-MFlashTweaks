@@ -1,0 +1,27 @@
+StartChar: u1D704.st
+Encoding: 1115256 -1 3250
+Width: 467
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 245
+HStem: -9 48<178 257> 452 20G<302 302>
+VStem: 100 264
+LayerCount: 2
+Fore
+SplineSet
+364 165 m 1
+ 345 111 319 68 292 35 c 0
+ 280 22 265 10 249 2 c 0
+ 232 -6 214 -9 194 -9 c 0
+ 162 -9 140 2 123 22 c 0
+ 106 43 97 72 100 114 c 0
+ 102 133 112 174 133 234 c 2
+ 217 466 l 1
+ 302 472 l 1
+ 214 216 l 2
+ 195 161 186 122 184 99 c 0
+ 181 64 198 39 229 39 c 0
+ 285 39 321 118 345 170 c 1
+ 364 165 l 1
+EndSplineSet
+EndChar

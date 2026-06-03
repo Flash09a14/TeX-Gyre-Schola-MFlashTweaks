@@ -1,0 +1,18 @@
+StartChar: uni23DC.ex
+Encoding: 1116033 -1 4027
+Width: 874
+GlyphClass: 2
+Flags: MW
+HStem: 700 112<0 10 0 10 10 874>
+LayerCount: 2
+Fore
+SplineSet
+874 812 m 1
+ 874 700 l 1
+ 10 700 l 1
+ 0 700 l 1
+ 0 812 l 1
+ 10 812 l 1
+ 874 812 l 1
+EndSplineSet
+EndChar

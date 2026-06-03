@@ -1,0 +1,32 @@
+StartChar: twoheaddownarrow.bt
+Encoding: 1115576 -1 3570
+Width: 574
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<266 287 266 266 287 308>
+VStem: 252 70<113 217 113 217 312 540>
+LayerCount: 2
+Fore
+SplineSet
+494 428 m 1
+ 322 217 l 1
+ 322 113 l 1
+ 437 229 l 1
+ 494 229 l 1
+ 308 0 l 1
+ 287 0 l 1
+ 266 0 l 1
+ 80 229 l 1
+ 137 229 l 1
+ 252 113 l 1
+ 252 217 l 1
+ 80 428 l 1
+ 137 428 l 1
+ 252 312 l 1
+ 252 540 l 1
+ 322 540 l 1
+ 322 312 l 1
+ 437 428 l 1
+ 494 428 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,47 @@
+StartChar: uni2B31
+Encoding: 11057 11057 1102
+Width: 980
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+GlyphVariantsHorizontal: uni2B31 uni2B31.h1
+GlyphCompositionHorizontal: 3  uni2B31.lft%0,0,155,465 uni2B31.ex%1,310,310,310 uni2B31.rt%0,155,0,465
+HStem: -135 70<193 900 193 900> 225 70<193 900 193 900> 585 70<193 900 193 900>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+900 -135 m 1
+ 193 -135 l 1
+ 309 -250 l 1
+ 309 -307 l 1
+ 80 -121 l 1
+ 80 -100 l 1
+ 80 -79 l 1
+ 276 80 l 1
+ 80 239 l 1
+ 80 260 l 1
+ 80 281 l 1
+ 276 440 l 1
+ 80 599 l 1
+ 80 620 l 1
+ 80 641 l 1
+ 309 827 l 1
+ 309 770 l 1
+ 193 655 l 1
+ 900 655 l 1
+ 900 585 l 1
+ 193 585 l 1
+ 309 467 l 1
+ 309 410 l 1
+ 193 295 l 1
+ 900 295 l 1
+ 900 225 l 1
+ 193 225 l 1
+ 309 107 l 1
+ 309 50 l 1
+ 193 -65 l 1
+ 900 -65 l 1
+ 900 -135 l 1
+EndSplineSet
+EndChar

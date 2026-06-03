@@ -1,0 +1,17 @@
+StartChar: uni21BE.ex
+Encoding: 1115642 -1 3636
+Width: 402
+GlyphClass: 2
+Flags: MW
+HStem: 0 310<80 150 80 150>
+VStem: 80 70<0 310>
+LayerCount: 2
+Fore
+SplineSet
+150 0 m 1
+ 80 0 l 1
+ 80 310 l 1
+ 150 310 l 1
+ 150 0 l 1
+EndSplineSet
+EndChar

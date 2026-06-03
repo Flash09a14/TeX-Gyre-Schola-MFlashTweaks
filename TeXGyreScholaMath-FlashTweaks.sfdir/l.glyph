@@ -1,0 +1,29 @@
+StartChar: l
+Encoding: 108 108 77
+Width: 315
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 112
+HStem: 0 36<28 45 45 77 270 287 28 45> 683 43<19 68 19 19> 717 20G<204 204>
+VStem: 110 94<83 633 633 654.5>
+LayerCount: 2
+Fore
+SplineSet
+287 0 m 1xb0
+ 28 0 l 1
+ 28 36 l 1
+ 45 36 l 2
+ 109 36 110 43 110 83 c 2
+ 110 633 l 2
+ 110 676 104 683 68 683 c 2
+ 19 683 l 1
+ 19 726 l 1xd0
+ 204 737 l 1
+ 204 83 l 2
+ 204 43 205 36 270 36 c 2
+ 287 36 l 1
+ 287 0 l 1xb0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" l.st l.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" l.st l.sts
+EndChar

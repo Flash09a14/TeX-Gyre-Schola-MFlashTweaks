@@ -1,0 +1,28 @@
+StartChar: u1D79D
+Encoding: 120733 120733 2012
+Width: 771
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 38
+TopAccentHorizontal: 503
+HStem: 0 130<76 584 40 619> 297 135<278 542 241 579> 598 130<237 744 202 781>
+LayerCount: 2
+Fore
+SplineSet
+781 728 m 1
+ 744 598 l 1
+ 202 598 l 1
+ 237 728 l 1
+ 781 728 l 1
+619 130 m 1
+ 584 0 l 1
+ 40 0 l 1
+ 76 130 l 1
+ 619 130 l 1
+579 432 m 1
+ 542 297 l 1
+ 241 297 l 1
+ 278 432 l 1
+ 579 432 l 1
+EndSplineSet
+EndChar

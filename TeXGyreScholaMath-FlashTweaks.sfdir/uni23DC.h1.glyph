@@ -1,0 +1,21 @@
+StartChar: uni23DC.h1
+Encoding: 1115898 -1 3892
+Width: 1025
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 28
+HStem: 682 74<360 568 456 568>
+LayerCount: 2
+Fore
+SplineSet
+1025 591 m 1
+ 1000 571 l 1
+ 933 651 761 682 568 682 c 2
+ 456 682 l 2
+ 264 682 92 651 25 571 c 1
+ 0 591 l 1
+ 73 679 247 756 456 756 c 2
+ 568 756 l 2
+ 778 756 951 679 1025 591 c 1
+EndSplineSet
+EndChar

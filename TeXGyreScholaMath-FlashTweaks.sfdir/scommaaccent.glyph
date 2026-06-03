@@ -1,0 +1,52 @@
+StartChar: scommaaccent
+Encoding: 537 537 285
+Width: 463
+GlyphClass: 2
+Flags: MW
+HStem: -146 106<243 246 243 243> -15 43<233 288.5 217 307> -7 21G<51 86 51 51> 437 44<181.5 228>
+VStem: 51 40<-7 182 182 182> 58 58<357 379.5> 252 48<-175.5 -100.5> 355 35<309 477 309 477> 359 62<92.5 128>
+LayerCount: 2
+Fore
+SplineSet
+421 139 m 0xd680
+ 421 46 356 -15 258 -15 c 0xd680
+ 208 -15 162 1 121 34 c 1
+ 86 -7 l 1
+ 51 -7 l 1xba80
+ 51 182 l 1
+ 91 182 l 1
+ 115 82 175 28 259 28 c 0
+ 318 28 359 61 359 108 c 0xda80
+ 359 148 331 168 252 187 c 2
+ 199 199 l 2
+ 139 213 116 223 93 244 c 0
+ 71 264 58 297 58 336 c 0
+ 58 423 116 481 204 481 c 0
+ 254 481 290 469 326 441 c 1
+ 355 477 l 1
+ 390 477 l 1
+ 390 309 l 1
+ 355 309 l 1xd7
+ 339 355 328 375 306 397 c 0
+ 278 424 247 437 209 437 c 0
+ 154 437 116 408 116 368 c 0
+ 116 346 129 325 151 315 c 0
+ 169 305 169 305 224 293 c 2
+ 274 282 l 2
+ 335 269 355 261 379 240 c 0
+ 407 217 421 183 421 139 c 0xd680
+300 -126 m 0
+ 300 -163 286 -203 262 -235 c 0
+ 249 -252 230 -273 181 -302 c 1
+ 161 -277 l 1
+ 220 -240 252 -197 252 -154 c 0
+ 252 -149 250 -146 246 -146 c 2
+ 243 -146 l 2
+ 239 -147 236 -147 231 -147 c 0
+ 191 -147 167 -127 167 -94 c 0
+ 167 -63 192 -40 226 -40 c 0
+ 269 -40 300 -75 300 -126 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" scommaaccent.st scommaaccent.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" scommaaccent.st scommaaccent.sts
+EndChar

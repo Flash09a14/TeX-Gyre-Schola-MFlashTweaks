@@ -1,0 +1,44 @@
+StartChar: uni021B
+Encoding: 539 539 287
+Width: 389
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 13
+HStem: -146 106<238 241 238 238> -15 61<230 275.5> 423 43<194 341 194 341>
+VStem: 100 94<168 423> 153 41<664 664> 247 48<-175.5 -100.5> 331 43<111.5 182>
+LayerCount: 2
+Fore
+SplineSet
+374 159 m 0xf6
+ 374 64 325 -15 226 -15 c 0
+ 167 -15 129 8 112 50 c 0
+ 102 73 100 97 100 168 c 2
+ 100 423 l 1xf6
+ 18 423 l 1
+ 18 462 l 1
+ 99 468 143 534 153 664 c 1
+ 194 664 l 1
+ 194 466 l 1xee
+ 341 466 l 1
+ 341 423 l 1
+ 194 423 l 1
+ 194 150 l 2
+ 194 71 207 46 253 46 c 0
+ 302 46 328 92 331 182 c 1
+ 373 182 l 1
+ 374 172 374 165 374 159 c 0xf6
+295 -126 m 0
+ 295 -163 281 -203 257 -235 c 0
+ 244 -252 225 -273 176 -302 c 1
+ 156 -277 l 1
+ 215 -240 247 -197 247 -154 c 0
+ 247 -149 245 -146 241 -146 c 2
+ 238 -146 l 2
+ 234 -147 231 -147 226 -147 c 0
+ 186 -147 162 -127 162 -94 c 0
+ 162 -63 187 -40 221 -40 c 0
+ 264 -40 295 -75 295 -126 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" uni021B.st uni021B.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" uni021B.st uni021B.sts
+EndChar

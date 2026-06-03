@@ -1,0 +1,29 @@
+StartChar: updownarrows.tp
+Encoding: 1115667 -1 3661
+Width: 934
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<252 322 252 252 612 612 612 682>
+VStem: 252 70<0 352 0 352> 612 70<0 465>
+LayerCount: 2
+Fore
+SplineSet
+494 236 m 1
+ 437 236 l 1
+ 322 352 l 1
+ 322 0 l 1
+ 252 0 l 1
+ 252 352 l 1
+ 137 236 l 1
+ 80 236 l 1
+ 266 465 l 1
+ 287 465 l 1
+ 308 465 l 1
+ 494 236 l 1
+682 0 m 1
+ 612 0 l 1
+ 612 465 l 1
+ 682 465 l 1
+ 682 0 l 1
+EndSplineSet
+EndChar

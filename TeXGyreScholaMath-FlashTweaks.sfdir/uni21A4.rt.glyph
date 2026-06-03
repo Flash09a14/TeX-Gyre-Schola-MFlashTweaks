@@ -1,0 +1,22 @@
+StartChar: uni21A4.rt
+Encoding: 1115589 -1 3583
+Width: 465
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<0 400 0 400>
+VStem: 400 65<225 225 295 295> 423 42<80 80>
+LayerCount: 2
+Fore
+SplineSet
+465 80 m 1xa0
+ 423 80 l 1xa0
+ 400 225 l 1
+ 0 225 l 1
+ 0 295 l 1
+ 400 295 l 1xc0
+ 423 440 l 1
+ 465 440 l 1
+ 465 260 l 1
+ 465 80 l 1xa0
+EndSplineSet
+EndChar

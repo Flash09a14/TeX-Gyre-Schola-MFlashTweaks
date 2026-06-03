@@ -1,0 +1,16 @@
+StartChar: uni21BC.rt
+Encoding: 1115627 -1 3621
+Width: 465
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<0 465 0 465>
+LayerCount: 2
+Fore
+SplineSet
+465 225 m 1
+ 0 225 l 1
+ 0 295 l 1
+ 465 295 l 1
+ 465 225 l 1
+EndSplineSet
+EndChar

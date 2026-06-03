@@ -1,0 +1,25 @@
+StartChar: tilde.st
+Encoding: 1114744 -1 2738
+Width: 386
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 17
+TopAccentHorizontal: 184
+HStem: 557 55<273 287.5> 599 59<94 109>
+VStem: 11 39<557 557> 337 38<663 663>
+LayerCount: 2
+Fore
+SplineSet
+375 663 m 1xb0
+ 368 600 319 557 256 557 c 0xb0
+ 228 557 215 561 159 585 c 0
+ 138 594 117 599 101 599 c 0x70
+ 76 599 57 584 50 557 c 1
+ 11 557 l 1xb0
+ 25 619 67 658 121 658 c 0x70
+ 146 658 155 656 216 631 c 0
+ 253 616 265 612 281 612 c 0
+ 306 612 330 634 337 663 c 1
+ 375 663 l 1xb0
+EndSplineSet
+EndChar

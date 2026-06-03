@@ -1,0 +1,21 @@
+StartChar: uni21E7.bt
+Encoding: 1115768 -1 3762
+Width: 622
+GlyphClass: 2
+Flags: MW
+HStem: 0 42<247 375 247 417>
+VStem: 205 42<42 556 42 556 42 556> 375 42<42 556>
+LayerCount: 2
+Fore
+SplineSet
+417 0 m 1
+ 205 0 l 1
+ 205 556 l 1
+ 247 556 l 1
+ 247 42 l 1
+ 375 42 l 1
+ 375 556 l 1
+ 417 556 l 1
+ 417 0 l 1
+EndSplineSet
+EndChar

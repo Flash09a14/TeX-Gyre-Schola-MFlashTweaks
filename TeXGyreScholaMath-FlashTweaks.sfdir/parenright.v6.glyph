@@ -1,0 +1,21 @@
+StartChar: parenright.v6
+Encoding: 1115993 -1 3987
+Width: 770
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+VStem: 458 121<56 464>
+LayerCount: 2
+Fore
+SplineSet
+579 56 m 2
+ 579 -411 374 -804 114 -977 c 1
+ 96 -951 l 1
+ 341 -787 458 -385 458 56 c 2
+ 458 464 l 2
+ 458 905 341 1307 96 1471 c 1
+ 114 1497 l 1
+ 374 1324 579 931 579 464 c 2
+ 579 56 l 2
+EndSplineSet
+EndChar

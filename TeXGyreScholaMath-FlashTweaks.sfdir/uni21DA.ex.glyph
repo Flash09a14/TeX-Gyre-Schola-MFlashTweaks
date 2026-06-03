@@ -1,0 +1,27 @@
+StartChar: uni21DA.ex
+Encoding: 1115752 -1 3746
+Width: 360
+GlyphClass: 2
+Flags: MW
+HStem: 55 70<0 360 0 360> 225 70<0 360 0 360> 395 70<0 360 0 360>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+360 55 m 1
+ 0 55 l 1
+ 0 125 l 1
+ 360 125 l 1
+ 360 55 l 1
+360 295 m 1
+ 360 225 l 1
+ 0 225 l 1
+ 0 295 l 1
+ 360 295 l 1
+360 465 m 1
+ 360 395 l 1
+ 0 395 l 1
+ 0 465 l 1
+ 360 465 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,37 @@
+StartChar: V
+Encoding: 86 86 55
+Width: 722
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 37
+TopAccentHorizontal: 362
+HStem: 675 47<-8 12 -8 304 241.5 264 264 304 460 479 684.5 713 713 731>
+LayerCount: 2
+Fore
+SplineSet
+731 675 m 1
+ 713 675 l 2
+ 656 675 642 655 612 577 c 2
+ 382 -15 l 1
+ 342 -15 l 1
+ 89 619 l 2
+ 70 665 56 675 12 675 c 2
+ -8 675 l 1
+ -8 722 l 1
+ 304 722 l 1
+ 304 675 l 1
+ 264 675 l 2
+ 219 675 202 668 202 650 c 0
+ 202 644 205 632 210 620 c 2
+ 393 155 l 1
+ 548 567 l 2
+ 555 586 560 609 560 623 c 0
+ 560 655 530 675 479 675 c 2
+ 460 675 l 1
+ 460 722 l 1
+ 731 722 l 1
+ 731 675 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" V.st V.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" V.st V.sts
+EndChar

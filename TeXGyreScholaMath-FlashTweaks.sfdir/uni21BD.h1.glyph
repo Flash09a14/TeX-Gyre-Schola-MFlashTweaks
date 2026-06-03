@@ -1,0 +1,19 @@
+StartChar: uni21BD.h1
+Encoding: 1115631 -1 3625
+Width: 1400
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<208 1320 208 208>
+LayerCount: 2
+Fore
+SplineSet
+1320 225 m 1
+ 208 225 l 1
+ 325 110 l 1
+ 325 53 l 1
+ 80 253 l 1
+ 80 295 l 1
+ 1320 295 l 1
+ 1320 225 l 1
+EndSplineSet
+EndChar

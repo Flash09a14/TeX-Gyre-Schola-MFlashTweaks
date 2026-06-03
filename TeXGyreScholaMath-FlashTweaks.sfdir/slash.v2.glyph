@@ -1,0 +1,16 @@
+StartChar: slash.v2
+Encoding: 1116091 -1 4085
+Width: 643
+GlyphClass: 2
+Flags: W
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+563 1034 m 1
+ 148 -514 l 1
+ 80 -514 l 1
+ 495 1034 l 1
+ 563 1034 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,28 @@
+StartChar: uni27E6
+Encoding: 10214 10214 1047
+Width: 479
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: uni27E6 uni27E6.v1 uni27E6.v2 uni27E6.v3 uni27E6.v4 uni27E6.v5 uni27E6.v6
+GlyphCompositionVertical: 3  uni27E6.bt%0,0,416,833 uni27E6.ex%1,832,832,832 uni27E6.tp%0,416,0,833
+HStem: -171 42<202 280 322 399> 649 42<202 280 202 202 322 399 322 322>
+VStem: 160 42<-129 649 -129 691> 280 42<-129 649 -129 649>
+LayerCount: 2
+Fore
+SplineSet
+399 -129 m 1
+ 399 -171 l 1
+ 160 -171 l 1
+ 160 691 l 1
+ 399 691 l 1
+ 399 649 l 1
+ 322 649 l 1
+ 322 -129 l 1
+ 399 -129 l 1
+280 649 m 1
+ 202 649 l 1
+ 202 -129 l 1
+ 280 -129 l 1
+ 280 649 l 1
+EndSplineSet
+EndChar

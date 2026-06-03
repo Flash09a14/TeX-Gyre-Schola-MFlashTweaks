@@ -1,0 +1,19 @@
+StartChar: rightharpoonaccent.h1
+Encoding: 1115484 -1 3478
+Width: 697
+GlyphClass: 2
+Flags: MW
+HStem: 622 60<80 507 80 617 80 507>
+LayerCount: 2
+Fore
+SplineSet
+617 622 m 1
+ 80 622 l 1
+ 80 682 l 1
+ 507 682 l 1
+ 443 749 l 1
+ 443 792 l 1
+ 617 654 l 1
+ 617 622 l 1
+EndSplineSet
+EndChar

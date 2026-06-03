@@ -1,0 +1,18 @@
+StartChar: uni2035.st
+Encoding: 1116151 -1 4145
+Width: 410
+GlyphClass: 2
+Flags: MW
+VStem: 66 278
+LayerCount: 2
+Fore
+SplineSet
+344 156 m 1
+ 297 156 l 1
+ 78 479 l 2
+ 71 490 66 504 66 519 c 0
+ 66 560 99 592 139 592 c 0
+ 170 592 197 572 204 552 c 2
+ 344 156 l 1
+EndSplineSet
+EndChar

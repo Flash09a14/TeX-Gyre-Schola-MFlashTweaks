@@ -1,0 +1,22 @@
+StartChar: bracketleft.v2
+Encoding: 1115910 -1 3904
+Width: 517
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -352 44<262 432 262 432> 828 44<262 432 262 262>
+VStem: 170 92<-308 828 -308 872 -308 872>
+LayerCount: 2
+Fore
+SplineSet
+432 -352 m 1
+ 170 -352 l 1
+ 170 872 l 1
+ 432 872 l 1
+ 432 828 l 1
+ 262 828 l 1
+ 262 -308 l 1
+ 432 -308 l 1
+ 432 -352 l 1
+EndSplineSet
+EndChar

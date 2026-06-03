@@ -1,0 +1,22 @@
+StartChar: arrowdblup.ex
+Encoding: 1115712 -1 3706
+Width: 633
+GlyphClass: 2
+Flags: MW
+HStem: 0 310<197 267 197 267 197 367 367 437>
+VStem: 197 70<0 310> 367 70<0 310 0 310>
+LayerCount: 2
+Fore
+SplineSet
+267 0 m 1
+ 197 0 l 1
+ 197 310 l 1
+ 267 310 l 1
+ 267 0 l 1
+437 310 m 1
+ 437 0 l 1
+ 367 0 l 1
+ 367 310 l 1
+ 437 310 l 1
+EndSplineSet
+EndChar

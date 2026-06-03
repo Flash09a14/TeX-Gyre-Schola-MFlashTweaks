@@ -1,0 +1,24 @@
+StartChar: greaterequal
+Encoding: 8805 8805 792
+Width: 787
+GlyphClass: 2
+Flags: MW
+HStem: -96 70<80 707 80 707>
+LayerCount: 2
+Fore
+SplineSet
+707 310 m 1
+ 80 64 l 1
+ 80 140 l 1
+ 604 345 l 1
+ 80 550 l 1
+ 80 626 l 1
+ 707 380 l 1
+ 707 310 l 1
+707 -96 m 1
+ 80 -96 l 1
+ 80 -26 l 1
+ 707 -26 l 1
+ 707 -96 l 1
+EndSplineSet
+EndChar

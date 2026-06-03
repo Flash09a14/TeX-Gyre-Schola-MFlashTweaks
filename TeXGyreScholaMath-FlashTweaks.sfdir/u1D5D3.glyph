@@ -1,0 +1,27 @@
+StartChar: u1D5D3
+Encoding: 120275 120275 1556
+Width: 502
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 258
+HStem: 0 70<160 436 160 436> 436 70<70 343 70 446>
+LayerCount: 2
+Fore
+SplineSet
+446 468 m 2
+ 446 461 445 455 443 450 c 0
+ 441 443 438 438 434 434 c 2
+ 160 70 l 1
+ 436 70 l 1
+ 436 0 l 1
+ 55 0 l 1
+ 55 37 l 2
+ 55 41 56 46 58 52 c 0
+ 60 58 63 64 67 69 c 2
+ 343 436 l 1
+ 70 436 l 1
+ 70 506 l 1
+ 446 506 l 1
+ 446 468 l 2
+EndSplineSet
+EndChar

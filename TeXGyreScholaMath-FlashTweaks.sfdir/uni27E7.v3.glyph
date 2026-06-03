@@ -1,0 +1,27 @@
+StartChar: uni27E7.v3
+Encoding: 1115939 -1 3933
+Width: 533
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -471 46<87 176 222 312 87 176> 945 46<87 176 87 358 222 222 222 312>
+VStem: 176 46<-425 945 -425 945> 312 46<-425 945 945 945>
+LayerCount: 2
+Fore
+SplineSet
+358 991 m 1
+ 358 -471 l 1
+ 87 -471 l 1
+ 87 -425 l 1
+ 176 -425 l 1
+ 176 945 l 1
+ 87 945 l 1
+ 87 991 l 1
+ 358 991 l 1
+312 -425 m 1
+ 312 945 l 1
+ 222 945 l 1
+ 222 -425 l 1
+ 312 -425 l 1
+EndSplineSet
+EndChar

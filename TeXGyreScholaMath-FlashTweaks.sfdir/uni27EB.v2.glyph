@@ -1,0 +1,25 @@
+StartChar: uni27EB.v2
+Encoding: 1116061 -1 4055
+Width: 770
+GlyphClass: 2
+Flags: W
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+685 260 m 1
+ 414 -444 l 1
+ 367 -444 l 1
+ 560 260 l 1
+ 366 964 l 1
+ 414 964 l 1
+ 685 260 l 1
+404 260 m 1
+ 133 -444 l 1
+ 85 -444 l 1
+ 278 260 l 1
+ 85 964 l 1
+ 133 964 l 1
+ 404 260 l 1
+EndSplineSet
+EndChar

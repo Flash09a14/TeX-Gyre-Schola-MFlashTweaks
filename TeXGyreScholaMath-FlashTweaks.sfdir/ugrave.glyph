@@ -1,0 +1,47 @@
+StartChar: ugrave
+Encoding: 249 249 178
+Width: 611
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 11
+HStem: -15 61<265.5 289> -7 21G<412 412> 0 43<569 594> 412 43<21 59 21 21> 446 20G<196 196 506 506>
+VStem: 102 94<146 161 161 362 362 383.5> 412 94<-7 116 76 116 239 362 362 383.5>
+LayerCount: 2
+Fore
+SplineSet
+594 0 m 1x2e
+ 412 -7 l 1x46
+ 412 76 l 1
+ 368 12 322 -15 256 -15 c 0
+ 196 -15 148 8 121 49 c 0
+ 106 72 102 95 102 146 c 2
+ 102 362 l 2
+ 102 405 96 412 59 412 c 2
+ 21 412 l 1
+ 21 455 l 1x96
+ 196 466 l 1x0e
+ 196 161 l 2
+ 196 106 198 96 211 77 c 0
+ 224 57 250 46 281 46 c 0
+ 330 46 370 72 391 116 c 0
+ 406 149 412 182 412 239 c 2
+ 412 362 l 2
+ 412 405 406 412 369 412 c 2
+ 318 412 l 1
+ 318 455 l 1x96
+ 506 466 l 1
+ 506 116 l 2
+ 506 52 514 43 569 43 c 2
+ 594 43 l 1
+ 594 0 l 1x2e
+380 524 m 1
+ 339 524 l 1
+ 180 621 l 2
+ 165 630 155 646 155 660 c 0
+ 155 679 171 695 190 695 c 0
+ 205 695 215 689 240 664 c 2
+ 380 524 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" ugrave.st ugrave.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" ugrave.st ugrave.sts
+EndChar

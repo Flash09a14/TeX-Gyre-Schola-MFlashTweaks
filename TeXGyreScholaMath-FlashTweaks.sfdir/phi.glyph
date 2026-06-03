@@ -1,0 +1,38 @@
+StartChar: phi
+Encoding: 966 966 370
+Width: 695
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 435
+HStem: -9 36<308.5 318 308.5 318> 451 30<399.5 459.5>
+VStem: 80 78<188.5 263 182 268.5> 305 59 318 46<-42 -9 -9 27> 535 80<172.5 282>
+LayerCount: 2
+Fore
+SplineSet
+535 228 m 0xec
+ 535 336 496 451 423 451 c 0
+ 376 451 361 380 361 305 c 2
+ 364 27 l 1
+ 471 21 535 117 535 228 c 0xec
+615 230 m 0
+ 615 73 531 -9 364 -9 c 1xec
+ 362 -136 l 2
+ 361 -169 361 -212 364 -264 c 0
+ 366 -300 356 -318 334 -316 c 0
+ 319 -316 308 -299 305 -281 c 0xf4
+ 302 -263 303 -234 308 -195 c 0
+ 315 -137 318 -75 318 -9 c 1
+ 266 -9 217 12 178 39 c 0
+ 124 78 80 154 80 223 c 0
+ 80 314 140 387 180 387 c 0
+ 196 387 200 372 200 358 c 0
+ 200 335 158 308 158 218 c 0
+ 158 146 189 68 261 38 c 0
+ 280 30 299 27 318 27 c 1
+ 321 286 l 2
+ 321 305 327 481 421 481 c 0
+ 531 481 615 357 615 230 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" phi.st phi.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" phi.st phi.sts
+EndChar

@@ -1,0 +1,39 @@
+StartChar: u1D6F5
+Encoding: 120565 120565 1844
+Width: 691
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 88
+TopAccentHorizontal: 444
+HStem: 0 31<93 177 177 190 350 426 85 177> 691 31<326.5 340 340 395 485 540 485 485>
+VStem: 646 27<417 417>
+LayerCount: 2
+Fore
+SplineSet
+751 722 m 1
+ 673 417 l 1
+ 646 417 l 1
+ 661 490 663 580 645 625 c 0
+ 638 642 624 657 607 670 c 0
+ 588 684 567 691 540 691 c 2
+ 485 691 l 1
+ 319 71 l 2
+ 312 45 325 31 350 31 c 2
+ 434 31 l 1
+ 426 0 l 1
+ 85 0 l 1
+ 93 31 l 1
+ 177 31 l 2
+ 203 31 222 46 229 71 c 2
+ 395 691 l 1
+ 340 691 l 2
+ 313 691 288 684 263 670 c 0
+ 203 639 174 603 138 533 c 0
+ 118 494 101 456 89 417 c 1
+ 62 417 l 1
+ 146 722 l 1
+ 751 722 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D6F5.st u1D6F5.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D6F5.st u1D6F5.sts
+EndChar

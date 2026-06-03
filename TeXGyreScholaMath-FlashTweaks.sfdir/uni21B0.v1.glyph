@@ -1,0 +1,27 @@
+StartChar: uni21B0.v1
+Encoding: 1115617 -1 3611
+Width: 771
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: 567 70<193 621 193 691>
+VStem: 621 70<-262 567 567 567>
+LayerCount: 2
+Fore
+SplineSet
+691 637 m 1
+ 691 -262 l 1
+ 621 -262 l 1
+ 621 567 l 1
+ 193 567 l 1
+ 309 452 l 1
+ 309 395 l 1
+ 80 581 l 1
+ 80 602 l 1
+ 80 623 l 1
+ 309 809 l 1
+ 309 752 l 1
+ 193 637 l 1
+ 691 637 l 1
+EndSplineSet
+EndChar

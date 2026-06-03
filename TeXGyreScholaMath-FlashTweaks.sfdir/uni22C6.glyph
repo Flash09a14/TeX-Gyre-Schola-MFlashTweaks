@@ -1,0 +1,27 @@
+StartChar: uni22C6
+Encoding: 8902 8902 887
+Width: 607
+GlyphClass: 2
+Flags: MW
+VStem: 288 32<490 490>
+LayerCount: 2
+Fore
+SplineSet
+527 316 m 1
+ 369 239 l 1
+ 452 83 l 1
+ 426 65 l 1
+ 304 192 l 1
+ 181 65 l 1
+ 156 83 l 1
+ 239 239 l 1
+ 80 316 l 1
+ 90 346 l 1
+ 264 315 l 1
+ 288 490 l 1
+ 320 490 l 1
+ 344 315 l 1
+ 517 346 l 1
+ 527 316 l 1
+EndSplineSet
+EndChar

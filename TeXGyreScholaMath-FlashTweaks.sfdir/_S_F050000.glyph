@@ -1,0 +1,26 @@
+StartChar: SF050000
+Encoding: 9532 9532 993
+Width: 620
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 28
+HStem: 225 70<0 275 0 275 345 620>
+VStem: 275 70<-150 225 -150 225 295 670>
+LayerCount: 2
+Fore
+SplineSet
+620 225 m 1
+ 345 225 l 1
+ 345 -150 l 1
+ 275 -150 l 1
+ 275 225 l 1
+ 0 225 l 1
+ 0 295 l 1
+ 275 295 l 1
+ 275 670 l 1
+ 345 670 l 1
+ 345 295 l 1
+ 620 295 l 1
+ 620 225 l 1
+EndSplineSet
+EndChar

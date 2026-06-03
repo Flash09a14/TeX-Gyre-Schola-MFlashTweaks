@@ -1,0 +1,50 @@
+StartChar: u1D6AF
+Encoding: 120495 120495 1774
+Width: 891
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 453
+HStem: -13 59<416.5 461.5> 322 110<395 490 405 487> 687 59<428 472.5>
+VStem: 80 167 312 69<235 299 452.5 462 462 516> 511 71<235 292 292 301.5 454 516> 644 167<302.5 362>
+LayerCount: 2
+Fore
+SplineSet
+811 370 m 0
+ 811 209 718 66 576 12 c 0
+ 531 -4 485 -13 438 -13 c 0
+ 339 -13 254 27 201 76 c 0
+ 120 150 81 246 80 362 c 0
+ 81 524 168 660 314 721 c 0
+ 365 741 404 746 452 746 c 0
+ 552 746 638 707 691 658 c 0
+ 770 585 810 489 811 370 c 0
+644 362 m 0
+ 645 483 621 568 574 624 c 0
+ 538 665 507 687 438 687 c 0
+ 385 687 355 673 316 630 c 0
+ 268 574 247 489 247 369 c 0
+ 246 250 270 163 317 108 c 0
+ 351 68 381 46 452 46 c 0
+ 516 46 543 66 575 102 c 0
+ 622 157 644 243 644 362 c 0
+582 235 m 1
+ 511 235 l 1
+ 511 292 l 2
+ 511 311 507 322 487 322 c 2
+ 404 322 l 2
+ 386 322 381 315 381 299 c 2
+ 381 235 l 1
+ 312 235 l 1
+ 312 516 l 1
+ 381 516 l 1
+ 381 462 l 2
+ 381 443 384 432 405 432 c 2
+ 490 432 l 2
+ 507 432 512 438 511 454 c 2
+ 511 516 l 1
+ 582 516 l 1
+ 582 235 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D6AF.st u1D6AF.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D6AF.st u1D6AF.sts
+EndChar

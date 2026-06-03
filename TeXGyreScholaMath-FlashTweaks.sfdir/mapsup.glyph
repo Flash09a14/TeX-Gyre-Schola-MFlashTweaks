@@ -1,0 +1,31 @@
+StartChar: mapsup
+Encoding: 8613 8613 633
+Width: 574
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: mapsup mapsup.v1
+GlyphCompositionVertical: 3  mapsup.bt%0,0,155,465 mapsup.ex%1,310,310,310 mapsup.tp%0,155,0,465
+HStem: -150 42<107 287 107 107> -150 65<252 252 252 287>
+VStem: 252 70<-85 557 -85 557>
+LayerCount: 2
+Fore
+SplineSet
+494 441 m 1x60
+ 437 441 l 1
+ 322 557 l 1
+ 322 -85 l 1x60
+ 467 -108 l 1
+ 467 -150 l 1
+ 287 -150 l 1
+ 107 -150 l 1
+ 107 -108 l 1xa0
+ 252 -85 l 1
+ 252 557 l 1
+ 137 441 l 1
+ 80 441 l 1
+ 266 670 l 1
+ 287 670 l 1
+ 308 670 l 1
+ 494 441 l 1x60
+EndSplineSet
+EndChar

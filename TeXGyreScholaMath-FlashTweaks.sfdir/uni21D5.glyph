@@ -1,0 +1,39 @@
+StartChar: uni21D5
+Encoding: 8661 8661 677
+Width: 633
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: uni21D5 uni21D5.v1
+GlyphCompositionVertical: 3  uni21D5.bt%0,0,180,540 uni21D5.ex%1,360,360,360 uni21D5.tp%0,180,0,540
+VStem: 197 70<-35 555 555 555> 367 70<-35 555 -35 624 -35 624>
+LayerCount: 2
+Fore
+SplineSet
+553 23 m 1
+ 338 -250 l 1
+ 317 -250 l 1
+ 296 -250 l 1
+ 80 23 l 1
+ 137 23 l 1
+ 197 -35 l 1
+ 197 555 l 1
+ 137 497 l 1
+ 80 497 l 1
+ 296 770 l 1
+ 317 770 l 1
+ 338 770 l 1
+ 553 497 l 1
+ 497 497 l 1
+ 437 555 l 1
+ 437 -35 l 1
+ 497 23 l 1
+ 553 23 l 1
+367 624 m 1
+ 317 673 l 1
+ 267 624 l 1
+ 267 -104 l 1
+ 317 -153 l 1
+ 367 -104 l 1
+ 367 624 l 1
+EndSplineSet
+EndChar

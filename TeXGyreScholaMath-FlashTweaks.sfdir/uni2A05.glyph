@@ -1,0 +1,23 @@
+StartChar: uni2A05
+Encoding: 10757 10757 1074
+Width: 980
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+GlyphVariantsVertical: uni2A05 uni2A05.v1
+HStem: 694 77
+VStem: 80 78<-212 694 -212 771 -212 771> 822 78<-212 693 693 693>
+LayerCount: 2
+Fore
+SplineSet
+900 772 m 1
+ 900 -212 l 1
+ 822 -212 l 1
+ 822 693 l 1
+ 158 694 l 1
+ 158 -212 l 1
+ 80 -212 l 1
+ 80 771 l 1
+ 900 772 l 1
+EndSplineSet
+EndChar

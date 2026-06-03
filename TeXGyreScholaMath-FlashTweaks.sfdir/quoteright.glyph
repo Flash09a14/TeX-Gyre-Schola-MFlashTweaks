@@ -1,0 +1,25 @@
+StartChar: quoteright
+Encoding: 8217 8217 494
+Width: 204
+GlyphClass: 2
+Flags: MW
+HStem: 623 118<115 118 115 115>
+VStem: 125 53<590.5 674>
+LayerCount: 2
+Fore
+SplineSet
+178 646 m 0
+ 178 604 163 561 136 525 c 0
+ 123 507 102 483 47 450 c 1
+ 24 478 l 1
+ 90 520 125 567 125 614 c 0
+ 125 620 122 623 118 623 c 2
+ 115 623 l 2
+ 111 622 107 622 102 622 c 0
+ 58 622 31 644 31 681 c 0
+ 31 715 59 741 96 741 c 0
+ 144 741 178 702 178 646 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" quoteright.st quoteright.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" quoteright.st quoteright.sts
+EndChar

@@ -1,0 +1,38 @@
+StartChar: uni2907
+Encoding: 10503 10503 1068
+Width: 1180
+GlyphClass: 2
+Flags: MW
+GlyphVariantsHorizontal: uni2907 uni27FE
+GlyphCompositionHorizontal: 3  uni2907.lft%0,0,180,540 uni2907.ex%1,360,360,360 uni2907.rt%0,180,0,540
+HStem: 140 70<154 885 140 954> 310 70<154 885 140 954 154 154> 450 20G<80 122 122 122>
+VStem: 80 42<50 260>
+LayerCount: 2
+Fore
+SplineSet
+1100 260 m 1
+ 1100 239 l 1
+ 827 23 l 1
+ 827 80 l 1
+ 885 140 l 1
+ 140 140 l 1
+ 122 50 l 1
+ 80 50 l 1
+ 80 260 l 1
+ 80 470 l 1
+ 122 470 l 1
+ 140 380 l 1
+ 885 380 l 1
+ 827 440 l 1
+ 827 497 l 1
+ 1100 281 l 1
+ 1100 260 l 1
+1003 260 m 1
+ 954 310 l 1
+ 154 310 l 1
+ 164 260 l 1
+ 154 210 l 1
+ 954 210 l 1
+ 1003 260 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,21 @@
+StartChar: uni230A
+Encoding: 8970 8970 935
+Width: 480
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: uni230A uni230A.v1 uni230A.v2 uni230A.v3 uni230A.v4 uni230A.v5 uni230A.v6
+GlyphCompositionVertical: 2  uni23A3%0,0,416,1249 uni23A2%1,832,832,832
+HStem: -171 42<244 400 244 400>
+VStem: 160 84<-129 670 -129 670 -129 670>
+LayerCount: 2
+Fore
+SplineSet
+400 -129 m 1
+ 400 -171 l 1
+ 160 -171 l 1
+ 160 670 l 1
+ 244 670 l 1
+ 244 -129 l 1
+ 400 -129 l 1
+EndSplineSet
+EndChar

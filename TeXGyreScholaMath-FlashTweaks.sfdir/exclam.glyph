@@ -1,0 +1,27 @@
+StartChar: exclam
+Encoding: 33 33 2
+Width: 296
+GlyphClass: 2
+Flags: MW
+HStem: -14 125<132.5 166.5> 716 20G<129.5 170.5>
+VStem: 87 125<31.5 66> 130 39<191 191>
+LayerCount: 2
+Fore
+SplineSet
+211 641 m 0xd0
+ 211 612 207 581 193 511 c 0
+ 174 417 170 367 169 191 c 1
+ 130 191 l 1
+ 128 370 125 417 106 511 c 0
+ 92 581 88 612 88 642 c 0
+ 88 704 109 736 150 736 c 0
+ 191 736 211 705 211 641 c 0xd0
+212 49 m 0xe0
+ 212 14 184 -14 149 -14 c 0
+ 115 -14 87 14 87 49 c 0
+ 87 83 115 111 150 111 c 0
+ 184 111 212 83 212 49 c 0xe0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" exclam.st exclam.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" exclam.st exclam.sts
+EndChar

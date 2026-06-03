@@ -1,0 +1,23 @@
+StartChar: uni23B2
+Encoding: 9138 9138 969
+Width: 1466
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: 0 21G<735 1067 735 735> 732 21G<1287 1386 1287 1287> 907 58
+VStem: 1334 52
+LayerCount: 2
+Fore
+SplineSet
+1386 732 m 1
+ 1287 732 l 1
+ 1265 831 1308 829 1195 828 c 2
+ 427 824 l 1
+ 1067 0 l 1
+ 735 0 l 1
+ 80 909 l 1
+ 80 965 l 1
+ 1362 965 l 1
+ 1386 732 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,29 @@
+StartChar: uni21D5.bt
+Encoding: 1115721 -1 3715
+Width: 633
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<296 317 296 296 317 338>
+VStem: 197 70<215 540 146 540> 367 70<215 540 215 540 215 540>
+LayerCount: 2
+Fore
+SplineSet
+553 273 m 1
+ 338 0 l 1
+ 317 0 l 1
+ 296 0 l 1
+ 80 273 l 1
+ 137 273 l 1
+ 197 215 l 1
+ 197 540 l 1
+ 267 540 l 1
+ 267 146 l 1
+ 317 97 l 1
+ 367 146 l 1
+ 367 540 l 1
+ 437 540 l 1
+ 437 215 l 1
+ 497 273 l 1
+ 553 273 l 1
+EndSplineSet
+EndChar

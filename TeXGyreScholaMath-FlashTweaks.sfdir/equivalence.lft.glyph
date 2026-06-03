@@ -1,0 +1,28 @@
+StartChar: equivalence.lft
+Encoding: 1116144 -1 4138
+Width: 207
+GlyphClass: 2
+Flags: MW
+HStem: 25 70<0 207 0 207> 225 70<0 207 0 207> 425 70<0 207 0 207>
+VStem: 0 207<25 95 25 95 225 295 25 295 425 495>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+207 495 m 1
+ 207 425 l 1
+ 0 425 l 1
+ 0 495 l 1
+ 207 495 l 1
+207 295 m 1
+ 207 225 l 1
+ 0 225 l 1
+ 0 295 l 1
+ 207 295 l 1
+207 95 m 1
+ 207 25 l 1
+ 0 25 l 1
+ 0 95 l 1
+ 207 95 l 1
+EndSplineSet
+EndChar

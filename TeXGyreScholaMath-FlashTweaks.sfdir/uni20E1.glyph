@@ -1,0 +1,33 @@
+StartChar: uni20E1
+Encoding: 8417 8417 547
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -269
+GlyphVariantsHorizontal: uni20E1 uni20E1.h1
+GlyphCompositionHorizontal: 3  uni20E1.lft%0,0,76,227 uni20E1.ex%1,151,151,151 uni20E1.rt%0,76,0,226
+HStem: 622 60<-408 -130 -408 -130>
+LayerCount: 2
+Fore
+SplineSet
+-34 652 m 1
+ -34 636 l 1
+ -193 512 l 1
+ -193 555 l 1
+ -130 622 l 1
+ -408 622 l 1
+ -345 555 l 1
+ -345 512 l 1
+ -504 636 l 1
+ -504 652 l 1
+ -504 668 l 1
+ -345 792 l 1
+ -345 749 l 1
+ -408 682 l 1
+ -130 682 l 1
+ -193 749 l 1
+ -193 792 l 1
+ -34 668 l 1
+ -34 652 l 1
+EndSplineSet
+EndChar

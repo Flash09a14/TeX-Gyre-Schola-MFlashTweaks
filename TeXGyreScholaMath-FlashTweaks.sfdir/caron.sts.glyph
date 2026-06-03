@@ -1,0 +1,20 @@
+StartChar: caron.sts
+Encoding: 1114245 -1 2239
+Width: 443
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 202
+HStem: 527 166<32 260 32 183>
+LayerCount: 2
+Fore
+SplineSet
+411 693 m 1
+ 260 527 l 1
+ 183 527 l 1
+ 32 693 l 1
+ 76 693 l 1
+ 221 592 l 1
+ 367 693 l 1
+ 411 693 l 1
+EndSplineSet
+EndChar

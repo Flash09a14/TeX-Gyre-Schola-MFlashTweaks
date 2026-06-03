@@ -1,0 +1,19 @@
+StartChar: uni227A
+Encoding: 8826 8826 813
+Width: 808
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<80 80>
+LayerCount: 2
+Fore
+SplineSet
+728 -32 m 1
+ 673 -74 l 1
+ 532 111 313 222 80 225 c 1
+ 80 295 l 1
+ 313 298 532 409 673 594 c 1
+ 728 552 l 1
+ 621 411 474 310 308 260 c 1
+ 474 210 621 109 728 -32 c 1
+EndSplineSet
+EndChar

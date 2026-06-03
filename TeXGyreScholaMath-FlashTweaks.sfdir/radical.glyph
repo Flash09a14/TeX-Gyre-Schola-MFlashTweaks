@@ -1,0 +1,26 @@
+StartChar: radical
+Encoding: 8730 8730 719
+Width: 705
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: radical radical.v1 radical.v2 radical.v3 radical.v4 radical.v5 radical.v6
+GlyphCompositionVertical: 3  uni23B7%0,0,481,1511 radical.ex%1,961,961,961 radical.tp%0,481,0,275
+HStem: 134 60<120 205 120 287> 561 70<693 740 693 693>
+LayerCount: 2
+Fore
+SplineSet
+740 561 m 1
+ 693 561 l 1
+ 425 -76 l 1
+ 377 -76 l 1
+ 329 -76 l 1
+ 205 134 l 1
+ 120 134 l 1
+ 120 194 l 1
+ 287 194 l 1
+ 390 20 l 1
+ 647 631 l 1
+ 740 631 l 1
+ 740 561 l 1
+EndSplineSet
+EndChar

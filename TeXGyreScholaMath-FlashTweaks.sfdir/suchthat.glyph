@@ -1,0 +1,27 @@
+StartChar: suchthat
+Encoding: 8715 8715 704
+Width: 798
+GlyphClass: 2
+Flags: MW
+HStem: -50 70<80 408 80 408> 225 70<80 646 80 646> 500 70<80 408 80 408>
+VStem: 646 72<225 225 295 295>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+718 260 m 0
+ 718 71 597 -50 408 -50 c 2
+ 80 -50 l 1
+ 80 20 l 1
+ 408 20 l 2
+ 542 20 632 99 646 225 c 1
+ 80 225 l 1
+ 80 295 l 1
+ 646 295 l 1
+ 632 421 542 500 408 500 c 2
+ 80 500 l 1
+ 80 570 l 1
+ 408 570 l 2
+ 597 570 718 449 718 260 c 0
+EndSplineSet
+EndChar

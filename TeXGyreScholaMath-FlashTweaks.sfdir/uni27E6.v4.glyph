@@ -1,0 +1,27 @@
+StartChar: uni27E6.v4
+Encoding: 1115960 -1 3954
+Width: 554
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -614 48<228 322 370 464> 1086 48<228 322 228 228 370 464 370 370>
+VStem: 180 48<-566 1086 -566 1134> 322 48<-566 1086 -566 1086>
+LayerCount: 2
+Fore
+SplineSet
+464 -566 m 1
+ 464 -614 l 1
+ 180 -614 l 1
+ 180 1134 l 1
+ 464 1134 l 1
+ 464 1086 l 1
+ 370 1086 l 1
+ 370 -566 l 1
+ 464 -566 l 1
+322 1086 m 1
+ 228 1086 l 1
+ 228 -566 l 1
+ 322 -566 l 1
+ 322 1086 l 1
+EndSplineSet
+EndChar

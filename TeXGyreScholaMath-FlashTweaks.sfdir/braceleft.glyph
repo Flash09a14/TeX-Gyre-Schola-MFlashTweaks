@@ -1,0 +1,31 @@
+StartChar: braceleft
+Encoding: 123 123 92
+Width: 484
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: braceleft braceleft.v1 braceleft.v2 braceleft.v3 braceleft.v4 braceleft.v5 braceleft.v6
+GlyphCompositionVertical: 5  uni23A9%0,0,305,627 braceleft.ex%1,610,610,610 uni23A8%0,305,305,1224 braceleft.ex%1,610,610,610 uni23A7%0,305,0,627
+HStem: -165 30<396 404> 244 32<80 119> 655 30<396 404>
+VStem: 198 84<-13 123 397 533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+404 -135 m 1
+ 396 -165 l 1
+ 280 -134 198 -81 198 -13 c 2
+ 198 123 l 2
+ 198 190 158 244 80 244 c 1
+ 80 276 l 1
+ 158 276 198 330 198 397 c 2
+ 198 533 l 2
+ 198 601 280 654 396 685 c 1
+ 404 655 l 1
+ 324 633 282 580 282 533 c 2
+ 282 397 l 2
+ 282 329 243 283 181 260 c 1
+ 243 237 282 191 282 123 c 2
+ 282 -13 l 2
+ 282 -60 324 -113 404 -135 c 1
+EndSplineSet
+EndChar

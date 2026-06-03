@@ -1,0 +1,18 @@
+StartChar: uni030C.h1
+Encoding: 1115826 -1 3820
+Width: 657
+GlyphClass: 2
+Flags: MW
+HStem: 539 183
+LayerCount: 2
+Fore
+SplineSet
+657 692 m 1
+ 550 636 440 585 328 539 c 1
+ 216 585 107 636 0 692 c 1
+ 13 722 l 1
+ 119 687 224 649 328 607 c 1
+ 432 649 537 687 644 722 c 1
+ 657 692 l 1
+EndSplineSet
+EndChar

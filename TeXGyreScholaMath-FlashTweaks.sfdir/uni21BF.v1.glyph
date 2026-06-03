@@ -1,0 +1,20 @@
+StartChar: uni21BF.v1
+Encoding: 1115647 -1 3641
+Width: 402
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+VStem: 252 70<-360 752 752 752>
+LayerCount: 2
+Fore
+SplineSet
+322 -360 m 1
+ 252 -360 l 1
+ 252 752 l 1
+ 137 635 l 1
+ 80 635 l 1
+ 280 880 l 1
+ 322 880 l 1
+ 322 -360 l 1
+EndSplineSet
+EndChar

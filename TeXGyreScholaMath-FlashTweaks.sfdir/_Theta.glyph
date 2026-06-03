@@ -1,0 +1,51 @@
+StartChar: Theta
+Encoding: 920 920 332
+Width: 797
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 403
+HStem: -14 32<362 418> 330 83<321 462 336 462 336 462> 704 32<383.5 434>
+VStem: 80 110<301.5 423 298.5 440> 266 27<242 289 441 455 455 499> 504 27<242 289 289 302.5 455 499> 608 109<298.5 421 282 423>
+LayerCount: 2
+Fore
+SplineSet
+717 362 m 0
+ 717 202 641 62 513 9 c 0
+ 476 -6 438 -14 398 -14 c 0
+ 311 -14 237 25 191 72 c 0
+ 117 147 80 243 80 360 c 0
+ 80 520 157 659 284 713 c 0
+ 321 728 359 736 398 736 c 0
+ 486 736 561 697 607 650 c 0
+ 680 576 717 480 717 362 c 0
+608 360 m 0
+ 608 486 585 576 540 633 c 0
+ 504 679 470 704 398 704 c 0
+ 369 704 343 698 322 689 c 0
+ 300 678 278 660 257 633 c 0
+ 212 576 190 486 190 360 c 0
+ 190 237 212 146 257 88 c 0
+ 293 42 326 18 398 18 c 0
+ 471 18 504 42 540 88 c 0
+ 585 146 608 237 608 360 c 0
+531 242 m 1
+ 504 242 l 1
+ 504 289 l 2
+ 504 316 490 330 462 330 c 2
+ 335 330 l 2
+ 307 330 293 316 293 289 c 2
+ 293 242 l 1
+ 266 242 l 1
+ 266 499 l 1
+ 293 499 l 1
+ 293 455 l 2
+ 293 427 307 413 336 413 c 2
+ 462 413 l 2
+ 490 413 504 427 504 455 c 2
+ 504 499 l 1
+ 531 499 l 1
+ 531 242 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Theta.st Theta.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Theta.st Theta.sts
+EndChar

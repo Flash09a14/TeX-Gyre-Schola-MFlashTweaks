@@ -1,0 +1,30 @@
+StartChar: u1D436
+Encoding: 119862 119862 1167
+Width: 722
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 19
+TopAccentHorizontal: 451
+HStem: -15 49<288.5 402.5> 694 43<362.5 480 337.5 501>
+VStem: 40 125<191 336.5 181.5 397> 616 41<435 435>
+LayerCount: 2
+Fore
+SplineSet
+713 715 m 1
+ 657 435 l 1
+ 616 435 l 1
+ 609 623 552 694 450 694 c 0
+ 275 694 165 433 165 240 c 0
+ 165 123 226 34 351 34 c 0
+ 457 34 526 82 593 223 c 1
+ 634 205 l 1
+ 568 50 471 -15 334 -15 c 0
+ 156 -15 40 102 40 280 c 0
+ 40 514 233 737 442 737 c 0
+ 518 737 569 714 617 657 c 1
+ 677 715 l 1
+ 713 715 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D436.st u1D436.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D436.st u1D436.sts
+EndChar

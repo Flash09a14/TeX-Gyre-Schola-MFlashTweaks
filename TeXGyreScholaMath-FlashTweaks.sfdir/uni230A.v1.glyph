@@ -1,0 +1,19 @@
+StartChar: uni230A.v1
+Encoding: 1115892 -1 3886
+Width: 497
+GlyphClass: 2
+Flags: MW
+HStem: -254 44<253 415 253 415>
+VStem: 165 88<-210 752 -210 752 -210 752>
+LayerCount: 2
+Fore
+SplineSet
+415 -210 m 1
+ 415 -254 l 1
+ 165 -254 l 1
+ 165 752 l 1
+ 253 752 l 1
+ 253 -210 l 1
+ 415 -210 l 1
+EndSplineSet
+EndChar

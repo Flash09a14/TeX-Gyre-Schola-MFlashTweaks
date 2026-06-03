@@ -1,0 +1,26 @@
+StartChar: u1D796
+Encoding: 120726 120726 2005
+Width: 857
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 30
+TopAccentHorizontal: 545
+HStem: 0 21G<40 213 40 40 490 662 490 490> 310 111<326 573 296 604> 708 20G<237 409 409 409 687 859 859 859>
+LayerCount: 2
+Fore
+SplineSet
+859 728 m 1
+ 662 0 l 1
+ 490 0 l 1
+ 573 310 l 1
+ 296 310 l 1
+ 213 0 l 1
+ 40 0 l 1
+ 237 728 l 1
+ 409 728 l 1
+ 326 421 l 1
+ 604 421 l 1
+ 687 728 l 1
+ 859 728 l 1
+EndSplineSet
+EndChar

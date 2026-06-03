@@ -1,0 +1,24 @@
+StartChar: uni22C4
+Encoding: 8900 8900 885
+Width: 593
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+439 260 m 1
+ 297 403 l 1
+ 154 260 l 1
+ 297 117 l 1
+ 439 260 l 1
+513 235 m 1
+ 321 43 l 1
+ 272 43 l 1
+ 80 235 l 1
+ 80 285 l 1
+ 272 477 l 1
+ 322 477 l 1
+ 513 285 l 1
+ 513 235 l 1
+EndSplineSet
+EndChar

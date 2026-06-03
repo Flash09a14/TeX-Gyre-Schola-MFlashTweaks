@@ -1,0 +1,23 @@
+StartChar: uni20EF.h1
+Encoding: 1115512 -1 3506
+Width: 697
+GlyphClass: 2
+Flags: MW
+HStem: -216 60<80 521 80 521>
+LayerCount: 2
+Fore
+SplineSet
+617 -170 m 1
+ 617 -186 l 1
+ 617 -202 l 1
+ 458 -326 l 1
+ 458 -283 l 1
+ 521 -216 l 1
+ 80 -216 l 1
+ 80 -156 l 1
+ 521 -156 l 1
+ 458 -89 l 1
+ 458 -46 l 1
+ 617 -170 l 1
+EndSplineSet
+EndChar

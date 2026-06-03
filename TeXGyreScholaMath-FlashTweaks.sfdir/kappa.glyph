@@ -1,0 +1,42 @@
+StartChar: kappa
+Encoding: 954 954 358
+Width: 537
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 250
+HStem: -9 69<375.5 395> 0 21G<80 147 80 80> 223 41<147 157> 380 95<346.5 347.5>
+VStem: 80 67<0 223 0 264 264 466 466 466> 442 15<129 154>
+LayerCount: 2
+Fore
+SplineSet
+457 148 m 1xbc
+ 457 110 452 77 442 46 c 0
+ 434 17 414 -9 376 -9 c 0xbc
+ 349 -9 328 0 311 20 c 0
+ 294 41 282 56 268 86 c 0
+ 255 116 250 126 240 159 c 0
+ 227 196 218 216 194 230 c 1
+ 182 225 167 223 147 223 c 1
+ 147 0 l 1
+ 80 0 l 1x7c
+ 80 466 l 1
+ 147 472 l 1
+ 147 264 l 1
+ 174 265 195 270 208 278 c 0
+ 229 291 248 313 264 343 c 0
+ 279 371 289 396 298 420 c 0
+ 310 457 332 475 361 475 c 0
+ 387 475 417 452 423 423 c 0
+ 431 391 416 369 390 369 c 0
+ 382 369 352 380 343 380 c 0
+ 330 380 315 361 296 320 c 0
+ 285 298 252 259 231 247 c 1
+ 231 242 l 1
+ 270 230 291 203 312 155 c 0
+ 338 92 363 60 388 60 c 0
+ 434 60 436 116 442 154 c 1
+ 457 148 l 1xbc
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" kappa.st kappa.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" kappa.st kappa.sts
+EndChar

@@ -1,0 +1,53 @@
+StartChar: u1D725
+Encoding: 120613 120613 1892
+Width: 988
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 88
+TopAccentHorizontal: 631
+HStem: 0 58<46 159 159 167 345 427 30 159 493 568 568 579.5 838 858> 675 58<226 318 211 623 496.5 505 505 608 226 666 681 723 1002.5 1033>
+LayerCount: 2
+Fore
+SplineSet
+1048 733 m 1
+ 1033 675 l 1
+ 972 675 948 671 925 661 c 0
+ 899 649 865 629 824 600 c 2
+ 583 434 l 1
+ 761 109 l 2
+ 780 79 802 58 874 58 c 1
+ 858 0 l 1
+ 477 0 l 1
+ 493 58 l 1
+ 568 58 l 2
+ 591 58 597 62 600 74 c 0
+ 602 82 588 101 577 121 c 2
+ 455 345 l 1
+ 385 296 l 1
+ 329 87 l 2
+ 325 70 326 58 345 58 c 2
+ 443 58 l 1
+ 427 0 l 1
+ 30 0 l 1
+ 46 58 l 1
+ 159 58 l 2
+ 175 58 177 65 180 80 c 2
+ 332 646 l 2
+ 337 665 338 675 318 675 c 2
+ 211 675 l 1
+ 226 733 l 1
+ 623 733 l 1
+ 608 675 l 1
+ 505 675 l 2
+ 488 675 485 669 481 653 c 2
+ 410 390 l 1
+ 668 567 l 2
+ 713 599 743 618 748 637 c 0
+ 755 665 738 675 723 675 c 2
+ 666 675 l 1
+ 681 733 l 1
+ 1048 733 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D725.st u1D725.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D725.st u1D725.sts
+EndChar

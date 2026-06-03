@@ -1,0 +1,42 @@
+StartChar: Itilde
+Encoding: 296 296 211
+Width: 407
+GlyphClass: 2
+Flags: MW
+HStem: 0 47<38 58 58 98.5 349 369 38 58> 675 47<38 58 38 369 309 349 349 369> 793 55<276 289.5> 835 59<113.5 127>
+VStem: 38 35<793 793> 148 112<94 628> 334 35<899 899>
+LayerCount: 2
+Fore
+SplineSet
+369 0 m 1xce
+ 38 0 l 1
+ 38 47 l 1
+ 58 47 l 2
+ 139 47 148 52 148 94 c 2
+ 148 628 l 2
+ 148 670 139 675 58 675 c 2
+ 38 675 l 1
+ 38 722 l 1
+ 369 722 l 1
+ 369 675 l 1
+ 349 675 l 2
+ 269 675 260 670 260 628 c 2
+ 260 94 l 2
+ 260 52 269 47 349 47 c 2
+ 369 47 l 1
+ 369 0 l 1xce
+369 899 m 1
+ 362 836 318 793 261 793 c 0xee
+ 235 793 223 797 172 821 c 0
+ 153 830 134 835 120 835 c 0xde
+ 97 835 80 820 73 793 c 1
+ 38 793 l 1xee
+ 51 855 89 894 138 894 c 0xde
+ 161 894 169 892 224 867 c 0
+ 258 852 269 848 283 848 c 0xee
+ 306 848 328 870 334 899 c 1
+ 369 899 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Itilde.st Itilde.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Itilde.st Itilde.sts
+EndChar

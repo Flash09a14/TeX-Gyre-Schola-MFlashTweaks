@@ -1,0 +1,21 @@
+StartChar: uni2309
+Encoding: 8969 8969 934
+Width: 480
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: uni2309 uni2309.v1 uni2309.v2 uni2309.v3 uni2309.v4 uni2309.v5 uni2309.v6
+GlyphCompositionVertical: 2  uni23A5%1,832,832,832 uni23A4%0,416,0,1249
+HStem: 649 42<80 236 80 320>
+VStem: 236 84<-150 649 649 649>
+LayerCount: 2
+Fore
+SplineSet
+320 -150 m 1
+ 236 -150 l 1
+ 236 649 l 1
+ 80 649 l 1
+ 80 691 l 1
+ 320 691 l 1
+ 320 -150 l 1
+EndSplineSet
+EndChar

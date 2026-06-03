@@ -1,0 +1,24 @@
+StartChar: colon
+Encoding: 58 58 27
+Width: 278
+GlyphClass: 2
+Flags: MW
+HStem: -14 125<131.5 165.5> 348 125<131.5 165.5>
+VStem: 86 125<31.5 66 393.5 428>
+LayerCount: 2
+Fore
+SplineSet
+211 49 m 0
+ 211 14 183 -14 148 -14 c 0
+ 114 -14 86 14 86 49 c 0
+ 86 83 114 111 149 111 c 0
+ 183 111 211 83 211 49 c 0
+211 411 m 0
+ 211 376 183 348 148 348 c 0
+ 114 348 86 376 86 411 c 0
+ 86 445 114 473 149 473 c 0
+ 183 473 211 445 211 411 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" colon.st colon.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" colon.st colon.sts
+EndChar

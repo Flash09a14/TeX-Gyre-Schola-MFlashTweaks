@@ -1,0 +1,29 @@
+StartChar: space_hookabovecomb.sts
+Encoding: 1114419 -1 2413
+Width: 280
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 8
+TopAccentHorizontal: 116
+HStem: 667 40<121.5 147>
+VStem: 20 94<627.5 635.5 621 659> 106 40<514 530 514 545 514 552.5> 185 75<626.5 639>
+LayerCount: 2
+Fore
+SplineSet
+260 630 m 0xb0
+ 260 606 245 594 185 567 c 0
+ 151 552 146 546 146 514 c 1
+ 106 514 l 1
+ 106 545 l 2xb0
+ 106 560 111 567 169 606 c 1
+ 168 606 l 1
+ 179 614 185 622 185 631 c 0
+ 185 647 164 667 130 667 c 0
+ 113 667 96 664 91 661 c 1
+ 105 651 114 641 114 630 c 0
+ 114 612 95 597 70 597 c 0
+ 41 597 20 616 20 639 c 0xd0
+ 20 679 72 707 146 707 c 0
+ 220 707 260 664 260 630 c 0xb0
+EndSplineSet
+EndChar

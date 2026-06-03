@@ -1,0 +1,21 @@
+StartChar: parenleft.v2
+Encoding: 1115904 -1 3898
+Width: 564
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+VStem: 170 101<194 326>
+LayerCount: 2
+Fore
+SplineSet
+479 -317 m 1
+ 462 -343 l 1
+ 301 -236 170 -36 170 194 c 2
+ 170 326 l 2
+ 170 556 301 756 462 863 c 1
+ 479 837 l 1
+ 334 740 271 533 271 326 c 2
+ 271 194 l 2
+ 271 -13 334 -220 479 -317 c 1
+EndSplineSet
+EndChar

@@ -1,0 +1,30 @@
+StartChar: u1D61D
+Encoding: 120349 120349 1630
+Width: 676
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 45
+TopAccentHorizontal: 367
+HStem: 0 21G<131 219 131 131>
+VStem: 40 106<694 716>
+LayerCount: 2
+Fore
+SplineSet
+693 716 m 1
+ 219 0 l 1
+ 131 0 l 1
+ 40 716 l 1
+ 120 716 l 2
+ 129 716 135 714 139 710 c 0
+ 144 706 146 701 146 694 c 2
+ 200 182 l 2
+ 202 171 203 160 204 147 c 0
+ 204 134 206 121 204 106 c 1
+ 225 146 l 1
+ 247 182 l 1
+ 575 694 l 2
+ 579 699 584 704 592 709 c 0
+ 599 714 606 716 615 716 c 2
+ 693 716 l 1
+EndSplineSet
+EndChar

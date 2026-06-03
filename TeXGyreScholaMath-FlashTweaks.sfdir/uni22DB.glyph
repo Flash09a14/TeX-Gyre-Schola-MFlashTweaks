@@ -1,0 +1,32 @@
+StartChar: uni22DB
+Encoding: 8923 8923 907
+Width: 786
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<80 706 80 706>
+LayerCount: 2
+Fore
+SplineSet
+706 563 m 1
+ 80 335 l 1
+ 80 410 l 1
+ 598 598 l 1
+ 80 787 l 1
+ 80 862 l 1
+ 706 633 l 1
+ 706 563 l 1
+706 225 m 1
+ 80 225 l 1
+ 80 295 l 1
+ 706 295 l 1
+ 706 225 l 1
+706 -342 m 1
+ 80 -113 l 1
+ 80 -43 l 1
+ 706 185 l 1
+ 706 110 l 1
+ 188 -78 l 1
+ 706 -267 l 1
+ 706 -342 l 1
+EndSplineSet
+EndChar

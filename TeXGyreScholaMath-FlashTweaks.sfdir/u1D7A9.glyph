@@ -1,0 +1,26 @@
+StartChar: u1D7A9
+Encoding: 120745 120745 2024
+Width: 806
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 70
+TopAccentHorizontal: 479
+HStem: -10 21G<204 359 204 204> 594 124<294 595 294 294>
+LayerCount: 2
+Fore
+SplineSet
+848 718 m 1
+ 359 -10 l 1
+ 204 -10 l 1
+ 109 718 l 1
+ 848 718 l 1
+595 594 m 1
+ 294 594 l 1
+ 320 232 l 1
+ 324 196 l 2
+ 326 183 326 168 327 152 c 1
+ 353 197 l 2
+ 361 211 369 223 376 234 c 2
+ 595 594 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,23 @@
+StartChar: uni2225
+Encoding: 8741 8741 728
+Width: 380
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: uni2225 uni2225.v1 uni2225.v2 uni2225.v3 uni2225.v4 uni2225.v5 uni2225.v6
+GlyphCompositionVertical: 3  uni2225.bt%0,0,408,816 uni2225.ex%1,816,816,816 uni2225.tp%0,408,0,816
+VStem: 80 60<-150 670> 240 60<-150 670>
+LayerCount: 2
+Fore
+SplineSet
+140 -150 m 1
+ 80 -150 l 1
+ 80 670 l 1
+ 140 670 l 1
+ 140 -150 l 1
+300 -150 m 1
+ 240 -150 l 1
+ 240 670 l 1
+ 300 670 l 1
+ 300 -150 l 1
+EndSplineSet
+EndChar

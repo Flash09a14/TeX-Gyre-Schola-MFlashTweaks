@@ -1,0 +1,30 @@
+StartChar: plusminus
+Encoding: 177 177 112
+Width: 780
+GlyphClass: 2
+Flags: MW
+HStem: -50 70<80 700 80 700> 225 70<80 355 80 355 425 700>
+VStem: 355 70<86 225 86 225 295 570>
+LayerCount: 2
+Fore
+SplineSet
+700 -50 m 1
+ 80 -50 l 1
+ 80 20 l 1
+ 700 20 l 1
+ 700 -50 l 1
+700 225 m 1
+ 425 225 l 1
+ 425 86 l 1
+ 355 86 l 1
+ 355 225 l 1
+ 80 225 l 1
+ 80 295 l 1
+ 355 295 l 1
+ 355 570 l 1
+ 425 570 l 1
+ 425 295 l 1
+ 700 295 l 1
+ 700 225 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,38 @@
+StartChar: Lambda
+Encoding: 923 923 335
+Width: 866
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 455
+HStem: 0 31<80 116 116 141.5 352 397 80 116 458 539 539 550.5 740 786> 716 20G<440 470 470 470>
+LayerCount: 2
+Fore
+SplineSet
+786 0 m 1
+ 458 0 l 1
+ 458 31 l 1
+ 539 31 l 2
+ 562 31 579 50 579 73 c 0
+ 579 80 578 86 576 93 c 2
+ 425 575 l 1
+ 284 162 l 2
+ 281 154 279 143 276 129 c 0
+ 273 114 271 104 271 99 c 0
+ 271 51 302 31 352 31 c 2
+ 397 31 l 1
+ 397 0 l 1
+ 80 0 l 1
+ 80 31 l 1
+ 116 31 l 2
+ 167 31 203 64 225 128 c 2
+ 440 736 l 1
+ 470 736 l 1
+ 656 141 l 2
+ 667 106 679 79 692 61 c 0
+ 705 41 721 31 740 31 c 2
+ 786 31 l 1
+ 786 0 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Lambda.st Lambda.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Lambda.st Lambda.sts
+EndChar

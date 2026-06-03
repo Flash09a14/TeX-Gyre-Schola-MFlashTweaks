@@ -1,0 +1,32 @@
+StartChar: arrowupdn
+Encoding: 8597 8597 619
+Width: 574
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: arrowupdn arrowupdn.v1
+GlyphCompositionVertical: 3  arrowupdn.bt%0,0,180,540 arrowupdn.ex%1,360,360,360 arrowupdn.tp%0,180,0,540
+VStem: 252 70<-137 657 -137 657>
+LayerCount: 2
+Fore
+SplineSet
+494 -21 m 1
+ 308 -250 l 1
+ 287 -250 l 1
+ 266 -250 l 1
+ 80 -21 l 1
+ 137 -21 l 1
+ 252 -137 l 1
+ 252 657 l 1
+ 137 541 l 1
+ 80 541 l 1
+ 266 770 l 1
+ 287 770 l 1
+ 308 770 l 1
+ 494 541 l 1
+ 437 541 l 1
+ 322 657 l 1
+ 322 -137 l 1
+ 437 -21 l 1
+ 494 -21 l 1
+EndSplineSet
+EndChar

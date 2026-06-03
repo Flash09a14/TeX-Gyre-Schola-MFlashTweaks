@@ -1,0 +1,22 @@
+StartChar: uni20EC
+Encoding: 8428 8428 555
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -269
+GlyphVariantsHorizontal: uni20EC uni20EC.h1
+GlyphCompositionHorizontal: 3  uni20EC.lft%0,0,68,201 uni20EC.ex%1,135,135,135 uni20EC.rt%0,68,0,201
+HStem: -216 60<-470 -178 -470 -68>
+LayerCount: 2
+Fore
+SplineSet
+-68 -156 m 1
+ -68 -188 l 1
+ -242 -326 l 1
+ -242 -283 l 1
+ -178 -216 l 1
+ -470 -216 l 1
+ -470 -156 l 1
+ -68 -156 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,46 @@
+StartChar: u1D6C7
+Encoding: 120519 120519 1798
+Width: 617
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 204
+IsExtendedShape: 1
+HStem: -217 98<303.5 430> 798 56<246 275>
+LayerCount: 2
+Fore
+SplineSet
+534 -25 m 0
+ 539 -48 537 -70 530 -94 c 0
+ 502 -169 439 -217 327 -217 c 0
+ 280 -217 240 -201 234 -159 c 0
+ 224 -116 268 -94 307 -94 c 0
+ 338 -94 374 -119 407 -119 c 0
+ 453 -119 455 -75 450 -46 c 0
+ 444 -15 422 0 389 0 c 0
+ 304 0 251 7 223 18 c 0
+ 177 40 140 89 127 156 c 0
+ 101 289 134 423 225 551 c 1
+ 185 558 148 580 118 611 c 0
+ 97 631 86 654 83 679 c 0
+ 72 721 92 765 121 793 c 0
+ 153 823 168 839 246 854 c 1
+ 275 798 l 1
+ 212 782 187 746 195 700 c 0
+ 205 651 223 626 253 611 c 0
+ 257 609 263 609 268 608 c 1
+ 290 633 318 659 349 686 c 0
+ 393 728 432 746 455 746 c 0
+ 487 746 521 727 527 694 c 0
+ 533 670 525 644 509 625 c 0
+ 493 606 458 585 406 565 c 0
+ 388 558 357 551 313 544 c 1
+ 272 498 254 464 232 395 c 0
+ 221 363 213 334 213 302 c 0
+ 212 270 213 246 219 224 c 0
+ 233 158 257 122 315 118 c 0
+ 365 115 398 110 415 108 c 0
+ 457 100 519 52 534 -25 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D6C7.st u1D6C7.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D6C7.st u1D6C7.sts
+EndChar

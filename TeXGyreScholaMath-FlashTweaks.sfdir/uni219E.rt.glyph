@@ -1,0 +1,16 @@
+StartChar: uni219E.rt
+Encoding: 1115567 -1 3561
+Width: 540
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<0 540 0 540>
+LayerCount: 2
+Fore
+SplineSet
+540 225 m 1
+ 0 225 l 1
+ 0 295 l 1
+ 540 295 l 1
+ 540 225 l 1
+EndSplineSet
+EndChar

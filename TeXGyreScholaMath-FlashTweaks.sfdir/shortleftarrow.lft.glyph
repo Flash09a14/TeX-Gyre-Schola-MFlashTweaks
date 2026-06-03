@@ -1,0 +1,23 @@
+StartChar: shortleftarrow.lft
+Encoding: 1115523 -1 3517
+Width: 465
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<113 465 113 465> 447 20G<229 229>
+LayerCount: 2
+Fore
+SplineSet
+465 295 m 1
+ 465 225 l 1
+ 113 225 l 1
+ 229 110 l 1
+ 229 53 l 1
+ 0 239 l 1
+ 0 260 l 1
+ 0 281 l 1
+ 229 467 l 1
+ 229 410 l 1
+ 113 295 l 1
+ 465 295 l 1
+EndSplineSet
+EndChar

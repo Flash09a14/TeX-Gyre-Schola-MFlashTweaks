@@ -1,0 +1,35 @@
+StartChar: uni21C8
+Encoding: 8648 8648 664
+Width: 934
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: uni21C8 uni21C8.v1
+GlyphCompositionVertical: 3  uni21C8.bt%0,0,155,465 uni21C8.ex%1,310,310,310 uni21C8.tp%0,155,0,465
+VStem: 252 70<-150 557 -150 557> 612 70<-150 557 -150 557>
+LayerCount: 2
+Fore
+SplineSet
+854 441 m 1
+ 797 441 l 1
+ 682 557 l 1
+ 682 -150 l 1
+ 612 -150 l 1
+ 612 557 l 1
+ 497 441 l 1
+ 437 441 l 1
+ 322 557 l 1
+ 322 -150 l 1
+ 252 -150 l 1
+ 252 557 l 1
+ 137 441 l 1
+ 80 441 l 1
+ 266 670 l 1
+ 287 670 l 1
+ 308 670 l 1
+ 467 474 l 1
+ 626 670 l 1
+ 647 670 l 1
+ 668 670 l 1
+ 854 441 l 1
+EndSplineSet
+EndChar

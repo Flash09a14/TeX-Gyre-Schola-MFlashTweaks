@@ -1,0 +1,39 @@
+StartChar: uni1ECE
+Encoding: 7886 7886 428
+Width: 778
+GlyphClass: 2
+Flags: MW
+HStem: -15 47<319.5 458 319.5 487> 690 47<321 458> 923 40<374 395>
+VStem: 45 132<253.5 462> 290 78<883.5 891.5 877 915> 361 33<770 786 770 801 770 808.5> 426 62<882.5 895> 601 132<254 467 254 476>
+LayerCount: 2
+Fore
+SplineSet
+733 361 m 0xf3
+ 733 147 585 -15 389 -15 c 0
+ 194 -15 45 147 45 360 c 0
+ 45 564 185 737 393 737 c 0
+ 585 737 733 573 733 361 c 0xf3
+601 361 m 0
+ 601 591 524 690 392 690 c 0
+ 250 690 177 589 177 363 c 0
+ 177 133 250 32 389 32 c 0
+ 527 32 601 133 601 361 c 0
+488 886 m 0
+ 488 862 476 850 426 823 c 0
+ 398 808 394 802 394 770 c 1
+ 361 770 l 1
+ 361 801 l 2xf7
+ 361 816 365 823 413 862 c 1
+ 412 862 l 1
+ 421 870 426 878 426 887 c 0
+ 426 903 409 923 381 923 c 0
+ 367 923 353 920 349 917 c 1
+ 360 907 368 897 368 886 c 0
+ 368 868 352 853 331 853 c 0
+ 307 853 290 872 290 895 c 0xfb
+ 290 935 333 963 394 963 c 0xf7
+ 455 963 488 920 488 886 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" uni1ECE.st uni1ECE.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" uni1ECE.st uni1ECE.sts
+EndChar

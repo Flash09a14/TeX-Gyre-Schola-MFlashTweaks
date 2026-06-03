@@ -1,0 +1,67 @@
+StartChar: u1D729
+Encoding: 120617 120617 1896
+Width: 880
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 117
+TopAccentHorizontal: 605
+IsExtendedShape: 1
+HStem: 0 113<147.5 646 198 611> 312 113<338 624 389 588> 619 114<313.5 812 364 777>
+LayerCount: 2
+Fore
+SplineSet
+969 816 m 1
+ 893 534 l 1
+ 808 534 l 1
+ 818 570 l 2
+ 827 606 815 619 777 619 c 2
+ 330 619 l 2
+ 297 619 278 609 271 578 c 2
+ 259 534 l 1
+ 173 534 l 1
+ 249 816 l 1
+ 335 816 l 1
+ 326 783 l 2
+ 315 746 328 733 364 733 c 2
+ 812 733 l 2
+ 846 733 865 743 873 775 c 2
+ 884 816 l 1
+ 969 816 l 1
+775 494 m 1
+ 708 242 l 1
+ 624 242 l 1
+ 629 263 l 2
+ 639 298 627 312 588 312 c 2
+ 355 312 l 2
+ 321 312 302 302 294 270 c 2
+ 287 242 l 1
+ 202 242 l 1
+ 269 494 l 1
+ 354 494 l 1
+ 349 474 l 2
+ 339 438 351 425 389 425 c 2
+ 624 425 l 2
+ 658 425 676 435 684 466 c 2
+ 691 494 l 1
+ 775 494 l 1
+803 197 m 1
+ 727 -85 l 1
+ 642 -85 l 1
+ 652 -49 l 2
+ 663 -13 649 0 611 0 c 2
+ 164 0 l 2
+ 131 0 112 -10 105 -42 c 2
+ 93 -85 l 1
+ 7 -85 l 1
+ 83 197 l 1
+ 169 197 l 1
+ 159 162 l 2
+ 149 126 162 113 198 113 c 2
+ 646 113 l 2
+ 680 113 699 123 707 155 c 2
+ 718 197 l 1
+ 803 197 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D729.st u1D729.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D729.st u1D729.sts
+EndChar

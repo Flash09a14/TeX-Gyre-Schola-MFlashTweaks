@@ -1,0 +1,30 @@
+StartChar: Swarrow.v1
+Encoding: 1115740 -1 3734
+Width: 1500
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -334 40
+VStem: 121 40
+LayerCount: 2
+Fore
+SplineSet
+1420 795 m 1
+ 331 -293 l 1
+ 416 -294 l 1
+ 456 -334 l 1
+ 110 -375 l 1
+ 95 -360 l 1
+ 80 -345 l 1
+ 121 1 l 1
+ 161 -39 l 1
+ 162 -123 l 1
+ 1250 965 l 1
+ 1299 915 l 1
+ 163 -221 l 1
+ 163 -292 l 1
+ 233 -292 l 1
+ 1370 845 l 1
+ 1420 795 l 1
+EndSplineSet
+EndChar

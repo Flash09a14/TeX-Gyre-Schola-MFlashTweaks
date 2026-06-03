@@ -1,0 +1,17 @@
+StartChar: shortdownarrow.ex
+Encoding: 1115535 -1 3529
+Width: 574
+GlyphClass: 2
+Flags: MW
+HStem: 0 310<252 322 252 322>
+VStem: 252 70<0 310 0 310>
+LayerCount: 2
+Fore
+SplineSet
+322 310 m 1
+ 322 0 l 1
+ 252 0 l 1
+ 252 310 l 1
+ 322 310 l 1
+EndSplineSet
+EndChar

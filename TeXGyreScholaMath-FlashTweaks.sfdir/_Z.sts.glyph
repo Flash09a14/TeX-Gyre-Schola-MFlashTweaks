@@ -1,0 +1,29 @@
+StartChar: Z.sts
+Encoding: 1114865 -1 2859
+Width: 779
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 388
+HStem: 0 47<211 412 412 451.5 211 694> 469 21G<84 139 84 84> 675 47<305.5 387 387 544>
+VStem: 84 55<469 469> 659 57<278 278>
+LayerCount: 2
+Fore
+SplineSet
+716 278 m 1
+ 694 0 l 1
+ 49 0 l 1
+ 49 36 l 1
+ 544 675 l 1
+ 387 675 l 2
+ 224 675 177 636 139 469 c 1
+ 84 469 l 1
+ 108 722 l 1
+ 708 722 l 1
+ 708 686 l 1
+ 211 47 l 1
+ 412 47 l 2
+ 491 47 556 66 586 99 c 0
+ 621 135 642 185 659 278 c 1
+ 716 278 l 1
+EndSplineSet
+EndChar

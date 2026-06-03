@@ -1,0 +1,22 @@
+StartChar: bracketright.v6
+Encoding: 1116007 -1 4001
+Width: 607
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -989 50<96 304 96 416 96 304> 1459 50<96 304 96 416>
+VStem: 304 112<-939 1459 1459 1459>
+LayerCount: 2
+Fore
+SplineSet
+416 -989 m 1
+ 96 -989 l 1
+ 96 -939 l 1
+ 304 -939 l 1
+ 304 1459 l 1
+ 96 1459 l 1
+ 96 1509 l 1
+ 416 1509 l 1
+ 416 -989 l 1
+EndSplineSet
+EndChar

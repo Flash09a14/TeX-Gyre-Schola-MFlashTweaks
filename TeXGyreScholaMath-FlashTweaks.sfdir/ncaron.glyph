@@ -1,0 +1,54 @@
+StartChar: ncaron
+Encoding: 328 328 236
+Width: 611
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 10
+HStem: 0 36<27 41 41 73 266 280 27 41 340 354 354 386.5 579 593> 412 43<27 63 27 27> 420 61<326 340> 446 20G<200 200>
+VStem: 106 94<83 227> 420 94<83 280>
+LayerCount: 2
+Fore
+SplineSet
+593 0 m 1xac
+ 340 0 l 1
+ 340 36 l 1
+ 354 36 l 2
+ 419 36 420 43 420 83 c 2
+ 420 285 l 2
+ 420 333 413 364 398 385 c 0
+ 383 405 353 420 327 420 c 0xac
+ 284 420 239 389 218 344 c 0
+ 207 321 200 276 200 227 c 2
+ 200 83 l 2
+ 200 43 201 36 266 36 c 2
+ 280 36 l 1
+ 280 0 l 1
+ 27 0 l 1
+ 27 36 l 1
+ 41 36 l 2
+ 105 36 106 43 106 83 c 2
+ 106 362 l 2
+ 106 405 100 412 63 412 c 2
+ 27 412 l 1
+ 27 455 l 1xcc
+ 200 466 l 1x9c
+ 200 385 l 1
+ 244 451 294 481 358 481 c 0
+ 417 481 468 452 493 404 c 0
+ 511 370 514 352 514 280 c 2
+ 514 83 l 2
+ 514 43 515 36 579 36 c 2
+ 593 36 l 1
+ 593 0 l 1xac
+462 693 m 1
+ 337 527 l 1
+ 274 527 l 1
+ 149 693 l 1
+ 185 693 l 1
+ 305 592 l 1
+ 426 693 l 1
+ 462 693 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" ncaron.st ncaron.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" ncaron.st ncaron.sts
+EndChar

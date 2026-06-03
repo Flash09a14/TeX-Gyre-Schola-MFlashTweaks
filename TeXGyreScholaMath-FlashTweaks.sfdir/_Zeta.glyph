@@ -1,0 +1,32 @@
+StartChar: Zeta
+Encoding: 918 918 330
+Width: 753
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 409
+HStem: 0 35<202 442 442 494> 691 31<335 370 370 552>
+VStem: 139 26<417 417> 636 30<311 311>
+LayerCount: 2
+Fore
+SplineSet
+673 700 m 1
+ 202 35 l 1
+ 442 35 l 2
+ 546 35 595 106 616 189 c 0
+ 625 225 632 265 636 311 c 1
+ 666 311 l 1
+ 656 0 l 1
+ 80 0 l 1
+ 80 23 l 1
+ 552 691 l 1
+ 370 691 l 2
+ 300 691 265 669 234 627 c 0
+ 203 584 180 514 165 417 c 1
+ 139 417 l 1
+ 145 722 l 1
+ 673 722 l 1
+ 673 700 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Zeta.st Zeta.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Zeta.st Zeta.sts
+EndChar

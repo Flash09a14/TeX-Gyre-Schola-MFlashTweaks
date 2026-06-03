@@ -1,0 +1,24 @@
+StartChar: brokenbar
+Encoding: 166 166 102
+Width: 606
+GlyphClass: 2
+Flags: MW
+HStem: 702 20G<263 343 343 343>
+VStem: 263 80<-108 224 390 722>
+LayerCount: 2
+Fore
+SplineSet
+343 390 m 1
+ 263 390 l 1
+ 263 722 l 1
+ 343 722 l 1
+ 343 390 l 1
+343 -108 m 1
+ 263 -108 l 1
+ 263 224 l 1
+ 343 224 l 1
+ 343 -108 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" brokenbar.st brokenbar.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" brokenbar.st brokenbar.sts
+EndChar

@@ -1,0 +1,20 @@
+StartChar: quotesingle.st
+Encoding: 1114672 -1 2666
+Width: 244
+GlyphClass: 2
+Flags: MW
+HStem: 498 238<110 134 110 110>
+VStem: 75 95<691 705.5 690 706> 110 24<498 498>
+LayerCount: 2
+Fore
+SplineSet
+170 693 m 0xc0
+ 170 687 170 682 168 677 c 2
+ 134 498 l 1
+ 110 498 l 1xa0
+ 76 677 l 2
+ 75 683 75 688 75 694 c 0
+ 75 718 96 736 122 736 c 0
+ 150 736 170 718 170 693 c 0xc0
+EndSplineSet
+EndChar

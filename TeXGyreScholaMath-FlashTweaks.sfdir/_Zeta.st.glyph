@@ -1,0 +1,30 @@
+StartChar: Zeta.st
+Encoding: 1115174 -1 3168
+Width: 848
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 450
+HStem: 0 35<232 496 496 553.5> 691 31<378.5 417 417 617>
+VStem: 163 29<417 417> 710 33<311 311>
+LayerCount: 2
+Fore
+SplineSet
+750 700 m 1
+ 232 35 l 1
+ 496 35 l 2
+ 611 35 665 106 688 189 c 0
+ 698 225 705 265 710 311 c 1
+ 743 311 l 1
+ 732 0 l 1
+ 98 0 l 1
+ 98 23 l 1
+ 617 691 l 1
+ 417 691 l 2
+ 340 691 302 669 267 627 c 0
+ 233 584 208 514 192 417 c 1
+ 163 417 l 1
+ 170 722 l 1
+ 750 722 l 1
+ 750 700 l 1
+EndSplineSet
+EndChar

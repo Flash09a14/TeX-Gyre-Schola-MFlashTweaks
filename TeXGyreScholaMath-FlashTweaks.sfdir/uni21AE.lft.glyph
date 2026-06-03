@@ -1,0 +1,23 @@
+StartChar: uni21AE.lft
+Encoding: 1115555 -1 3549
+Width: 411
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<113 411 113 411> 447 20G<229 229>
+LayerCount: 2
+Fore
+SplineSet
+411 295 m 1
+ 411 225 l 1
+ 113 225 l 1
+ 229 110 l 1
+ 229 53 l 1
+ 0 239 l 1
+ 0 260 l 1
+ 0 281 l 1
+ 229 467 l 1
+ 229 410 l 1
+ 113 295 l 1
+ 411 295 l 1
+EndSplineSet
+EndChar

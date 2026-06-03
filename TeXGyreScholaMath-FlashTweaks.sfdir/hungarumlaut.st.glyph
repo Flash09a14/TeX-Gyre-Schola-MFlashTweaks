@@ -1,0 +1,28 @@
+StartChar: hungarumlaut.st
+Encoding: 1114420 -1 2414
+Width: 386
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 13
+TopAccentHorizontal: 233
+HStem: 527 166<132 219.5 198.5 262>
+VStem: 153 88<634 672.5> 283 88<634 672.5>
+LayerCount: 2
+Fore
+SplineSet
+241 665 m 0
+ 241 652 236 640 221 625 c 2
+ 132 527 l 1
+ 115 536 l 1
+ 153 634 l 2
+ 170 676 186 693 211 693 c 0
+ 228 693 241 680 241 665 c 0
+371 665 m 0
+ 371 652 365 641 351 625 c 2
+ 262 527 l 1
+ 244 536 l 1
+ 283 634 l 2
+ 299 676 316 693 341 693 c 0
+ 358 693 371 680 371 665 c 0
+EndSplineSet
+EndChar

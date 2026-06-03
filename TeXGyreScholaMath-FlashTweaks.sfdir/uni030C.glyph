@@ -1,0 +1,20 @@
+StartChar: uni030C
+Encoding: 780 780 309
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -269
+GlyphVariantsHorizontal: uni030C uni030C.h1 uni030C.h2 uni030C.h3 uni030C.h4 uni030C.h5 uni030C.h6
+HStem: 551 157
+LayerCount: 2
+Fore
+SplineSet
+-82 680 m 1
+ -140 631 -203 588 -269 551 c 1
+ -335 588 -398 631 -456 680 c 1
+ -440 708 l 1
+ -382 681 -325 652 -269 621 c 1
+ -213 652 -156 681 -98 708 c 1
+ -82 680 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,31 @@
+StartChar: braceright
+Encoding: 125 125 94
+Width: 484
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: braceright braceright.v1 braceright.v2 braceright.v3 braceright.v4 braceright.v5 braceright.v6
+GlyphCompositionVertical: 5  uni23AD%0,0,305,627 braceright.ex%1,610,610,610 uni23AC%0,305,305,1224 braceright.ex%1,610,610,610 uni23AB%0,305,0,627
+HStem: -165 30<80 88> 244 32<365 404> 655 30<80 88>
+VStem: 202 84<-13 123 397 533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+404 244 m 1
+ 326 244 286 190 286 123 c 2
+ 286 -13 l 2
+ 286 -81 204 -134 88 -165 c 1
+ 80 -135 l 1
+ 160 -113 202 -60 202 -13 c 2
+ 202 123 l 2
+ 202 191 241 237 303 260 c 1
+ 241 283 202 329 202 397 c 2
+ 202 533 l 2
+ 202 580 160 633 80 655 c 1
+ 88 685 l 1
+ 204 654 286 601 286 533 c 2
+ 286 397 l 2
+ 286 330 326 276 404 276 c 1
+ 404 244 l 1
+EndSplineSet
+EndChar

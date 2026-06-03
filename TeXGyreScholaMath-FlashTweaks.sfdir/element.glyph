@@ -1,0 +1,27 @@
+StartChar: element
+Encoding: 8712 8712 701
+Width: 798
+GlyphClass: 2
+Flags: MW
+HStem: -50 70<295.5 718 390 718> 225 70<152 718 152 718> 500 70<323 718 390 718>
+VStem: 80 72<225 225 225 295 225 354.5>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+718 -50 m 1
+ 390 -50 l 2
+ 201 -50 80 71 80 260 c 0
+ 80 449 201 570 390 570 c 2
+ 718 570 l 1
+ 718 500 l 1
+ 390 500 l 2
+ 256 500 166 421 152 295 c 1
+ 718 295 l 1
+ 718 225 l 1
+ 152 225 l 1
+ 166 99 256 20 390 20 c 2
+ 718 20 l 1
+ 718 -50 l 1
+EndSplineSet
+EndChar

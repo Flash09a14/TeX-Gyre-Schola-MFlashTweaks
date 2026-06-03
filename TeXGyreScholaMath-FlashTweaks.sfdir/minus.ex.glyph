@@ -1,0 +1,17 @@
+StartChar: minus.ex
+Encoding: 1116079 -1 4073
+Width: 206
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<0 206 0 206>
+VStem: 0 206<225 295 225 295>
+LayerCount: 2
+Fore
+SplineSet
+206 225 m 1
+ 0 225 l 1
+ 0 295 l 1
+ 206 295 l 1
+ 206 225 l 1
+EndSplineSet
+EndChar

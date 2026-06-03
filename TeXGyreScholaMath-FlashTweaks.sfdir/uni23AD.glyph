@@ -1,0 +1,19 @@
+StartChar: uni23AD
+Encoding: 9133 9133 967
+Width: 678
+GlyphClass: 2
+Flags: MW
+HStem: 0 31<96 104>
+VStem: 285 112<321 627>
+LayerCount: 2
+Fore
+SplineSet
+397 321 m 2
+ 397 157 268 44 104 0 c 1
+ 96 31 l 1
+ 227 66 285 190 285 321 c 2
+ 285 627 l 1
+ 397 627 l 1
+ 397 321 l 2
+EndSplineSet
+EndChar

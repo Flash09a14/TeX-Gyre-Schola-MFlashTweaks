@@ -1,0 +1,17 @@
+StartChar: uni21A9.ex
+Encoding: 1115607 -1 3601
+Width: 319
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<0 319 0 319>
+VStem: 0 319<225 295 225 295>
+LayerCount: 2
+Fore
+SplineSet
+319 295 m 1
+ 319 225 l 1
+ 0 225 l 1
+ 0 295 l 1
+ 319 295 l 1
+EndSplineSet
+EndChar

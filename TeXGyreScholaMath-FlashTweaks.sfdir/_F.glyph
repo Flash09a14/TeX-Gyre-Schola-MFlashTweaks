@@ -1,0 +1,42 @@
+StartChar: F
+Encoding: 70 70 39
+Width: 667
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 334
+HStem: 0 47<29 47 47 87.5 339 372 29 47> 350 47<249 269 249 273> 466 21G<594 638 594 594> 675 47<29 47 29 638 285 312 312 358>
+VStem: 137 112<94 350 397 625> 413 47<206 534 206 534> 594 44<466 466>
+LayerCount: 2
+Fore
+SplineSet
+638 466 m 1
+ 594 466 l 1
+ 566 637 523 675 358 675 c 2
+ 312 675 l 2
+ 258 675 249 668 249 625 c 2
+ 249 397 l 1
+ 273 397 l 2
+ 368 397 408 436 413 534 c 1
+ 460 534 l 1
+ 460 206 l 1
+ 413 206 l 1
+ 410 301 393 350 269 350 c 2
+ 249 350 l 1
+ 249 94 l 2
+ 249 52 258 47 339 47 c 2
+ 372 47 l 1
+ 372 0 l 1
+ 29 0 l 1
+ 29 47 l 1
+ 47 47 l 2
+ 128 47 137 52 137 94 c 2
+ 137 628 l 2
+ 137 670 128 675 47 675 c 2
+ 29 675 l 1
+ 29 722 l 1
+ 638 722 l 1
+ 638 466 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" F.st F.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" F.st F.sts
+EndChar

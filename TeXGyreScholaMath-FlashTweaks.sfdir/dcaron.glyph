@@ -1,0 +1,49 @@
+StartChar: dcaron
+Encoding: 271 271 196
+Width: 574
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 107
+HStem: -15 54<226 273.5> -7 21G<380 380> 0 43<536 554> 427 54<241.5 271 185.5 282.5> 475 21G<534 534> 631 106<596 599 596 596> 683 43<278 337 278 278>
+VStem: 43 105<160.5 245.5 160.5 300> 380 94<-7 116 72 116 407 633 633 654.5> 605 48<601.5 676.5>
+LayerCount: 2
+Fore
+SplineSet
+554 0 m 1x25c0
+ 380 -7 l 1x41c0
+ 380 72 l 1
+ 348 12 305 -15 242 -15 c 0
+ 126 -15 43 86 43 228 c 0
+ 43 372 129 481 242 481 c 0
+ 300 481 343 458 380 407 c 1
+ 380 633 l 2
+ 380 676 373 683 337 683 c 2
+ 278 683 l 1
+ 278 726 l 1x93c0
+ 474 737 l 1
+ 474 116 l 2
+ 474 53 482 43 536 43 c 2
+ 554 43 l 1
+ 554 0 l 1x25c0
+379 231 m 0
+ 379 279 372 321 360 351 c 0
+ 342 397 303 427 262 427 c 0
+ 221 427 184 398 167 354 c 0
+ 154 320 148 275 148 216 c 0
+ 148 105 191 39 261 39 c 0x91c0
+ 333 39 379 115 379 231 c 0
+653 651 m 0
+ 653 614 639 574 615 542 c 0
+ 602 525 583 504 534 475 c 1
+ 514 500 l 1
+ 573 537 605 580 605 623 c 0
+ 605 628 603 631 599 631 c 2
+ 596 631 l 2x0dc0
+ 592 630 589 630 584 630 c 0
+ 544 630 520 650 520 683 c 0x03c0
+ 520 714 545 737 579 737 c 0x05c0
+ 622 737 653 702 653 651 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" dcaron.st dcaron.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" dcaron.st dcaron.sts
+EndChar

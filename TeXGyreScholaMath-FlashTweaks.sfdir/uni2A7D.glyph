@@ -1,0 +1,23 @@
+StartChar: uni2A7D
+Encoding: 10877 10877 1081
+Width: 787
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+707 37 m 1
+ 80 318 l 1
+ 80 388 l 1
+ 707 670 l 1
+ 707 593 l 1
+ 173 353 l 1
+ 707 114 l 1
+ 707 37 l 1
+707 -150 m 1
+ 87 128 l 1
+ 87 205 l 1
+ 707 -73 l 1
+ 707 -150 l 1
+EndSplineSet
+EndChar

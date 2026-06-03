@@ -1,0 +1,22 @@
+StartChar: H22073
+Encoding: 9633 9633 1000
+Width: 780
+GlyphClass: 2
+Flags: MW
+HStem: -50 70<150 630 150 700> 500 70<150 630 150 150>
+VStem: 80 70<20 500 20 570> 630 70<20 500 500 500>
+LayerCount: 2
+Fore
+SplineSet
+700 -50 m 1
+ 80 -50 l 1
+ 80 570 l 1
+ 700 570 l 1
+ 700 -50 l 1
+630 20 m 1
+ 630 500 l 1
+ 150 500 l 1
+ 150 20 l 1
+ 630 20 l 1
+EndSplineSet
+EndChar

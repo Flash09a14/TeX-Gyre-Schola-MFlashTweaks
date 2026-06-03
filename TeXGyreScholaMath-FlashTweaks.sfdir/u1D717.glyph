@@ -1,0 +1,44 @@
+StartChar: u1D717
+Encoding: 120599 120599 1878
+Width: 758
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 11
+TopAccentHorizontal: 562
+IsExtendedShape: 1
+HStem: -9 66<378.5 386> 125 82<195 203.5> 763 36<576.5 631.5>
+LayerCount: 2
+Fore
+SplineSet
+728 707 m 0
+ 745 657 748 587 726 507 c 0
+ 717 472 703 447 679 377 c 1
+ 727 364 l 1
+ 709 327 l 1
+ 664 336 l 1
+ 543 34 418 -9 354 -9 c 0
+ 263 -9 244 125 163 125 c 0
+ 132 125 104 87 89 58 c 1
+ 68 73 l 1
+ 103 134 162 207 228 207 c 0
+ 245 207 260 205 272 199 c 0
+ 284 194 292 187 297 179 c 0
+ 303 170 308 158 316 141 c 0
+ 341 85 366 57 391 57 c 0
+ 479 57 518 137 596 359 c 1
+ 552 374 493 395 458 423 c 0
+ 423 451 392 489 384 540 c 0
+ 380 566 381 594 389 624 c 0
+ 416 725 503 799 599 799 c 0
+ 670 799 713 756 728 707 c 0
+667 589 m 0
+ 693 686 676 763 587 763 c 0
+ 566 763 544 751 525 730 c 0
+ 504 707 489 676 477 633 c 0
+ 449 529 492 459 555 427 c 0
+ 579 414 598 406 611 401 c 1
+ 628 452 647 515 667 589 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D717.st u1D717.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D717.st u1D717.sts
+EndChar

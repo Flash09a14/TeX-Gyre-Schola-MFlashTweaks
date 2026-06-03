@@ -1,0 +1,20 @@
+StartChar: uni032D
+Encoding: 813 813 315
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -269
+GlyphVariantsHorizontal: uni032D uni032D.h1 uni032D.h2 uni032D.h3 uni032D.h4 uni032D.h5 uni032D.h6
+HStem: -232 156
+LayerCount: 2
+Fore
+SplineSet
+-82 -205 m 1
+ -98 -232 l 1
+ -156 -206 -213 -177 -269 -145 c 1
+ -325 -177 -382 -206 -440 -232 c 1
+ -456 -205 l 1
+ -398 -156 -335 -113 -269 -76 c 1
+ -203 -113 -140 -156 -82 -205 c 1
+EndSplineSet
+EndChar

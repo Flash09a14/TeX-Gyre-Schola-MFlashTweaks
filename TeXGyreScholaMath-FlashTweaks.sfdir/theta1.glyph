@@ -1,0 +1,44 @@
+StartChar: theta1
+Encoding: 977 977 374
+Width: 689
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 359
+IsExtendedShape: 1
+HStem: -9 66<366.5 389.5> 125 82<163 191> 763 36<374.5 418.5 342.5 424.5>
+VStem: 80 23<58 73> 238 78<609 654.5 581 674.5> 499 74<489.5 637.5>
+LayerCount: 2
+Fore
+SplineSet
+609 364 m 1
+ 601 327 l 1
+ 558 336 l 1
+ 522 34 419 -9 360 -9 c 0
+ 278 -9 228 125 154 125 c 0
+ 126 125 110 87 103 58 c 1
+ 80 73 l 1
+ 97 134 133 207 193 207 c 0
+ 209 207 223 205 235 199 c 0
+ 247 194 256 187 263 179 c 0
+ 270 170 278 158 289 141 c 0
+ 326 85 355 57 378 57 c 0
+ 458 57 474 137 491 359 c 1
+ 447 374 388 395 350 423 c 0
+ 311 451 274 489 254 540 c 0
+ 244 566 238 594 238 624 c 0
+ 238 725 299 799 386 799 c 0
+ 451 799 500 756 526 707 c 0
+ 554 657 573 587 573 507 c 0
+ 573 472 567 447 562 377 c 1
+ 609 364 l 1
+499 589 m 0
+ 499 686 465 763 384 763 c 0
+ 365 763 348 751 336 730 c 0
+ 322 707 316 676 316 633 c 0
+ 316 529 372 459 437 427 c 0
+ 462 414 481 406 494 401 c 1
+ 497 452 499 515 499 589 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" theta1.st theta1.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" theta1.st theta1.sts
+EndChar

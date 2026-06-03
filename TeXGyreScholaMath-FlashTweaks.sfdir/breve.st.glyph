@@ -1,0 +1,22 @@
+StartChar: breve.st
+Encoding: 1114232 -1 2226
+Width: 386
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 184
+HStem: 532 62<159 228 159 237.5>
+VStem: 38 39<676 689 689 689> 309 40<634.5 689>
+LayerCount: 2
+Fore
+SplineSet
+349 675 m 2
+ 349 594 282 532 193 532 c 0
+ 104 532 38 594 38 676 c 2
+ 38 689 l 1
+ 77 689 l 1
+ 83 629 124 594 194 594 c 0
+ 262 594 304 629 309 689 c 1
+ 349 689 l 1
+ 349 675 l 2
+EndSplineSet
+EndChar

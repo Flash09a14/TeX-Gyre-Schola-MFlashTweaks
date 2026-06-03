@@ -1,0 +1,24 @@
+StartChar: caron
+Encoding: 711 711 290
+Width: 333
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 18
+TopAccentHorizontal: 167
+HStem: 527 166<10 198 10 135>
+VStem: 10 313<693 693>
+LayerCount: 2
+Fore
+SplineSet
+323 693 m 1
+ 198 527 l 1
+ 135 527 l 1
+ 10 693 l 1
+ 46 693 l 1
+ 166 592 l 1
+ 287 693 l 1
+ 323 693 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" caron.st caron.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" caron.st caron.sts
+EndChar

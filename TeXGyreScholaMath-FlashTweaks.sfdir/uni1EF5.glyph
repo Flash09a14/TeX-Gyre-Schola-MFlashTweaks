@@ -1,0 +1,50 @@
+StartChar: uni1EF5
+Encoding: 7925 7925 467
+Width: 537
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 22
+HStem: -206 49<118.5 120.5> -194 100<389.5 416> 430 36<13 26 13 251 213 230 230 251 331 347 500 519 519 531>
+VStem: 3 104<-150 -143.5 -150 -111> 353 100<-157.5 -130.5>
+LayerCount: 2
+Fore
+SplineSet
+531 430 m 1xb8
+ 519 430 l 2
+ 481 430 466 410 441 349 c 2
+ 327 67 l 2
+ 282 -44 263 -84 232 -126 c 0
+ 192 -180 147 -206 94 -206 c 0
+ 42 -206 3 -173 3 -129 c 0
+ 3 -93 28 -67 63 -67 c 0
+ 92 -67 114 -86 114 -112 c 0
+ 114 -123 107 -140 107 -147 c 0
+ 107 -153 114 -157 123 -157 c 0
+ 155 -157 201 -104 238 -28 c 2
+ 255 7 l 1
+ 92 376 l 2
+ 74 416 58 430 26 430 c 2
+ 13 430 l 1
+ 13 466 l 1
+ 251 466 l 1
+ 251 430 l 1
+ 230 430 l 2
+ 196 430 184 423 184 405 c 0
+ 184 400 186 393 190 384 c 2
+ 300 127 l 1
+ 391 353 l 2
+ 398 370 401 383 401 393 c 0
+ 401 419 385 430 347 430 c 2
+ 331 430 l 1
+ 331 466 l 1
+ 531 466 l 1
+ 531 430 l 1xb8
+453 -144 m 0
+ 453 -172 430 -194 402 -194 c 0
+ 376 -194 353 -171 353 -144 c 0
+ 353 -117 376 -94 403 -94 c 0x78
+ 430 -94 453 -117 453 -144 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" uni1EF5.st uni1EF5.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" uni1EF5.st uni1EF5.sts
+EndChar

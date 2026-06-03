@@ -1,0 +1,27 @@
+StartChar: uni2B31.rt
+Encoding: 1115694 -1 3688
+Width: 465
+GlyphClass: 2
+Flags: MW
+HStem: -135 70<0 465 0 465> 225 70<0 465 0 465> 585 70<0 465 0 465>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+465 -135 m 1
+ 0 -135 l 1
+ 0 -65 l 1
+ 465 -65 l 1
+ 465 -135 l 1
+465 225 m 1
+ 0 225 l 1
+ 0 295 l 1
+ 465 295 l 1
+ 465 225 l 1
+465 585 m 1
+ 0 585 l 1
+ 0 655 l 1
+ 465 655 l 1
+ 465 585 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,24 @@
+StartChar: radical.v1
+Encoding: 1116175 -1 4169
+Width: 718
+GlyphClass: 2
+Flags: MW
+HStem: 151 60<120 200 120 292> 731 70<684 753 684 684>
+LayerCount: 2
+Fore
+SplineSet
+753 731 m 1
+ 684 731 l 1
+ 436 -246 l 1
+ 389 -246 l 1
+ 343 -246 l 1
+ 200 151 l 1
+ 120 151 l 1
+ 120 211 l 1
+ 292 211 l 1
+ 402 -94 l 1
+ 629 801 l 1
+ 753 801 l 1
+ 753 731 l 1
+EndSplineSet
+EndChar

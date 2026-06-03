@@ -1,0 +1,28 @@
+StartChar: equivalence
+Encoding: 8801 8801 788
+Width: 780
+GlyphClass: 2
+Flags: MW
+GlyphCompositionHorizontal: 3  equivalence.lft%0,0,103,207 equivalence.ex%1,206,206,206 equivalence.rt%0,103,0,207
+HStem: 25 70<80 700 80 700> 225 70<80 700 80 700> 425 70<80 700 80 700>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+700 425 m 1
+ 80 425 l 1
+ 80 495 l 1
+ 700 495 l 1
+ 700 425 l 1
+700 225 m 1
+ 80 225 l 1
+ 80 295 l 1
+ 700 295 l 1
+ 700 225 l 1
+700 25 m 1
+ 80 25 l 1
+ 80 95 l 1
+ 700 95 l 1
+ 700 25 l 1
+EndSplineSet
+EndChar

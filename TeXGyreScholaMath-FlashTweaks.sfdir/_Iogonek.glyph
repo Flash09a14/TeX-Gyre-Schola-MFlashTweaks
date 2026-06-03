@@ -1,0 +1,40 @@
+StartChar: Iogonek
+Encoding: 302 302 215
+Width: 407
+GlyphClass: 2
+Flags: MW
+HStem: -236 64<230.5 273.5> 0 47<38 58 58 98.5 38 200 38 58 349 360 360 369> 675 47<38 58 38 369 309 349 349 369>
+VStem: 116 88<-136.5 -106 -136.5 -102> 148 112<94 628>
+LayerCount: 2
+Fore
+SplineSet
+369 0 m 1xe8
+ 360 0 l 2
+ 306 0 245 0 222 -45 c 0
+ 212 -65 204 -91 204 -121 c 0
+ 204 -152 217 -172 244 -172 c 0
+ 311 -172 325 -132 339 -132 c 0
+ 344 -132 349 -137 349 -144 c 0
+ 349 -184 317 -236 230 -236 c 0
+ 170 -236 116 -195 116 -124 c 0xf0
+ 116 -80 159 -31 200 0 c 1
+ 38 0 l 1
+ 38 47 l 1
+ 58 47 l 2
+ 139 47 148 52 148 94 c 2
+ 148 628 l 2
+ 148 670 139 675 58 675 c 2
+ 38 675 l 1
+ 38 722 l 1
+ 369 722 l 1
+ 369 675 l 1
+ 349 675 l 2
+ 269 675 260 670 260 628 c 2
+ 260 94 l 2
+ 260 52 269 47 349 47 c 2
+ 369 47 l 1
+ 369 0 l 1xe8
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Iogonek.st Iogonek.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Iogonek.st Iogonek.sts
+EndChar

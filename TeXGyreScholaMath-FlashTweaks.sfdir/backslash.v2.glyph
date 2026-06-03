@@ -1,0 +1,16 @@
+StartChar: backslash.v2
+Encoding: 1116092 -1 4086
+Width: 643
+GlyphClass: 2
+Flags: W
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+563 -514 m 1
+ 495 -514 l 1
+ 80 1034 l 1
+ 148 1034 l 1
+ 563 -514 l 1
+EndSplineSet
+EndChar

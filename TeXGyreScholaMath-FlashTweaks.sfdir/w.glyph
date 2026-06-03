@@ -1,0 +1,51 @@
+StartChar: w
+Encoding: 119 119 88
+Width: 778
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 13
+TopAccentHorizontal: 389
+HStem: 430 36<15 33 15 235 202 217 217 235 287 304 470.5 487 487 511 574 591 732.5 750 750 763>
+LayerCount: 2
+Fore
+SplineSet
+763 430 m 1
+ 750 430 l 2
+ 715 430 704 413 682 354 c 2
+ 542 -15 l 1
+ 511 -15 l 1
+ 389 301 l 1
+ 270 -15 l 1
+ 235 -15 l 1
+ 85 381 l 2
+ 71 421 61 430 33 430 c 2
+ 15 430 l 1
+ 15 466 l 1
+ 235 466 l 1
+ 235 430 l 1
+ 217 430 l 2
+ 187 430 176 424 176 407 c 0
+ 176 401 178 392 180 385 c 2
+ 277 134 l 1
+ 365 367 l 1
+ 356 393 l 2
+ 346 422 336 430 304 430 c 2
+ 287 430 l 1
+ 287 466 l 1
+ 511 466 l 1
+ 511 430 l 1
+ 487 430 l 2
+ 454 430 445 425 445 407 c 0
+ 445 398 446 393 449 386 c 2
+ 547 129 l 1
+ 632 357 l 2
+ 636 369 640 384 640 394 c 0
+ 640 419 626 430 591 430 c 2
+ 574 430 l 1
+ 574 466 l 1
+ 763 466 l 1
+ 763 430 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" w.st w.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" w.st w.sts
+EndChar

@@ -1,0 +1,22 @@
+StartChar: uni23B4.h1
+Encoding: 1115900 -1 3894
+Width: 750
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 28
+HStem: 700 74<44 706 44 44>
+VStem: 0 44<544 700 544 774> 706 44<544 700 700 700>
+LayerCount: 2
+Fore
+SplineSet
+750 774 m 1
+ 750 544 l 1
+ 706 544 l 1
+ 706 700 l 1
+ 44 700 l 1
+ 44 544 l 1
+ 0 544 l 1
+ 0 774 l 1
+ 750 774 l 1
+EndSplineSet
+EndChar

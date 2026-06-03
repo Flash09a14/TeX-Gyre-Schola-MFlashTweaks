@@ -1,0 +1,19 @@
+StartChar: SF040000
+Encoding: 9496 9496 988
+Width: 620
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<0 275 0 345 0 275>
+VStem: 275 70<295 670>
+LayerCount: 2
+Fore
+SplineSet
+345 225 m 1
+ 0 225 l 1
+ 0 295 l 1
+ 275 295 l 1
+ 275 670 l 1
+ 345 670 l 1
+ 345 225 l 1
+EndSplineSet
+EndChar

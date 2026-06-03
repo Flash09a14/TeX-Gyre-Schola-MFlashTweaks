@@ -1,0 +1,36 @@
+StartChar: guillemotleft
+Encoding: 171 171 107
+Width: 426
+GlyphClass: 2
+Flags: MW
+HStem: 85 317<208 211 375 378>
+LayerCount: 2
+Fore
+SplineSet
+388 390 m 0
+ 388 378 294 246 292 243 c 0
+ 376 124 387 106 387 96 c 0
+ 387 90 381 85 375 85 c 0
+ 368 84 363 90 353 100 c 2
+ 266 185 l 1
+ 225 224 l 2
+ 218 231 212 237 205 243 c 1
+ 315 349 l 2
+ 365 397 369 402 377 402 c 0
+ 383 402 388 396 388 390 c 0
+220 96 m 0
+ 220 90 214 85 208 85 c 0
+ 201 84 196 90 186 100 c 2
+ 99 185 l 1
+ 58 224 l 2
+ 51 231 45 237 38 243 c 1
+ 186 387 l 2
+ 197 397 202 402 209 402 c 0
+ 215 402 220 396 220 390 c 0
+ 221 381 208 365 176 318 c 2
+ 125 243 l 1
+ 209 124 220 106 220 96 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" guillemotleft.st guillemotleft.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" guillemotleft.st guillemotleft.sts
+EndChar

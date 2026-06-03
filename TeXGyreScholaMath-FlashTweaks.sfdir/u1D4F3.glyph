@@ -1,0 +1,35 @@
+StartChar: u1D4F3
+Encoding: 120051 120051 1344
+Width: 866
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 663
+HStem: -311 35<158 199.5 158 216> 573 176<638.5 687>
+VStem: 85 40<-242.5 -207.5 -242.5 -176.5> 575 177<636.5 685>
+LayerCount: 2
+Fore
+SplineSet
+752 661 m 0
+ 752 612 711 573 663 573 c 0
+ 614 573 575 612 575 661 c 0
+ 575 709 614 749 663 749 c 0
+ 711 749 752 709 752 661 c 0
+781 254 m 1
+ 721 139 598 -26 476 -56 c 1
+ 476 -56 420 -167 386 -207 c 0
+ 348 -252 249 -311 183 -311 c 0
+ 115 -311 85 -283 85 -222 c 0
+ 85 -131 235 -81 342 -34 c 1
+ 557 439 l 1
+ 716 439 l 1
+ 495 -9 l 1
+ 591 35 698 182 749 282 c 1
+ 781 254 l 1
+319 -84 m 1
+ 176 -150 125 -186 125 -229 c 0
+ 125 -256 140 -276 176 -276 c 0
+ 223 -276 299 -134 319 -84 c 1
+EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical text layout lookup 1 subtable" uni0237.calb
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" uni0237.calb
+EndChar

@@ -1,0 +1,30 @@
+StartChar: Searrow
+Encoding: 8664 8664 680
+Width: 1080
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: Searrow Searrow.v1
+HStem: -124 40
+VStem: 919 40
+LayerCount: 2
+Fore
+SplineSet
+1000 -135 m 1
+ 985 -150 l 1
+ 970 -165 l 1
+ 624 -124 l 1
+ 664 -84 l 1
+ 748 -83 l 1
+ 80 585 l 1
+ 129 635 l 1
+ 846 -82 l 1
+ 916 -82 l 1
+ 917 -11 l 1
+ 200 705 l 1
+ 250 755 l 1
+ 918 87 l 1
+ 919 171 l 1
+ 959 211 l 1
+ 1000 -135 l 1
+EndSplineSet
+EndChar

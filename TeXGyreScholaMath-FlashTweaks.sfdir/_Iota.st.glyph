@@ -1,0 +1,30 @@
+StartChar: Iota.st
+Encoding: 1115046 -1 3040
+Width: 563
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 272
+HStem: 0 31<98 190 190 204 373 465 98 190> 691 31<98 190 98 465 359.5 373 373 465>
+VStem: 232 99<71 651>
+LayerCount: 2
+Fore
+SplineSet
+465 0 m 1
+ 98 0 l 1
+ 98 31 l 1
+ 190 31 l 2
+ 218 31 232 45 232 71 c 2
+ 232 651 l 2
+ 232 677 218 691 190 691 c 2
+ 98 691 l 1
+ 98 722 l 1
+ 465 722 l 1
+ 465 691 l 1
+ 373 691 l 2
+ 346 691 331 677 331 651 c 2
+ 331 71 l 2
+ 331 45 346 31 373 31 c 2
+ 465 31 l 1
+ 465 0 l 1
+EndSplineSet
+EndChar

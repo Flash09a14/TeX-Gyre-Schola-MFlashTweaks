@@ -1,0 +1,25 @@
+StartChar: dotlessi.cal
+Encoding: 1115473 -1 3467
+Width: 498
+GlyphClass: 2
+Flags: MW
+HStem: -15 31<158.5 167>
+VStem: 85 327<49 242>
+LayerCount: 2
+Fore
+SplineSet
+412 242 m 1
+ 363 167 313 96 256 38 c 0
+ 242 22 202 -18 167 -15 c 0
+ 138 -15 85 14 85 84 c 0
+ 85 107 91 134 105 166 c 2
+ 220 434 l 1
+ 311 434 l 1
+ 191 166 l 2
+ 167 109 130 43 135 27 c 0
+ 139 16 154 16 163 16 c 0
+ 195 16 229 51 247 68 c 0
+ 295 122 356 210 392 265 c 1
+ 412 242 l 1
+EndSplineSet
+EndChar

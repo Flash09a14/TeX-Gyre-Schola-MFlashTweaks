@@ -1,0 +1,30 @@
+StartChar: Searrow.v1
+Encoding: 1115742 -1 3736
+Width: 1500
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -334 40
+VStem: 1339 40
+LayerCount: 2
+Fore
+SplineSet
+1420 -345 m 1
+ 1405 -360 l 1
+ 1390 -375 l 1
+ 1044 -334 l 1
+ 1084 -294 l 1
+ 1168 -293 l 1
+ 80 795 l 1
+ 129 845 l 1
+ 1266 -292 l 1
+ 1336 -292 l 1
+ 1337 -221 l 1
+ 200 915 l 1
+ 250 965 l 1
+ 1338 -123 l 1
+ 1339 -39 l 1
+ 1379 1 l 1
+ 1420 -345 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,38 @@
+StartChar: uni1ECB
+Encoding: 7883 7883 425
+Width: 315
+GlyphClass: 2
+Flags: MW
+HStem: -194 100<144.5 171> 0 36<30 42 42 74 277 289 30 42> 412 43<18 69 18 18> 446 20G<206 206> 560 100<145.5 172>
+VStem: 109 100<596.5 623.5>
+LayerCount: 2
+Fore
+SplineSet
+289 0 m 1xdc
+ 30 0 l 1
+ 30 36 l 1
+ 42 36 l 2
+ 106 36 112 43 112 83 c 2
+ 112 362 l 2
+ 112 404 106 412 69 412 c 2
+ 18 412 l 1
+ 18 455 l 1xec
+ 206 466 l 1
+ 206 83 l 2
+ 206 43 212 36 277 36 c 2
+ 289 36 l 1
+ 289 0 l 1xdc
+209 610 m 0
+ 209 582 186 560 158 560 c 0
+ 132 560 109 583 109 610 c 0
+ 109 637 132 660 159 660 c 0
+ 186 660 209 637 209 610 c 0
+208 -144 m 0
+ 208 -172 185 -194 157 -194 c 0
+ 131 -194 108 -171 108 -144 c 0
+ 108 -117 131 -94 158 -94 c 0
+ 185 -94 208 -117 208 -144 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" uni1ECB.st uni1ECB.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" uni1ECB.st uni1ECB.sts
+EndChar

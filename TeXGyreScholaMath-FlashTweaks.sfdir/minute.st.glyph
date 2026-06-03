@@ -1,0 +1,18 @@
+StartChar: minute.st
+Encoding: 1116150 -1 4144
+Width: 410
+GlyphClass: 2
+Flags: MW
+VStem: 66 278
+LayerCount: 2
+Fore
+SplineSet
+344 519 m 0
+ 344 504 339 490 331 479 c 2
+ 112 156 l 1
+ 66 156 l 1
+ 206 552 l 2
+ 212 572 239 592 271 592 c 0
+ 311 592 344 560 344 519 c 0
+EndSplineSet
+EndChar

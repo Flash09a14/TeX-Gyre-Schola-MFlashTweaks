@@ -1,0 +1,44 @@
+StartChar: Nacute
+Encoding: 323 323 231
+Width: 815
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 7
+HStem: -14 21G<636 678 636 636> 0 47<20 305 20 20> 675 47<19 44 19 225> 857 66<524 545>
+VStem: 136 54<217 588> 624 54<191 505 -14 573.5>
+LayerCount: 2
+Fore
+SplineSet
+794 675 m 1x7c
+ 698 671 678 642 678 505 c 2
+ 678 -14 l 1
+ 636 -14 l 1xbc
+ 190 588 l 1
+ 190 217 l 2
+ 190 80 210 51 305 47 c 1
+ 305 0 l 1
+ 20 0 l 1
+ 20 47 l 1
+ 116 51 136 80 136 217 c 2
+ 136 642 l 1
+ 118 667 95 675 44 675 c 2
+ 19 675 l 1
+ 19 722 l 1
+ 225 722 l 1
+ 624 191 l 1
+ 624 505 l 2
+ 624 642 604 671 509 675 c 1
+ 509 722 l 1
+ 794 722 l 1
+ 794 675 l 1x7c
+575 892 m 0
+ 575 879 563 866 545 857 c 2
+ 354 769 l 1
+ 305 769 l 1
+ 473 895 l 2
+ 503 918 515 923 533 923 c 0
+ 556 923 575 909 575 892 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Nacute.st Nacute.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Nacute.st Nacute.sts
+EndChar

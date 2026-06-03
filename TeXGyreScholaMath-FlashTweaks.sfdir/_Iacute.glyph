@@ -1,0 +1,38 @@
+StartChar: Iacute
+Encoding: 205 205 134
+Width: 407
+GlyphClass: 2
+Flags: MW
+HStem: 0 47<38 58 58 98.5 349 369 38 58> 675 47<38 58 38 369 309 349 349 369> 857 66<321 342>
+VStem: 148 112<94 628>
+LayerCount: 2
+Fore
+SplineSet
+369 0 m 1
+ 38 0 l 1
+ 38 47 l 1
+ 58 47 l 2
+ 139 47 148 52 148 94 c 2
+ 148 628 l 2
+ 148 670 139 675 58 675 c 2
+ 38 675 l 1
+ 38 722 l 1
+ 369 722 l 1
+ 369 675 l 1
+ 349 675 l 2
+ 269 675 260 670 260 628 c 2
+ 260 94 l 2
+ 260 52 269 47 349 47 c 2
+ 369 47 l 1
+ 369 0 l 1
+372 892 m 0
+ 372 879 360 866 342 857 c 2
+ 151 769 l 1
+ 102 769 l 1
+ 270 895 l 2
+ 300 918 312 923 330 923 c 0
+ 353 923 372 909 372 892 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Iacute.st Iacute.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Iacute.st Iacute.sts
+EndChar

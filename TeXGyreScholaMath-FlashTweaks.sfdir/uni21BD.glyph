@@ -1,0 +1,21 @@
+StartChar: uni21BD
+Encoding: 8637 8637 653
+Width: 980
+GlyphClass: 2
+Flags: MW
+GlyphVariantsHorizontal: uni21BD uni21BD.h1
+GlyphCompositionHorizontal: 3  uni21BD.lft%0,0,155,465 uni21BD.ex%1,310,310,310 uni21BD.rt%0,155,0,465
+HStem: 225 70<208 900 208 208>
+LayerCount: 2
+Fore
+SplineSet
+900 225 m 1
+ 208 225 l 1
+ 325 110 l 1
+ 325 53 l 1
+ 80 253 l 1
+ 80 295 l 1
+ 900 295 l 1
+ 900 225 l 1
+EndSplineSet
+EndChar

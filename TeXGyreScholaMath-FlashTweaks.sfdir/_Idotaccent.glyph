@@ -1,0 +1,36 @@
+StartChar: Idotaccent
+Encoding: 304 304 217
+Width: 407
+GlyphClass: 2
+Flags: MW
+HStem: 0 47<38 58 58 98.5 349 369 38 58> 675 47<38 58 38 369 309 349 349 369> 796 100<190.5 217>
+VStem: 148 112<94 628>
+LayerCount: 2
+Fore
+SplineSet
+369 0 m 1
+ 38 0 l 1
+ 38 47 l 1
+ 58 47 l 2
+ 139 47 148 52 148 94 c 2
+ 148 628 l 2
+ 148 670 139 675 58 675 c 2
+ 38 675 l 1
+ 38 722 l 1
+ 369 722 l 1
+ 369 675 l 1
+ 349 675 l 2
+ 269 675 260 670 260 628 c 2
+ 260 94 l 2
+ 260 52 269 47 349 47 c 2
+ 369 47 l 1
+ 369 0 l 1
+254 846 m 0
+ 254 818 231 796 203 796 c 0
+ 177 796 154 819 154 846 c 0
+ 154 873 177 896 204 896 c 0
+ 231 896 254 873 254 846 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Idotaccent.st Idotaccent.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Idotaccent.st Idotaccent.sts
+EndChar

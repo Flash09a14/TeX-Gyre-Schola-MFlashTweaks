@@ -1,0 +1,40 @@
+StartChar: germandbls
+Encoding: 223 223 152
+Width: 574
+GlyphClass: 2
+Flags: MW
+HStem: -15 38<360.5 385 360.5 419.5> 0 36<29 43 43 75 29 202 29 43> 394 42 695 42<272.5 337>
+VStem: 108 94<84 493 493 540> 252 95<34 95.5> 403 94<528.5 603.5> 430 105<144 247.5 132 262.5>
+LayerCount: 2
+Fore
+SplineSet
+535 194 m 0x7d
+ 535 70 468 -15 371 -15 c 0
+ 298 -15 252 21 252 77 c 0
+ 252 114 274 138 307 138 c 0
+ 337 138 361 115 361 85 c 0
+ 361 74 360 70 349 49 c 0
+ 348 46 347 43 347 39 c 0
+ 347 29 355 23 366 23 c 0
+ 404 23 430 93 430 195 c 0xbd
+ 430 330 390 388 297 394 c 0
+ 276 395 269 400 269 414 c 0
+ 269 431 279 436 306 436 c 0
+ 374 436 403 472 403 559 c 0
+ 403 648 369 695 305 695 c 0
+ 240 695 202 644 202 557 c 2
+ 202 0 l 1
+ 29 0 l 1
+ 29 36 l 1
+ 43 36 l 2
+ 107 36 108 43 108 84 c 2
+ 108 493 l 2
+ 108 587 116 623 147 665 c 0
+ 181 711 238 737 306 737 c 0
+ 422 737 497 668 497 563 c 0x7e
+ 497 494 467 451 391 412 c 1
+ 489 375 535 301 535 194 c 0x7d
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" germandbls.st germandbls.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" germandbls.st germandbls.sts
+EndChar

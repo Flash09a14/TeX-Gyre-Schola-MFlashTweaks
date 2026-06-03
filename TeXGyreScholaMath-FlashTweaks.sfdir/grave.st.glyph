@@ -1,0 +1,20 @@
+StartChar: grave.st
+Encoding: 1114404 -1 2398
+Width: 386
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 143
+HStem: 524 171<56.5 276 56.5 231>
+VStem: 29 247<524 669.5>
+LayerCount: 2
+Fore
+SplineSet
+276 524 m 1
+ 231 524 l 1
+ 56 621 l 2
+ 40 630 29 646 29 660 c 0
+ 29 679 46 695 67 695 c 0
+ 84 695 95 689 122 664 c 2
+ 276 524 l 1
+EndSplineSet
+EndChar

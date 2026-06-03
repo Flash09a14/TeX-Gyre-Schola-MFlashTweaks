@@ -1,0 +1,39 @@
+StartChar: Sigma
+Encoding: 931 931 342
+Width: 769
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 559
+IsExtendedShape: 1
+HStem: 0 87<213 564 564 579 213 612> 691 31<80 566 209 209 209 489>
+LayerCount: 2
+Fore
+SplineSet
+689 210 m 1
+ 628 -81 l 1
+ 596 -73 l 1
+ 612 0 l 1
+ 82 0 l 1
+ 82 31 l 1
+ 439 330 l 1
+ 80 691 l 1
+ 80 722 l 1
+ 566 722 l 1
+ 539 817 l 1
+ 571 826 l 1
+ 642 577 l 1
+ 607 577 l 1
+ 595 615 l 2
+ 582 661 546 691 489 691 c 2
+ 209 691 l 1
+ 535 359 l 1
+ 213 87 l 1
+ 564 87 l 2
+ 594 87 621 99 632 121 c 0
+ 635 127 639 136 642 148 c 2
+ 656 210 l 1
+ 689 210 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Sigma.st Sigma.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Sigma.st Sigma.sts
+EndChar

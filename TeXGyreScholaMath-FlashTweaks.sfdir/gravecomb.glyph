@@ -1,0 +1,20 @@
+StartChar: gravecomb
+Encoding: 768 768 297
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -305
+HStem: 544 171<-392.5 -193 -392.5 -234>
+VStem: -418 225<544 689.5>
+LayerCount: 2
+Fore
+SplineSet
+-193 544 m 1
+ -234 544 l 1
+ -393 641 l 2
+ -408 650 -418 666 -418 680 c 0
+ -418 699 -402 715 -383 715 c 0
+ -368 715 -358 709 -333 684 c 2
+ -193 544 l 1
+EndSplineSet
+EndChar

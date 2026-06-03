@@ -1,0 +1,28 @@
+StartChar: uni21C6.lft
+Encoding: 1115660 -1 3654
+Width: 465
+GlyphClass: 2
+Flags: MW
+HStem: 45 70<0 465 0 465> 405 70<113 465 113 465>
+LayerCount: 2
+Fore
+SplineSet
+465 45 m 1
+ 0 45 l 1
+ 0 115 l 1
+ 465 115 l 1
+ 465 45 l 1
+465 405 m 1
+ 113 405 l 1
+ 229 290 l 1
+ 229 233 l 1
+ 0 419 l 1
+ 0 440 l 1
+ 0 461 l 1
+ 229 647 l 1
+ 229 590 l 1
+ 113 475 l 1
+ 465 475 l 1
+ 465 405 l 1
+EndSplineSet
+EndChar

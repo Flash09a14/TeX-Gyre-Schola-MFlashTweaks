@@ -1,0 +1,38 @@
+StartChar: uni2136
+Encoding: 8502 8502 601
+Width: 598
+GlyphClass: 2
+Flags: MW
+HStem: -1 128<92 295 92 295 493 506> 568 128<225.5 289> 716 20G<86 86>
+VStem: 40 10<-26 95> 452 41<126 127> 548 10
+LayerCount: 2
+Fore
+SplineSet
+558 31 m 1
+ 549 7 530 0 506 -1 c 2
+ 295 -1 l 1
+ 92 -1 l 2
+ 73 -2 58 -6 50 -26 c 1
+ 40 -24 l 1
+ 40 95 l 1
+ 50 118 69 126 92 127 c 2
+ 295 127 l 1
+ 452 126 l 1
+ 472 262 513 511 434 542 c 0
+ 394 559 320 568 258 568 c 0
+ 191 568 141 568 114 579 c 0
+ 90 589 84 599 76 615 c 1
+ 76 734 l 1
+ 86 736 l 1
+ 93 715 106 713 118 706 c 0
+ 140 695 193 696 258 696 c 0
+ 322 696 412 689 450 669 c 0
+ 602 594 536 304 493 127 c 1
+ 506 127 l 2
+ 526 128 541 132 548 151 c 1
+ 558 149 l 1
+ 558 31 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" uni2136.st uni2136.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" uni2136.st uni2136.sts
+EndChar

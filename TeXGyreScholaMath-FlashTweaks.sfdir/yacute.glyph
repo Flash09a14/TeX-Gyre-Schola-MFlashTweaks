@@ -1,0 +1,52 @@
+StartChar: yacute
+Encoding: 253 253 182
+Width: 537
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 22
+HStem: -206 49<118.5 120.5> 430 36<13 26 13 251 213 230 230 251 331 347 500 519 519 531>
+VStem: 3 104<-150 -143.5 -150 -111>
+LayerCount: 2
+Fore
+SplineSet
+531 430 m 1
+ 519 430 l 2
+ 481 430 466 410 441 349 c 2
+ 327 67 l 2
+ 282 -44 263 -84 232 -126 c 0
+ 192 -180 147 -206 94 -206 c 0
+ 42 -206 3 -173 3 -129 c 0
+ 3 -93 28 -67 63 -67 c 0
+ 92 -67 114 -86 114 -112 c 0
+ 114 -123 107 -140 107 -147 c 0
+ 107 -153 114 -157 123 -157 c 0
+ 155 -157 201 -104 238 -28 c 2
+ 255 7 l 1
+ 92 376 l 2
+ 74 416 58 430 26 430 c 2
+ 13 430 l 1
+ 13 466 l 1
+ 251 466 l 1
+ 251 430 l 1
+ 230 430 l 2
+ 196 430 184 423 184 405 c 0
+ 184 400 186 393 190 384 c 2
+ 300 127 l 1
+ 391 353 l 2
+ 398 370 401 383 401 393 c 0
+ 401 419 385 430 347 430 c 2
+ 331 430 l 1
+ 331 466 l 1
+ 531 466 l 1
+ 531 430 l 1
+440 660 m 0
+ 440 646 430 630 415 621 c 2
+ 256 524 l 1
+ 215 524 l 1
+ 355 664 l 2
+ 380 689 390 695 405 695 c 0
+ 424 695 440 679 440 660 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" yacute.st yacute.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" yacute.st yacute.sts
+EndChar

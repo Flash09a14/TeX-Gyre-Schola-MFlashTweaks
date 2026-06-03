@@ -1,0 +1,25 @@
+StartChar: uni27A1
+Encoding: 10145 10145 1034
+Width: 1180
+GlyphClass: 2
+Flags: MW
+GlyphVariantsHorizontal: uni27A1 uni27A1.h1
+GlyphCompositionHorizontal: 3  uni27A1.lft%0,0,180,540 uni27A1.ex%1,360,360,360 uni27A1.rt%0,180,0,540
+HStem: 175 170<80 795 80 795> 450 20G<795 837 837 837>
+LayerCount: 2
+Fore
+SplineSet
+1100 239 m 1
+ 837 50 l 1
+ 795 50 l 1
+ 795 175 l 1
+ 80 175 l 1
+ 80 345 l 1
+ 795 345 l 1
+ 795 470 l 1
+ 837 470 l 1
+ 1100 281 l 1
+ 1100 260 l 1
+ 1100 239 l 1
+EndSplineSet
+EndChar

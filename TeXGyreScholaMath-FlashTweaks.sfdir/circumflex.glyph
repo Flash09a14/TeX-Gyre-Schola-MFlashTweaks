@@ -1,0 +1,24 @@
+StartChar: circumflex
+Encoding: 710 710 289
+Width: 333
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 18
+TopAccentHorizontal: 167
+HStem: 527 166<10 198 10 198 135 323 135 287>
+VStem: 10 313<527 527>
+LayerCount: 2
+Fore
+SplineSet
+323 527 m 1
+ 287 527 l 1
+ 167 628 l 1
+ 46 527 l 1
+ 10 527 l 1
+ 135 693 l 1
+ 198 693 l 1
+ 323 527 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" circumflex.st circumflex.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" circumflex.st circumflex.sts
+EndChar

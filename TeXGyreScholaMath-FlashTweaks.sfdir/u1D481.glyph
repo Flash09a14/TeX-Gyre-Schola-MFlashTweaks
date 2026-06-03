@@ -1,0 +1,28 @@
+StartChar: u1D481
+Encoding: 119937 119937 1241
+Width: 704
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 39
+TopAccentHorizontal: 424
+HStem: 0 54<-21 -21 197 288 288 360 -29 -21> 468 21G<117 117> 668 54<342.5 407 407 486 707 707>
+LayerCount: 2
+Fore
+SplineSet
+715 722 m 1
+ 707 668 l 1
+ 197 54 l 1
+ 288 54 l 2
+ 432 54 522 117 601 273 c 1
+ 652 260 l 1
+ 582 0 l 1
+ -29 0 l 1
+ -21 54 l 1
+ 486 668 l 1
+ 407 668 l 2
+ 278 668 196 612 117 468 c 1
+ 68 478 l 1
+ 134 722 l 1
+ 715 722 l 1
+EndSplineSet
+EndChar

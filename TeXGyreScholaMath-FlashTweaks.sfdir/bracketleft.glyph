@@ -1,0 +1,23 @@
+StartChar: bracketleft
+Encoding: 91 91 60
+Width: 480
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: bracketleft bracketleft.v1 bracketleft.v2 bracketleft.v3 bracketleft.v4 bracketleft.v5 bracketleft.v6
+GlyphCompositionVertical: 3  uni23A3%0,0,416,1249 uni23A2%1,832,832,832 uni23A1%0,416,0,1249
+HStem: -171 42<244 400 244 400> 649 42<244 400 244 244>
+VStem: 160 84<-129 649 -129 691 -129 691>
+LayerCount: 2
+Fore
+SplineSet
+400 -129 m 1
+ 400 -171 l 1
+ 160 -171 l 1
+ 160 691 l 1
+ 400 691 l 1
+ 400 649 l 1
+ 244 649 l 1
+ 244 -129 l 1
+ 400 -129 l 1
+EndSplineSet
+EndChar

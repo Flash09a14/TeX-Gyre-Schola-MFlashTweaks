@@ -1,0 +1,21 @@
+StartChar: arrowdblleft.rt
+Encoding: 1115705 -1 3699
+Width: 465
+GlyphClass: 2
+Flags: MW
+HStem: 140 70<0 465 0 465> 310 70<0 465 0 465>
+LayerCount: 2
+Fore
+SplineSet
+465 140 m 1
+ 0 140 l 1
+ 0 210 l 1
+ 465 210 l 1
+ 465 140 l 1
+465 310 m 1
+ 0 310 l 1
+ 0 380 l 1
+ 465 380 l 1
+ 465 310 l 1
+EndSplineSet
+EndChar

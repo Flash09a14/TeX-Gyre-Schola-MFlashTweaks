@@ -1,0 +1,25 @@
+StartChar: breve
+Encoding: 728 728 291
+Width: 333
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 3
+TopAccentHorizontal: 167
+HStem: 532 62<135.5 198 135.5 206.5>
+VStem: 25 36<676 689 689 689> 272 36<634.5 689>
+LayerCount: 2
+Fore
+SplineSet
+308 675 m 2
+ 308 594 247 532 166 532 c 0
+ 85 532 25 594 25 676 c 2
+ 25 689 l 1
+ 61 689 l 1
+ 66 629 104 594 167 594 c 0
+ 229 594 267 629 272 689 c 1
+ 308 689 l 1
+ 308 675 l 2
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" breve.st breve.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" breve.st breve.sts
+EndChar

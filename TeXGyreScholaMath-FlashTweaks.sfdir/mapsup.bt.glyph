@@ -1,0 +1,22 @@
+StartChar: mapsup.bt
+Encoding: 1115595 -1 3589
+Width: 574
+GlyphClass: 2
+Flags: MW
+HStem: 0 42<107 287 107 107> 0 65<252 252 252 287>
+VStem: 252 70<65 465 65 465>
+LayerCount: 2
+Fore
+SplineSet
+467 0 m 1xa0
+ 287 0 l 1
+ 107 0 l 1
+ 107 42 l 1xa0
+ 252 65 l 1
+ 252 465 l 1
+ 322 465 l 1
+ 322 65 l 1x60
+ 467 42 l 1
+ 467 0 l 1xa0
+EndSplineSet
+EndChar

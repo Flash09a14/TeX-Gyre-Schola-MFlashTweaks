@@ -1,0 +1,24 @@
+StartChar: uni2B07.v1
+Encoding: 1115791 -1 3785
+Width: 580
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+VStem: 205 170<-155 980 -155 980>
+LayerCount: 2
+Fore
+SplineSet
+500 -197 m 1
+ 311 -460 l 1
+ 290 -460 l 1
+ 269 -460 l 1
+ 80 -197 l 1
+ 80 -155 l 1
+ 205 -155 l 1
+ 205 980 l 1
+ 375 980 l 1
+ 375 -155 l 1
+ 500 -155 l 1
+ 500 -197 l 1
+EndSplineSet
+EndChar

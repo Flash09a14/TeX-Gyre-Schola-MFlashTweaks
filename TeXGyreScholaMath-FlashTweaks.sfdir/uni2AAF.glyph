@@ -1,0 +1,24 @@
+StartChar: uni2AAF
+Encoding: 10927 10927 1093
+Width: 808
+GlyphClass: 2
+Flags: MW
+HStem: -149 70<80 728 80 728> 310 70<80 80>
+LayerCount: 2
+Fore
+SplineSet
+728 53 m 1
+ 673 11 l 1
+ 532 196 313 307 80 310 c 1
+ 80 380 l 1
+ 313 383 532 494 673 679 c 1
+ 728 637 l 1
+ 621 496 474 395 308 345 c 1
+ 474 295 621 194 728 53 c 1
+728 -149 m 1
+ 80 -149 l 1
+ 80 -79 l 1
+ 728 -79 l 1
+ 728 -149 l 1
+EndSplineSet
+EndChar

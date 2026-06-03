@@ -1,0 +1,54 @@
+StartChar: Chi
+Encoding: 935 935 346
+Width: 895
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 460
+HStem: 0 31<333 391 80 80 479 542 542 553.5 779 815> 691 31<107 149 107 432 372.5 384 384 432 502 531 776 812>
+LayerCount: 2
+Fore
+SplineSet
+815 0 m 1
+ 479 0 l 1
+ 479 31 l 1
+ 542 31 l 2
+ 565 31 584 50 584 72 c 0
+ 584 83 582 91 578 98 c 2
+ 435 324 l 1
+ 308 148 l 2
+ 293 127 284 105 284 86 c 0
+ 284 59 303 31 333 31 c 2
+ 391 31 l 1
+ 391 0 l 1
+ 80 0 l 1
+ 80 31 l 1
+ 143 33 190 56 221 98 c 2
+ 412 360 l 1
+ 240 632 l 2
+ 225 658 187 691 149 691 c 2
+ 107 691 l 1
+ 107 722 l 1
+ 432 722 l 1
+ 432 691 l 1
+ 384 691 l 2
+ 361 691 340 675 340 654 c 0
+ 340 645 343 636 349 627 c 2
+ 469 438 l 1
+ 583 595 l 2
+ 601 621 610 642 610 659 c 0
+ 610 695 577 691 531 691 c 2
+ 502 691 l 1
+ 502 722 l 1
+ 812 722 l 1
+ 812 691 l 1
+ 740 691 695 681 667 643 c 2
+ 492 402 l 1
+ 688 95 l 2
+ 698 80 710 65 726 53 c 0
+ 744 38 751 31 779 31 c 2
+ 815 31 l 1
+ 815 0 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Chi.st Chi.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Chi.st Chi.sts
+EndChar

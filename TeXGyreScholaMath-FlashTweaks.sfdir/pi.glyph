@@ -1,0 +1,37 @@
+StartChar: pi
+Encoding: 960 960 364
+Width: 736
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 375
+HStem: -9 20G 394 72<140 653 167 294 328 465 328 328 498 642 498 498>
+VStem: 217 93
+LayerCount: 2
+Fore
+SplineSet
+653 466 m 1
+ 657 443 660 394 642 394 c 2
+ 498 394 l 1
+ 490 316 495 230 512 134 c 0
+ 524 70 529 30 525 16 c 0
+ 520 -1 510 -10 493 -10 c 0
+ 460 -10 439 9 432 50 c 0
+ 428 70 430 114 438 180 c 2
+ 465 394 l 1
+ 328 394 l 1
+ 310 56 l 2
+ 308 20 299 -9 262 -9 c 0
+ 242 -9 221 10 217 32 c 0
+ 214 52 215 73 220 93 c 2
+ 294 394 l 1
+ 162 394 l 2
+ 118 394 105 343 115 291 c 0
+ 117 281 120 269 124 259 c 1
+ 107 254 l 1
+ 94 277 87 297 84 314 c 0
+ 68 398 98 466 167 466 c 2
+ 653 466 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" pi.st pi.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" pi.st pi.sts
+EndChar

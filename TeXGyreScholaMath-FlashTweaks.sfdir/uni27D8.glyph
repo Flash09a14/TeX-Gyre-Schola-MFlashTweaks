@@ -1,0 +1,22 @@
+StartChar: uni27D8
+Encoding: 10200 10200 1036
+Width: 980
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -150 70<80 455 525 900 80 455>
+VStem: 455 70<-80 670 -80 670>
+LayerCount: 2
+Fore
+SplineSet
+900 -150 m 1
+ 80 -150 l 1
+ 80 -80 l 1
+ 455 -80 l 1
+ 455 670 l 1
+ 525 670 l 1
+ 525 -80 l 1
+ 900 -80 l 1
+ 900 -150 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,47 @@
+StartChar: rightthreearrows
+Encoding: 8694 8694 692
+Width: 980
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+GlyphVariantsHorizontal: rightthreearrows rightthreearrows.h1
+GlyphCompositionHorizontal: 3  rightthreearrows.lft%0,0,155,465 rightthreearrows.ex%1,310,310,310 rightthreearrows.rt%0,155,0,465
+HStem: -135 70<80 787 80 787> 225 70<80 787 80 787> 585 70<80 787 80 787>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+900 641 m 1
+ 900 620 l 1
+ 900 599 l 1
+ 704 440 l 1
+ 900 281 l 1
+ 900 260 l 1
+ 900 239 l 1
+ 704 80 l 1
+ 900 -79 l 1
+ 900 -100 l 1
+ 900 -121 l 1
+ 671 -307 l 1
+ 671 -250 l 1
+ 787 -135 l 1
+ 80 -135 l 1
+ 80 -65 l 1
+ 787 -65 l 1
+ 671 50 l 1
+ 671 107 l 1
+ 787 225 l 1
+ 80 225 l 1
+ 80 295 l 1
+ 787 295 l 1
+ 671 410 l 1
+ 671 467 l 1
+ 787 585 l 1
+ 80 585 l 1
+ 80 655 l 1
+ 787 655 l 1
+ 671 770 l 1
+ 671 827 l 1
+ 900 641 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,23 @@
+StartChar: dieresis.sts
+Encoding: 1114277 -1 2271
+Width: 443
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 202
+HStem: 560 100<84.5 117 325.5 358>
+VStem: 41 121<596.5 623.5> 281 121<596.5 623.5>
+LayerCount: 2
+Fore
+SplineSet
+162 610 m 0
+ 162 582 134 560 100 560 c 0
+ 68 560 41 583 41 610 c 0
+ 41 637 68 660 101 660 c 0
+ 134 660 162 637 162 610 c 0
+402 610 m 0
+ 402 582 375 560 341 560 c 0
+ 309 560 281 583 281 610 c 0
+ 281 637 309 660 342 660 c 0
+ 375 660 402 637 402 610 c 0
+EndSplineSet
+EndChar

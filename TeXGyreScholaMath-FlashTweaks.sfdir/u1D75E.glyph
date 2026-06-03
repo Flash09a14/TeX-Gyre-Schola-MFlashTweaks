@@ -1,0 +1,18 @@
+StartChar: u1D75E
+Encoding: 120670 120670 1949
+Width: 321
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 160
+HStem: 0 21G<75 245 75 75> 708 20G<75 245 245 245>
+VStem: 75 170<0 728>
+LayerCount: 2
+Fore
+SplineSet
+245 0 m 1
+ 75 0 l 1
+ 75 728 l 1
+ 245 728 l 1
+ 245 0 l 1
+EndSplineSet
+EndChar

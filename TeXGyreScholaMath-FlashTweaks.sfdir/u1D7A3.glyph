@@ -1,0 +1,22 @@
+StartChar: u1D7A3
+Encoding: 120739 120739 2018
+Width: 620
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 43
+TopAccentHorizontal: 338
+HStem: 0 21G<73 243 73 73> 600 128<75 235 40 635 405 601 405 405>
+LayerCount: 2
+Fore
+SplineSet
+635 728 m 1
+ 601 600 l 1
+ 405 600 l 1
+ 243 0 l 1
+ 73 0 l 1
+ 235 600 l 1
+ 40 600 l 1
+ 75 728 l 1
+ 635 728 l 1
+EndSplineSet
+EndChar

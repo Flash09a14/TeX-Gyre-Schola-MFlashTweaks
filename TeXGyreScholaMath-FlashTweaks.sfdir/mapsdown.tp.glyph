@@ -1,0 +1,22 @@
+StartChar: mapsdown.tp
+Encoding: 1115600 -1 3594
+Width: 574
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<252 322 252 252> 400 65<252 252 322 322> 423 42<107 287>
+VStem: 252 70<0 400 0 400>
+LayerCount: 2
+Fore
+SplineSet
+467 423 m 1xb0
+ 322 400 l 1
+ 322 0 l 1
+ 252 0 l 1
+ 252 400 l 1xd0
+ 107 423 l 1
+ 107 465 l 1
+ 287 465 l 1
+ 467 465 l 1
+ 467 423 l 1xb0
+EndSplineSet
+EndChar

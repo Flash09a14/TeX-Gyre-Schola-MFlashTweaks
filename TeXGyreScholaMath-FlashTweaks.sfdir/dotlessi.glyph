@@ -1,0 +1,27 @@
+StartChar: dotlessi
+Encoding: 305 305 218
+Width: 315
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 158
+HStem: 0 36<30 42 42 74 277 289 30 42> 412 43<18 69 18 18> 446 20G<206 206>
+VStem: 112 94<83 362 362 383>
+LayerCount: 2
+Fore
+SplineSet
+289 0 m 1xb0
+ 30 0 l 1
+ 30 36 l 1
+ 42 36 l 2
+ 106 36 112 43 112 83 c 2
+ 112 362 l 2
+ 112 404 106 412 69 412 c 2
+ 18 412 l 1
+ 18 455 l 1xd0
+ 206 466 l 1
+ 206 83 l 2
+ 206 43 212 36 277 36 c 2
+ 289 36 l 1
+ 289 0 l 1xb0
+EndSplineSet
+EndChar

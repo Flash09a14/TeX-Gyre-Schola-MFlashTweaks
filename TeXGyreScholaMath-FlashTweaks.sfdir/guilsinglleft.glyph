@@ -1,0 +1,26 @@
+StartChar: guilsinglleft
+Encoding: 8249 8249 512
+Width: 259
+GlyphClass: 2
+Flags: MW
+HStem: 85 317<208 211>
+VStem: 38 183<243 393.5>
+LayerCount: 2
+Fore
+SplineSet
+221 390 m 0
+ 222 381 209 364 177 318 c 2
+ 125 243 l 1
+ 209 123 220 106 220 96 c 0
+ 220 90 214 85 208 85 c 0
+ 201 84 196 90 186 100 c 2
+ 99 185 l 1
+ 58 224 l 2
+ 51 231 45 237 38 243 c 1
+ 188 388 l 2
+ 198 398 203 402 210 402 c 0
+ 216 402 221 397 221 390 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" guilsinglleft.st guilsinglleft.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" guilsinglleft.st guilsinglleft.sts
+EndChar

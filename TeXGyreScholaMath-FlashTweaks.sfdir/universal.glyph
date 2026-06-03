@@ -1,0 +1,24 @@
+StartChar: universal
+Encoding: 8704 8704 693
+Width: 780
+GlyphClass: 2
+Flags: MW
+HStem: -7 21G<355 425 355 355> 411 70<267 514 267 267> 702 20G<70 145 145 145 635 710 710 710>
+LayerCount: 2
+Fore
+SplineSet
+710 722 m 1
+ 425 -7 l 1
+ 355 -7 l 1
+ 70 722 l 1
+ 145 722 l 1
+ 239 481 l 1
+ 541 481 l 1
+ 635 722 l 1
+ 710 722 l 1
+514 411 m 1
+ 267 411 l 1
+ 390 96 l 1
+ 514 411 l 1
+EndSplineSet
+EndChar

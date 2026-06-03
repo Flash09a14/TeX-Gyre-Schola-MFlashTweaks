@@ -1,0 +1,17 @@
+StartChar: emdash.alt
+Encoding: 1114119 -1 2113
+Width: 667
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 28
+HStem: 206 61<0 667 0 667>
+LayerCount: 2
+Fore
+SplineSet
+667 206 m 1
+ 0 206 l 1
+ 0 267 l 1
+ 667 267 l 1
+ 667 206 l 1
+EndSplineSet
+EndChar

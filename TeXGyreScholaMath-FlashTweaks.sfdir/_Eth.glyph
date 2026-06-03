@@ -1,0 +1,43 @@
+StartChar: Eth
+Encoding: 208 208 137
+Width: 778
+GlyphClass: 2
+Flags: MW
+HStem: 0 47<29 48 48 88 306 365 29 48> 350 47<29 137 29 137 249 429> 675 47<29 48 29 347 281 306 306 347 347 359>
+VStem: 137 112<94 102 102 350 397 619> 600 132<248.5 429.5 246 471.5>
+LayerCount: 2
+Fore
+SplineSet
+732 361 m 0
+ 732 131 610 0 365 0 c 2
+ 29 0 l 1
+ 29 47 l 1
+ 48 47 l 2
+ 128 47 137 52 137 94 c 2
+ 137 350 l 1
+ 29 350 l 1
+ 29 397 l 1
+ 137 397 l 1
+ 137 628 l 2
+ 137 670 128 675 48 675 c 2
+ 29 675 l 1
+ 29 722 l 1
+ 347 722 l 2
+ 461 722 536 706 590 671 c 0
+ 680 613 732 498 732 361 c 0
+600 361 m 0
+ 600 582 529 675 359 675 c 2
+ 306 675 l 2
+ 256 675 249 668 249 619 c 2
+ 249 397 l 1
+ 429 397 l 1
+ 429 350 l 1
+ 249 350 l 1
+ 249 102 l 2
+ 249 53 256 47 306 47 c 2
+ 374 47 l 2
+ 536 47 600 136 600 361 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Eth.st Eth.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Eth.st Eth.sts
+EndChar

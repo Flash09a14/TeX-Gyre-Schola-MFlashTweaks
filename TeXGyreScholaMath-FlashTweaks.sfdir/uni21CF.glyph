@@ -1,0 +1,43 @@
+StartChar: uni21CF
+Encoding: 8655 8655 671
+Width: 980
+GlyphClass: 2
+Flags: MW
+GlyphVariantsHorizontal: uni21CF uni21CF.h1
+GlyphCompositionHorizontal: 5  uni21CF.lft%0,0,45,354 uni21CF.ex%1,89,89,89 uni21CF.md%0,45,45,354 uni21CF.ex%1,89,89,89 uni21CF.rt%0,45,0,354
+HStem: 140 70<80 310 80 329 391 685 80 372> 310 70<80 355 80 374 80 417 436 685>
+LayerCount: 2
+Fore
+SplineSet
+900 281 m 1
+ 900 260 l 1
+ 900 239 l 1
+ 627 23 l 1
+ 627 80 l 1
+ 685 140 l 1
+ 372 140 l 1
+ 321 -50 l 1
+ 259 -50 l 1
+ 310 140 l 1
+ 80 140 l 1
+ 80 210 l 1
+ 329 210 l 1
+ 355 310 l 1
+ 80 310 l 1
+ 80 380 l 1
+ 374 380 l 1
+ 425 570 l 1
+ 487 570 l 1
+ 436 380 l 1
+ 685 380 l 1
+ 627 440 l 1
+ 627 497 l 1
+ 900 281 l 1
+803 260 m 1
+ 754 310 l 1
+ 417 310 l 1
+ 391 210 l 1
+ 754 210 l 1
+ 803 260 l 1
+EndSplineSet
+EndChar

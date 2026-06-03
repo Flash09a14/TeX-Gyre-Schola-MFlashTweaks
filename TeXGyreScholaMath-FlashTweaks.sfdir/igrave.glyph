@@ -1,0 +1,35 @@
+StartChar: igrave
+Encoding: 236 236 165
+Width: 315
+GlyphClass: 2
+Flags: MW
+HStem: 0 36<30 42 42 74 277 289 30 42> 412 43<18 69 18 18> 446 20G<206 206>
+VStem: 112 94<83 362 362 383>
+LayerCount: 2
+Fore
+SplineSet
+289 0 m 1xb0
+ 30 0 l 1
+ 30 36 l 1
+ 42 36 l 2
+ 106 36 112 43 112 83 c 2
+ 112 362 l 2
+ 112 404 106 412 69 412 c 2
+ 18 412 l 1
+ 18 455 l 1xd0
+ 206 466 l 1
+ 206 83 l 2
+ 206 43 212 36 277 36 c 2
+ 289 36 l 1
+ 289 0 l 1xb0
+235 524 m 1
+ 194 524 l 1
+ 35 621 l 2
+ 20 630 10 646 10 660 c 0
+ 10 679 26 695 45 695 c 0
+ 60 695 70 689 95 664 c 2
+ 235 524 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" igrave.st igrave.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" igrave.st igrave.sts
+EndChar

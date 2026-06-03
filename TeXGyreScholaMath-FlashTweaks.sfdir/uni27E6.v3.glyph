@@ -1,0 +1,27 @@
+StartChar: uni27E6.v3
+Encoding: 1115938 -1 3932
+Width: 533
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -471 46<221 311 357 446> 945 46<221 311 221 221 357 446 357 357>
+VStem: 175 46<-425 945 -425 991> 311 46<-425 945 -425 945>
+LayerCount: 2
+Fore
+SplineSet
+446 945 m 1
+ 357 945 l 1
+ 357 -425 l 1
+ 446 -425 l 1
+ 446 -471 l 1
+ 175 -471 l 1
+ 175 991 l 1
+ 446 991 l 1
+ 446 945 l 1
+311 945 m 1
+ 221 945 l 1
+ 221 -425 l 1
+ 311 -425 l 1
+ 311 945 l 1
+EndSplineSet
+EndChar

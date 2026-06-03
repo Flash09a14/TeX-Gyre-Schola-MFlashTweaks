@@ -1,0 +1,17 @@
+StartChar: twoheaddownarrow.tp
+Encoding: 1115578 -1 3572
+Width: 574
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<252 322 252 252>
+VStem: 252 70<0 540 0 540>
+LayerCount: 2
+Fore
+SplineSet
+322 540 m 1
+ 322 0 l 1
+ 252 0 l 1
+ 252 540 l 1
+ 322 540 l 1
+EndSplineSet
+EndChar

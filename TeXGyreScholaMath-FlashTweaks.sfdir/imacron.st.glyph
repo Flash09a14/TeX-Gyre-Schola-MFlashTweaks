@@ -1,0 +1,32 @@
+StartChar: imacron.st
+Encoding: 1114460 -1 2454
+Width: 367
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 18
+HStem: 0 36<43 56 56 91.5 315 328 43 56> 412 43<30 86 30 30> 446 20G<237 237> 583 54<12 357 12 357>
+VStem: 133 104<83 362 362 383>
+LayerCount: 2
+Fore
+SplineSet
+328 0 m 1xb8
+ 43 0 l 1
+ 43 36 l 1
+ 56 36 l 2
+ 127 36 133 43 133 83 c 2
+ 133 362 l 2
+ 133 404 127 412 86 412 c 2
+ 30 412 l 1
+ 30 455 l 1xd8
+ 237 466 l 1
+ 237 83 l 2
+ 237 43 243 36 315 36 c 2
+ 328 36 l 1
+ 328 0 l 1xb8
+357 583 m 1
+ 12 583 l 1
+ 12 637 l 1
+ 357 637 l 1
+ 357 583 l 1
+EndSplineSet
+EndChar

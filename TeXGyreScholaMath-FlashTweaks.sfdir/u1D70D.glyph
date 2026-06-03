@@ -1,0 +1,39 @@
+StartChar: u1D70D
+Encoding: 120589 120589 1868
+Width: 456
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 228
+HStem: -90 24<115 121> 439 36<227 248.5>
+VStem: 210 82 331 89
+LayerCount: 2
+Fore
+SplineSet
+420 344 m 0
+ 416 319 398 300 374 300 c 0
+ 353 300 340 308 331 322 c 0
+ 317 343 316 348 305 376 c 0
+ 292 412 275 439 222 439 c 0
+ 167 439 113 399 106 343 c 0
+ 103 318 106 294 117 271 c 0
+ 128 250 155 226 191 199 c 0
+ 234 169 264 144 276 123 c 0
+ 290 102 296 75 292 43 c 0
+ 289 23 282 6 270 -10 c 0
+ 258 -27 244 -41 225 -51 c 0
+ 192 -70 159 -82 121 -90 c 1
+ 115 -66 l 1
+ 173 -50 206 -22 210 16 c 0
+ 212 34 209 50 199 65 c 0
+ 188 80 167 100 134 125 c 0
+ 99 152 75 181 60 211 c 0
+ 46 240 41 274 46 312 c 0
+ 48 329 51 344 57 359 c 0
+ 73 396 99 418 126 439 c 0
+ 152 459 207 475 247 475 c 0
+ 329 475 379 443 408 394 c 0
+ 417 376 421 359 420 344 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D70D.st u1D70D.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D70D.st u1D70D.sts
+EndChar

@@ -1,0 +1,61 @@
+StartChar: m
+Encoding: 109 109 78
+Width: 889
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 7
+TopAccentHorizontal: 453
+HStem: 0 36<28 42 42 74 266 280 28 42 321 335 335 367.5 560 574 615 629 629 661.5 854 868> 412 43<23 64 23 23> 420 61<315 328 606.5 626.5> 446 20G<201 201>
+VStem: 107 94<84 265> 401 94<83 256> 695 94<83 84 84 287 287 306.5>
+CounterMasks: 1 0e
+LayerCount: 2
+Fore
+SplineSet
+868 0 m 1xae
+ 615 0 l 1
+ 615 36 l 1
+ 629 36 l 2
+ 694 36 695 43 695 83 c 2
+ 695 287 l 2
+ 695 326 692 348 683 370 c 0
+ 670 401 643 420 610 420 c 0
+ 540 420 495 356 495 256 c 2
+ 495 83 l 2
+ 495 43 496 36 560 36 c 2
+ 574 36 l 1
+ 574 0 l 1
+ 321 0 l 1
+ 321 36 l 1
+ 335 36 l 2
+ 400 36 401 43 401 83 c 2
+ 401 298 l 2
+ 401 339 395 368 381 387 c 0
+ 369 406 341 420 315 420 c 0xae
+ 250 420 201 354 201 265 c 2
+ 201 84 l 2
+ 201 43 202 36 266 36 c 2
+ 280 36 l 1
+ 280 0 l 1
+ 28 0 l 1
+ 28 36 l 1
+ 42 36 l 2
+ 106 36 107 43 107 84 c 2
+ 107 362 l 2
+ 107 405 101 412 64 412 c 2
+ 23 412 l 1
+ 23 455 l 1xce
+ 201 466 l 1x9e
+ 201 389 l 1
+ 240 452 285 481 345 481 c 0
+ 412 481 466 441 483 381 c 1
+ 526 450 574 481 639 481 c 0
+ 687 481 728 461 757 424 c 0
+ 783 390 789 369 789 307 c 2
+ 789 84 l 2
+ 789 43 790 36 854 36 c 2
+ 868 36 l 1
+ 868 0 l 1xae
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" m.st m.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" m.st m.sts
+EndChar

@@ -1,0 +1,22 @@
+StartChar: uni27E6.ex
+Encoding: 1116015 -1 4009
+Width: 594
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<191 241 191 191 345 345 345 395>
+VStem: 191 50<0 832 0 832> 345 50<0 832>
+LayerCount: 2
+Fore
+SplineSet
+241 832 m 1
+ 241 0 l 1
+ 191 0 l 1
+ 191 832 l 1
+ 241 832 l 1
+395 0 m 1
+ 345 0 l 1
+ 345 832 l 1
+ 395 832 l 1
+ 395 0 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: arrowdbldown.tp
+Encoding: 1115716 -1 3710
+Width: 633
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<197 267 197 197 367 437 367 367>
+VStem: 197 70<0 465> 367 70<0 465>
+LayerCount: 2
+Fore
+SplineSet
+437 0 m 1
+ 367 0 l 1
+ 367 465 l 1
+ 437 465 l 1
+ 437 0 l 1
+267 0 m 1
+ 197 0 l 1
+ 197 465 l 1
+ 267 465 l 1
+ 267 0 l 1
+EndSplineSet
+EndChar

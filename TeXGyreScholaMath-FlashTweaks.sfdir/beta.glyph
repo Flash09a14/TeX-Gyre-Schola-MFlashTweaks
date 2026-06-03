@@ -1,0 +1,46 @@
+StartChar: beta
+Encoding: 946 946 350
+Width: 631
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 310
+IsExtendedShape: 1
+HStem: -44 73<331 382.5 309 426> 389 118<270.5 278.5 248 297.5> 801 42<280 346.5>
+VStem: 81 68 103 42 438 69<589.5 684.5> 473 78<146.5 196 102.5 254>
+LayerCount: 2
+Fore
+SplineSet
+551 160 m 0xe2
+ 551 45 474 -44 378 -44 c 0
+ 284 -44 204 5 148 78 c 1
+ 143 77 l 1
+ 149 -182 l 2
+ 149 -198 148 -211 142 -218 c 0
+ 138 -227 127 -231 114 -231 c 0
+ 100 -231 84 -214 81 -196 c 0xf2
+ 80 -192 80 -187 80 -176 c 2
+ 103 476 l 2
+ 107 592 121 683 156 747 c 0
+ 191 810 243 843 312 843 c 0
+ 420 843 507 736 507 634 c 0xec
+ 507 545 485 467 405 432 c 1
+ 404 429 l 1
+ 427 413 447 394 466 373 c 0
+ 520 310 551 232 551 160 c 0xe2
+473 207 m 0
+ 473 301 423 381 366 412 c 1
+ 354 405 307 389 288 389 c 0
+ 253 389 220 412 213 451 c 0
+ 206 489 232 507 264 507 c 0
+ 293 507 349 473 368 457 c 1
+ 425 481 438 522 438 626 c 0
+ 438 743 382 801 311 801 c 0
+ 249 801 222 774 195 730 c 0
+ 162 679 143 577 142 486 c 2
+ 145 134 l 1xec
+ 189 66 267 29 351 29 c 0
+ 414 29 473 86 473 207 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" beta.st beta.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" beta.st beta.sts
+EndChar

@@ -1,0 +1,18 @@
+StartChar: uni27E8.v1
+Encoding: 1116054 -1 4048
+Width: 459
+GlyphClass: 2
+Flags: MW
+VStem: 82 295
+LayerCount: 2
+Fore
+SplineSet
+377 -277 m 1
+ 331 -277 l 1
+ 82 260 l 1
+ 330 797 l 1
+ 377 797 l 1
+ 205 260 l 1
+ 377 -277 l 1
+EndSplineSet
+EndChar

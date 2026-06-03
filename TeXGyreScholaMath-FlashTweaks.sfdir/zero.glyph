@@ -1,0 +1,29 @@
+StartChar: zero
+Encoding: 48 48 17
+Width: 556
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 284
+HStem: -15 43<261.5 297 261.5 346> 661 43<258 293.5>
+VStem: 42 111<281.5 421 281.5 446.5> 402 112<287 425.5>
+LayerCount: 2
+Fore
+SplineSet
+514 339 m 0
+ 514 131 416 -15 276 -15 c 0
+ 141 -15 42 136 42 342 c 0
+ 42 551 144 704 284 704 c 0
+ 424 704 514 542 514 339 c 0
+402 357 m 0
+ 402 494 393 553 366 599 c 0
+ 342 639 310 661 277 661 c 0
+ 239 661 203 632 180 581 c 0
+ 160 538 153 479 153 363 c 0
+ 153 200 161 137 189 90 c 0
+ 213 50 245 28 278 28 c 0
+ 316 28 352 58 375 107 c 0
+ 395 151 402 217 402 357 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" zero.st zero.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" zero.st zero.sts
+EndChar

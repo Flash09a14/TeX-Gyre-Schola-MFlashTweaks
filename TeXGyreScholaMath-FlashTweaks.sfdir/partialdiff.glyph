@@ -1,0 +1,31 @@
+StartChar: partialdiff
+Encoding: 8706 8706 695
+Width: 586
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 307
+HStem: -10 31<224.5 295 224.5 342.5> 372 43<271 297 217 331.5> 720 43<253.5 321>
+VStem: 80 82<131 219.5 118.5 241.5> 433 73<440 509 290 539>
+LayerCount: 2
+Fore
+SplineSet
+506 408 m 0
+ 506 172 421 -10 264 -10 c 0
+ 161 -10 80 77 80 185 c 0
+ 80 298 162 415 272 415 c 0
+ 322 415 358 400 425 346 c 1
+ 430 402 433 425 433 455 c 0
+ 433 623 372 720 270 720 c 0
+ 237 720 203 711 159 689 c 1
+ 121 736 l 1
+ 173 755 208 763 246 763 c 0
+ 397 763 506 610 506 408 c 0
+419 316 m 1
+ 380 353 351 372 312 372 c 0
+ 230 372 162 277 162 162 c 0
+ 162 75 197 21 252 21 c 0
+ 338 21 388 102 419 316 c 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" partialdiff.st partialdiff.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" partialdiff.st partialdiff.sts
+EndChar

@@ -1,0 +1,24 @@
+StartChar: eqgtr
+Encoding: 8925 8925 909
+Width: 787
+GlyphClass: 2
+Flags: MW
+HStem: 446 20G<80 80> 556 70<80 707 80 707>
+LayerCount: 2
+Fore
+SplineSet
+707 150 m 1
+ 80 -96 l 1
+ 80 -20 l 1
+ 604 185 l 1
+ 80 390 l 1
+ 80 466 l 1
+ 707 220 l 1
+ 707 150 l 1
+707 556 m 1
+ 80 556 l 1
+ 80 626 l 1
+ 707 626 l 1
+ 707 556 l 1
+EndSplineSet
+EndChar

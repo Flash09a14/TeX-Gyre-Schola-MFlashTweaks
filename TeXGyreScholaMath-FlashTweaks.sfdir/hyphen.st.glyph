@@ -1,0 +1,17 @@
+StartChar: hyphen.st
+Encoding: 1114422 -1 2416
+Width: 386
+GlyphClass: 2
+Flags: MW
+HStem: 195 83<56 330 56 330>
+VStem: 56 274<195 278 195 278>
+LayerCount: 2
+Fore
+SplineSet
+330 195 m 1
+ 56 195 l 1
+ 56 278 l 1
+ 330 278 l 1
+ 330 195 l 1
+EndSplineSet
+EndChar

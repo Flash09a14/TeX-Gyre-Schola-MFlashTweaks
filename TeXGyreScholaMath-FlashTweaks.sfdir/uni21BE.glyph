@@ -1,0 +1,21 @@
+StartChar: uni21BE
+Encoding: 8638 8638 654
+Width: 402
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: uni21BE uni21BE.v1
+GlyphCompositionVertical: 3  uni21BE.bt%0,0,155,465 uni21BE.ex%1,310,310,310 uni21BE.tp%0,155,0,465
+VStem: 80 70<-150 542 -150 670>
+LayerCount: 2
+Fore
+SplineSet
+322 425 m 1
+ 265 425 l 1
+ 150 542 l 1
+ 150 -150 l 1
+ 80 -150 l 1
+ 80 670 l 1
+ 122 670 l 1
+ 322 425 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: uni0333.ex
+Encoding: 1115812 -1 3806
+Width: 179
+GlyphClass: 2
+Flags: MW
+HStem: -252 60<0 179 0 179> -126 60<0 179 0 179>
+VStem: 0 179<-252 -192 -252 -192 -126 -66>
+LayerCount: 2
+Fore
+SplineSet
+179 -126 m 1
+ 0 -126 l 1
+ 0 -66 l 1
+ 179 -66 l 1
+ 179 -126 l 1
+179 -252 m 1
+ 0 -252 l 1
+ 0 -192 l 1
+ 179 -192 l 1
+ 179 -252 l 1
+EndSplineSet
+EndChar

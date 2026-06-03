@@ -1,0 +1,35 @@
+StartChar: otilde
+Encoding: 245 245 174
+Width: 500
+GlyphClass: 2
+Flags: MW
+HStem: -15 43<214 286 214 310> 438 43<214.5 287> 557 55<324 337.5> 599 59<161.5 175>
+VStem: 34 105<166 300 166 302> 86 35<557 557> 361 105<166.5 299> 382 35<663 663>
+LayerCount: 2
+Fore
+SplineSet
+466 233 m 0xca
+ 466 95 370 -15 250 -15 c 0
+ 130 -15 34 95 34 232 c 0
+ 34 372 130 481 252 481 c 0
+ 370 481 466 370 466 233 c 0xca
+361 233 m 0
+ 361 365 322 438 252 438 c 0
+ 177 438 139 368 139 232 c 0
+ 139 100 178 28 250 28 c 0
+ 322 28 361 100 361 233 c 0
+417 663 m 1xe5
+ 410 600 366 557 309 557 c 0xe5
+ 283 557 271 561 220 585 c 0
+ 201 594 182 599 168 599 c 0xd5
+ 145 599 128 584 121 557 c 1
+ 86 557 l 1xe5
+ 99 619 137 658 186 658 c 0xd5
+ 209 658 217 656 272 631 c 0
+ 306 616 317 612 331 612 c 0
+ 354 612 376 634 382 663 c 1
+ 417 663 l 1xe5
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" otilde.st otilde.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" otilde.st otilde.sts
+EndChar

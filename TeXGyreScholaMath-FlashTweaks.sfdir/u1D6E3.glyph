@@ -1,0 +1,49 @@
+StartChar: u1D6E3
+Encoding: 120547 120547 1826
+Width: 776
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 31
+TopAccentHorizontal: 474
+HStem: 0 31<38 122 122 134.5 250 411 411 426 30 122> 364 32<348 481 340 493> 691 31<223 299 215 598 427 427 427 577>
+LayerCount: 2
+Fore
+SplineSet
+776 623 m 0
+ 781 598 781 575 775 552 c 0
+ 764 512 739 479 699 448 c 0
+ 660 417 614 396 562 386 c 1
+ 562 383 l 1
+ 608 369 638 358 667 331 c 0
+ 702 296 713 250 698 194 c 0
+ 682 135 646 86 590 49 c 0
+ 540 16 485 0 426 0 c 2
+ 30 0 l 1
+ 38 31 l 1
+ 122 31 l 2
+ 147 31 164 45 171 70 c 2
+ 326 651 l 2
+ 333 677 324 691 299 691 c 2
+ 215 691 l 1
+ 223 722 l 1
+ 598 722 l 2
+ 692 722 760 685 776 623 c 0
+592 189 m 0
+ 607 246 602 291 581 325 c 0
+ 563 353 533 364 481 364 c 2
+ 340 364 l 1
+ 250 31 l 1
+ 411 31 l 2
+ 498 31 569 103 592 189 c 0
+675 552 m 0
+ 685 591 680 629 665 651 c 0
+ 649 677 619 691 577 691 c 2
+ 427 691 l 1
+ 348 396 l 1
+ 493 396 l 2
+ 536 396 575 412 613 446 c 0
+ 643 473 663 508 675 552 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D6E3.st u1D6E3.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D6E3.st u1D6E3.sts
+EndChar

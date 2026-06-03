@@ -1,0 +1,17 @@
+StartChar: uni20D7.lft
+Encoding: 1115496 -1 3490
+Width: 201
+GlyphClass: 2
+Flags: MW
+HStem: 622 60<0 201 0 201>
+VStem: 0 201<622 682 622 682>
+LayerCount: 2
+Fore
+SplineSet
+201 622 m 1
+ 0 622 l 1
+ 0 682 l 1
+ 201 682 l 1
+ 201 622 l 1
+EndSplineSet
+EndChar

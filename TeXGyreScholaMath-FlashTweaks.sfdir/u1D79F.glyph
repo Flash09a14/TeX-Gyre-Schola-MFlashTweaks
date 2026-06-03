@@ -1,0 +1,22 @@
+StartChar: u1D79F
+Encoding: 120735 120735 2014
+Width: 855
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 30
+TopAccentHorizontal: 544
+HStem: 0 21G<40 213 40 40 489 660 489 489> 607 121<376 653 376 376>
+LayerCount: 2
+Fore
+SplineSet
+857 728 m 1
+ 660 0 l 1
+ 489 0 l 1
+ 653 607 l 1
+ 376 607 l 1
+ 213 0 l 1
+ 40 0 l 1
+ 237 728 l 1
+ 857 728 l 1
+EndSplineSet
+EndChar

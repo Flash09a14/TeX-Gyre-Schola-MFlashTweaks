@@ -1,0 +1,18 @@
+StartChar: uni23DE.lft
+Encoding: 1116022 -1 4016
+Width: 883
+GlyphClass: 2
+Flags: MW
+HStem: 629 112<344.5 883 452 883>
+LayerCount: 2
+Fore
+SplineSet
+883 629 m 1
+ 452 629 l 2
+ 237 629 65 608 30 512 c 1
+ 0 523 l 1
+ 40 633 206 741 452 741 c 2
+ 883 741 l 1
+ 883 629 l 1
+EndSplineSet
+EndChar

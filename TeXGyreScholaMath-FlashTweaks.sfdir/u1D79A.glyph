@@ -1,0 +1,28 @@
+StartChar: u1D79A
+Encoding: 120730 120730 2009
+Width: 787
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 590
+HStem: 0 21G<40 178 40 40 613 620 620 760> 708 20G<518 673 673 673>
+LayerCount: 2
+Fore
+SplineSet
+760 0 m 1
+ 620 0 l 2
+ 606 0 594 3 587 10 c 0
+ 580 17 575 25 574 35 c 2
+ 550 436 l 2
+ 547 452 546 470 545 490 c 0
+ 544 508 543 529 543 550 c 1
+ 512 489 l 2
+ 500 470 490 452 478 436 c 2
+ 243 35 l 2
+ 236 26 228 18 216 11 c 0
+ 205 4 192 0 178 0 c 2
+ 40 0 l 1
+ 518 728 l 1
+ 673 728 l 1
+ 760 0 l 1
+EndSplineSet
+EndChar

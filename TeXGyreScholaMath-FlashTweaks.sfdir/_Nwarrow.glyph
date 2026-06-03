@@ -1,0 +1,30 @@
+StartChar: Nwarrow
+Encoding: 8662 8662 678
+Width: 1080
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: Nwarrow Nwarrow.v1
+HStem: 604 40
+VStem: 121 40
+LayerCount: 2
+Fore
+SplineSet
+1000 -65 m 1
+ 950 -115 l 1
+ 233 602 l 1
+ 163 602 l 1
+ 163 531 l 1
+ 879 -185 l 1
+ 830 -235 l 1
+ 162 433 l 1
+ 161 349 l 1
+ 121 309 l 1
+ 80 655 l 1
+ 95 670 l 1
+ 110 685 l 1
+ 456 644 l 1
+ 416 604 l 1
+ 331 603 l 1
+ 1000 -65 l 1
+EndSplineSet
+EndChar

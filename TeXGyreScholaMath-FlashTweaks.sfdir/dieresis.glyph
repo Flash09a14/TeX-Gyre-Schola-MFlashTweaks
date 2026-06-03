@@ -1,0 +1,26 @@
+StartChar: dieresis
+Encoding: 168 168 104
+Width: 333
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 11
+TopAccentHorizontal: 167
+HStem: 560 100<53.5 80 252.5 279>
+VStem: 17 100<596.5 623.5> 216 100<596.5 623.5>
+LayerCount: 2
+Fore
+SplineSet
+117 610 m 0
+ 117 582 94 560 66 560 c 0
+ 40 560 17 583 17 610 c 0
+ 17 637 40 660 67 660 c 0
+ 94 660 117 637 117 610 c 0
+316 610 m 0
+ 316 582 293 560 265 560 c 0
+ 239 560 216 583 216 610 c 0
+ 216 637 239 660 266 660 c 0
+ 293 660 316 637 316 610 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" dieresis.st dieresis.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" dieresis.st dieresis.sts
+EndChar

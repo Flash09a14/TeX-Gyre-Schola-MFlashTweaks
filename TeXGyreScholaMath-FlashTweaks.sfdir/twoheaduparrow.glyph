@@ -1,0 +1,33 @@
+StartChar: twoheaduparrow
+Encoding: 8607 8607 627
+Width: 574
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: twoheaduparrow twoheaduparrow.v1
+GlyphCompositionVertical: 3  twoheaduparrow.bt%0,0,180,540 twoheaduparrow.ex%1,360,360,360 twoheaduparrow.tp%0,180,0,540
+VStem: 252 70<-250 458 -250 458 554 657>
+LayerCount: 2
+Fore
+SplineSet
+494 342 m 1
+ 437 342 l 1
+ 322 458 l 1
+ 322 -250 l 1
+ 252 -250 l 1
+ 252 458 l 1
+ 137 342 l 1
+ 80 342 l 1
+ 252 554 l 1
+ 252 657 l 1
+ 137 541 l 1
+ 80 541 l 1
+ 266 770 l 1
+ 287 770 l 1
+ 308 770 l 1
+ 494 541 l 1
+ 437 541 l 1
+ 322 657 l 1
+ 322 553 l 1
+ 494 342 l 1
+EndSplineSet
+EndChar

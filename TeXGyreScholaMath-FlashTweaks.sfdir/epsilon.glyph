@@ -1,0 +1,35 @@
+StartChar: epsilon
+Encoding: 949 949 353
+Width: 418
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 218
+HStem: -9 48<187 226.5 187 254> 212 67<171.5 205> 434 41<170.5 215.5>
+VStem: 50 58<112.5 153> 56 194<233.5 370>
+LayerCount: 2
+Fore
+SplineSet
+368 53 m 1xf0
+ 343 21 287 -9 221 -9 c 0
+ 93 -9 50 57 50 137 c 0xf0
+ 50 169 67 219 92 240 c 1
+ 68 255 56 283 56 330 c 0
+ 56 410 110 475 231 475 c 0
+ 275 475 340 449 348 402 c 0
+ 352 381 338 364 321 364 c 0
+ 305 364 287 378 265 405 c 0
+ 247 428 235 434 196 434 c 0
+ 144 434 122 385 113 352 c 0
+ 105 323 107 290 120 257 c 1
+ 137 269 171 279 192 279 c 0
+ 218 279 250 272 250 246 c 0xe8
+ 250 221 228 211 179 212 c 0
+ 164 212 137 216 122 221 c 1
+ 111 206 108 173 108 150 c 0
+ 108 75 163 39 211 39 c 0
+ 242 39 322 41 349 75 c 1
+ 368 53 l 1xf0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" epsilon.st epsilon.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" epsilon.st epsilon.sts
+EndChar

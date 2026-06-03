@@ -1,0 +1,25 @@
+StartChar: shortrightarrow
+Encoding: 8594 8594 616
+Width: 980
+GlyphClass: 2
+Flags: MW
+GlyphVariantsHorizontal: shortrightarrow uni27F6
+GlyphCompositionHorizontal: 3  shortrightarrow.lft%0,0,155,465 shortrightarrow.ex%1,310,310,310 shortrightarrow.rt%0,155,0,465
+HStem: 225 70<80 787 80 787> 447 20G<671 671>
+LayerCount: 2
+Fore
+SplineSet
+900 260 m 1
+ 900 239 l 1
+ 671 53 l 1
+ 671 110 l 1
+ 787 225 l 1
+ 80 225 l 1
+ 80 295 l 1
+ 787 295 l 1
+ 671 410 l 1
+ 671 467 l 1
+ 900 281 l 1
+ 900 260 l 1
+EndSplineSet
+EndChar

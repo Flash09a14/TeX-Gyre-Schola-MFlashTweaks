@@ -1,0 +1,22 @@
+StartChar: uni25BD
+Encoding: 9661 9661 1010
+Width: 980
+GlyphClass: 2
+Flags: MW
+HStem: 444 70<171 809 171 171>
+LayerCount: 2
+Fore
+SplineSet
+900 462 m 1
+ 520 -196 l 1
+ 460 -196 l 1
+ 80 462 l 1
+ 110 514 l 1
+ 870 514 l 1
+ 900 462 l 1
+809 444 m 1
+ 171 444 l 1
+ 490 -108 l 1
+ 809 444 l 1
+EndSplineSet
+EndChar

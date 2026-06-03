@@ -1,0 +1,29 @@
+StartChar: veeeq
+Encoding: 8794 8794 781
+Width: 780
+GlyphClass: 2
+Flags: MW
+HStem: -80 70<80 700 80 700> 120 70<80 700 80 700>
+LayerCount: 2
+Fore
+SplineSet
+700 120 m 1
+ 80 120 l 1
+ 80 190 l 1
+ 700 190 l 1
+ 700 120 l 1
+700 -80 m 1
+ 80 -80 l 1
+ 80 -10 l 1
+ 700 -10 l 1
+ 700 -80 l 1
+616 600 m 1
+ 425 290 l 1
+ 355 290 l 1
+ 164 600 l 1
+ 246 600 l 1
+ 390 367 l 1
+ 534 600 l 1
+ 616 600 l 1
+EndSplineSet
+EndChar

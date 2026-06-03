@@ -1,0 +1,23 @@
+StartChar: uni21A3.lft
+Encoding: 1115584 -1 3578
+Width: 540
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<212 540 212 540> 447 20G<0 0>
+LayerCount: 2
+Fore
+SplineSet
+540 295 m 1
+ 540 225 l 1
+ 212 225 l 1
+ 0 53 l 1
+ 0 110 l 1
+ 130 239 l 1
+ 130 260 l 1
+ 130 281 l 1
+ 0 410 l 1
+ 0 467 l 1
+ 212 295 l 1
+ 540 295 l 1
+EndSplineSet
+EndChar

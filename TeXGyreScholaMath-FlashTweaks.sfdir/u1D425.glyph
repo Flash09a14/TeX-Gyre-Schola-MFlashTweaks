@@ -1,0 +1,29 @@
+StartChar: u1D425
+Encoding: 119845 119845 1150
+Width: 352
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 7
+TopAccentHorizontal: 136
+HStem: 0 51<19 33 33 65.5 317 331 19 33> 671 51<16 35 16 16> 717 20G<256 256>
+VStem: 99 157<97 578 578 622.5>
+LayerCount: 2
+Fore
+SplineSet
+331 0 m 1xb0
+ 19 0 l 1
+ 19 51 l 1
+ 33 51 l 2
+ 98 51 99 57 99 97 c 2
+ 99 578 l 2
+ 99 667 96 671 35 671 c 2
+ 16 671 l 1
+ 16 722 l 1xd0
+ 256 737 l 1
+ 256 97 l 2
+ 256 72 259 64 271 58 c 0
+ 278 54 298 51 317 51 c 2
+ 331 51 l 1
+ 331 0 l 1xb0
+EndSplineSet
+EndChar

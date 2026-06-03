@@ -1,0 +1,27 @@
+StartChar: Ldsh.v1
+Encoding: 1115618 -1 3612
+Width: 771
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -117 70<193 621 193 691 193 621>
+VStem: 621 70<-47 782>
+LayerCount: 2
+Fore
+SplineSet
+691 -117 m 1
+ 193 -117 l 1
+ 309 -232 l 1
+ 309 -289 l 1
+ 80 -103 l 1
+ 80 -82 l 1
+ 80 -61 l 1
+ 309 125 l 1
+ 309 68 l 1
+ 193 -47 l 1
+ 621 -47 l 1
+ 621 782 l 1
+ 691 782 l 1
+ 691 -117 l 1
+EndSplineSet
+EndChar

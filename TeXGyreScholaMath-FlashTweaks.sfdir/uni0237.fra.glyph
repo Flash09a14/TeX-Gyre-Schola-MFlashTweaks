@@ -1,0 +1,27 @@
+StartChar: uni0237.fra
+Encoding: 1115478 -1 3472
+Width: 375
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 225
+VStem: 206 82
+LayerCount: 2
+Fore
+SplineSet
+295 447 m 1
+ 288 30 l 2
+ 285 3 281 -25 266 -43 c 0
+ 220 -101 161 -160 96 -213 c 1
+ 80 -192 l 1
+ 108 -172 139 -145 165 -119 c 0
+ 178 -104 184 -88 188 -71 c 0
+ 203 -15 206 117 206 211 c 0
+ 207 265 206 336 195 368 c 0
+ 190 384 172 405 165 406 c 2
+ 157 403 l 1
+ 128 384 l 1
+ 111 399 l 1
+ 224 501 l 1
+ 247 485 272 466 295 447 c 1
+EndSplineSet
+EndChar

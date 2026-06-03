@@ -1,0 +1,22 @@
+StartChar: uni23B5.h1
+Encoding: 1115901 -1 3895
+Width: 750
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 28
+HStem: -308 74<44 706 44 750 0 706>
+VStem: 0 44<-234 -78 -234 -78 -234 -78> 706 44<-234 -78>
+LayerCount: 2
+Fore
+SplineSet
+750 -308 m 1
+ 0 -308 l 1
+ 0 -78 l 1
+ 44 -78 l 1
+ 44 -234 l 1
+ 706 -234 l 1
+ 706 -78 l 1
+ 750 -78 l 1
+ 750 -308 l 1
+EndSplineSet
+EndChar

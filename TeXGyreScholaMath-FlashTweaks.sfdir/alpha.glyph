@@ -1,0 +1,42 @@
+StartChar: alpha
+Encoding: 945 945 349
+Width: 610
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 309
+HStem: -9 36<206 243.5> -9 54<439 459.5 439 487.5> 439 36<254 280.5 223 284> 446 20G<395 468 468 468>
+VStem: 539 21<165 174>
+LayerCount: 2
+Fore
+SplineSet
+560 165 m 1x58
+ 554 85 527 -9 448 -9 c 0x58
+ 399 -9 366 37 349 89 c 1
+ 339 92 l 1
+ 308 26 269 -9 218 -9 c 0
+ 144 -9 93 56 76 145 c 0
+ 58 246 84 336 119 388 c 0
+ 149 434 190 475 256 475 c 0xa8
+ 305 475 343 434 360 385 c 1
+ 366 385 l 1
+ 395 466 l 1
+ 468 466 l 1
+ 395 249 l 2
+ 389 232 385 190 385 173 c 0
+ 385 89 424 45 454 45 c 0
+ 465 45 484 50 494 58 c 0
+ 522 80 533 132 539 174 c 1
+ 560 165 l 1x58
+345 234 m 0
+ 349 270 350 301 345 328 c 0
+ 335 383 305 439 263 439 c 0
+ 245 439 228 430 211 410 c 0
+ 194 391 180 363 168 326 c 0
+ 147 259 142 192 154 126 c 0
+ 163 74 186 27 226 27 c 0xa8
+ 265 27 297 64 325 138 c 0
+ 335 165 341 197 345 234 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" alpha.st alpha.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" alpha.st alpha.sts
+EndChar

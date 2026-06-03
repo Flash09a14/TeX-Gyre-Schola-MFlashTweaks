@@ -1,0 +1,20 @@
+StartChar: uni22C0
+Encoding: 8896 8896 881
+Width: 980
+GlyphClass: 2
+Flags: W
+IsExtendedShape: 1
+GlyphVariantsVertical: uni22C0 uni22C0.v1
+LayerCount: 2
+Fore
+SplineSet
+900 -232 m 1
+ 817 -232 l 1
+ 490 641 l 1
+ 163 -232 l 1
+ 80 -232 l 1
+ 455 770 l 1
+ 525 770 l 1
+ 900 -232 l 1
+EndSplineSet
+EndChar

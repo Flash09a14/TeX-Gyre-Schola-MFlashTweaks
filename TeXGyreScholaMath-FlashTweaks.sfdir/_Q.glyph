@@ -1,0 +1,40 @@
+StartChar: Q
+Encoding: 81 81 50
+Width: 778
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 387
+HStem: -189 81<648.5 660.5> -15 47<353 405.5 353 412> 218 47<346.5 408> 690 47<311 464.5>
+VStem: 45 132<302 453 302 458> 235 46<127.5 148.5 91.5 169> 602 132<305 469> 703 45<-72.5 -20>
+LayerCount: 2
+Fore
+SplineSet
+748 -20 m 1xfd
+ 748 -125 701 -189 620 -189 c 0
+ 538 -189 488 -120 484 0 c 1
+ 451 -11 429 -15 395 -15 c 0
+ 200 -15 45 151 45 360 c 0
+ 45 556 190 737 388 737 c 0
+ 581 737 734 574 734 369 c 0xfe
+ 734 241 680 129 576 43 c 1
+ 610 -66 634 -108 663 -108 c 0
+ 688 -108 698 -84 703 -20 c 1
+ 748 -20 l 1xfd
+602 363 m 0
+ 602 575 539 690 390 690 c 0
+ 232 690 177 546 177 360 c 0
+ 177 244 196 164 236 111 c 1
+ 235 119 235 126 235 129 c 0
+ 235 209 295 265 379 265 c 0
+ 463 265 524 213 550 119 c 1
+ 588 181 602 246 602 363 c 0
+480 54 m 1
+ 480 64 l 2
+ 480 162 442 218 374 218 c 0
+ 319 218 281 178 281 119 c 0
+ 281 64 320 32 386 32 c 0
+ 425 32 449 38 480 54 c 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Q.st Q.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Q.st Q.sts
+EndChar

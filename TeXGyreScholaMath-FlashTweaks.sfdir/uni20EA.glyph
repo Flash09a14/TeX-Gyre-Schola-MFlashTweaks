@@ -1,0 +1,24 @@
+StartChar: uni20EA
+Encoding: 8426 8426 553
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -269
+HStem: 225 70<-566 141 -566 141> 447 20G<-450 -450>
+LayerCount: 2
+Fore
+SplineSet
+141 225 m 1
+ -566 225 l 1
+ -450 110 l 1
+ -450 53 l 1
+ -679 239 l 1
+ -679 260 l 1
+ -679 281 l 1
+ -450 467 l 1
+ -450 410 l 1
+ -566 295 l 1
+ 141 295 l 1
+ 141 225 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: u1D6FB.sts
+Encoding: 1115185 -1 3179
+Width: 922
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 86
+TopAccentHorizontal: 545
+HStem: -10 21G<294 328 294 294> 639 87<285 849 285 285>
+LayerCount: 2
+Fore
+SplineSet
+980 726 m 1
+ 328 -10 l 1
+ 294 -10 l 1
+ 146 726 l 1
+ 980 726 l 1
+849 639 m 1
+ 285 639 l 1
+ 388 120 l 1
+ 849 639 l 1
+EndSplineSet
+EndChar

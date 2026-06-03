@@ -1,0 +1,20 @@
+StartChar: dotaccent
+Encoding: 729 729 292
+Width: 333
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 167
+HStem: 560 100<153.5 180>
+VStem: 117 100<596.5 623.5>
+LayerCount: 2
+Fore
+SplineSet
+217 610 m 0
+ 217 582 194 560 166 560 c 0
+ 140 560 117 583 117 610 c 0
+ 117 637 140 660 167 660 c 0
+ 194 660 217 637 217 610 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" dotaccent.st dotaccent.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" dotaccent.st dotaccent.sts
+EndChar

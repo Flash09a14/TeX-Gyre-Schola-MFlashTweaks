@@ -1,0 +1,26 @@
+StartChar: asciitilde.low
+Encoding: 1114124 -1 2118
+Width: 606
+GlyphClass: 2
+Flags: MW
+HStem: -81 80<416 430 416 439> 1 80<176 190>
+LayerCount: 2
+Fore
+SplineSet
+555 26 m 1
+ 518 -39 463 -81 415 -81 c 0
+ 391 -81 364 -74 316 -50 c 2
+ 270 -27 l 2
+ 213 1 209 0 190 1 c 0
+ 162 1 131 -23 104 -64 c 1
+ 51 -26 l 1
+ 88 39 143 81 191 81 c 0
+ 216 81 238 74 290 49 c 2
+ 336 27 l 2
+ 389 1 396 -2 416 -1 c 0
+ 444 -1 475 23 502 64 c 1
+ 555 26 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" asciitilde.low.st asciitilde.low.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" asciitilde.low.st asciitilde.low.sts
+EndChar

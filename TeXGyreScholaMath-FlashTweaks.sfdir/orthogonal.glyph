@@ -1,0 +1,19 @@
+StartChar: orthogonal
+Encoding: 8735 8735 722
+Width: 815
+GlyphClass: 2
+Flags: MW
+HStem: 0 70<150 735 150 735>
+VStem: 80 70<70 655 70 655 70 655>
+LayerCount: 2
+Fore
+SplineSet
+735 0 m 1
+ 80 0 l 1
+ 80 655 l 1
+ 150 655 l 1
+ 150 70 l 1
+ 735 70 l 1
+ 735 0 l 1
+EndSplineSet
+EndChar

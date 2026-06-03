@@ -1,0 +1,21 @@
+StartChar: uni2907.ex
+Encoding: 1115747 -1 3741
+Width: 360
+GlyphClass: 2
+Flags: MW
+HStem: 140 70<0 360 0 360> 310 70<0 360 0 360>
+LayerCount: 2
+Fore
+SplineSet
+360 310 m 1
+ 0 310 l 1
+ 0 380 l 1
+ 360 380 l 1
+ 360 310 l 1
+360 140 m 1
+ 0 140 l 1
+ 0 210 l 1
+ 360 210 l 1
+ 360 140 l 1
+EndSplineSet
+EndChar

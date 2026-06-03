@@ -1,0 +1,22 @@
+StartChar: quoteleft.st
+Encoding: 1114666 -1 2660
+Width: 244
+GlyphClass: 2
+Flags: MW
+HStem: 444 118<102.5 105 102.5 149.5> 716 20G<183 183>
+VStem: 39 58<568 578.5>
+LayerCount: 2
+Fore
+SplineSet
+209 708 m 1
+ 132 658 97 614 97 571 c 0
+ 97 565 100 562 105 562 c 2
+ 105 562 106 562 108 563 c 2
+ 128 564 l 2
+ 171 566 200 538 200 505 c 0
+ 200 470 170 444 129 444 c 0
+ 75 444 39 483 39 543 c 0
+ 39 614 85 675 183 736 c 1
+ 209 708 l 1
+EndSplineSet
+EndChar

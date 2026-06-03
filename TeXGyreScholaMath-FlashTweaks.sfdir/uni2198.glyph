@@ -1,0 +1,25 @@
+StartChar: uni2198
+Encoding: 8600 8600 622
+Width: 1020
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: uni2198 uni2198.v1
+HStem: -134 40
+VStem: 869 40
+LayerCount: 2
+Fore
+SplineSet
+940 -135 m 1
+ 925 -150 l 1
+ 910 -165 l 1
+ 616 -134 l 1
+ 656 -94 l 1
+ 820 -95 l 1
+ 80 645 l 1
+ 129 695 l 1
+ 870 -45 l 1
+ 869 118 l 1
+ 909 158 l 1
+ 940 -135 l 1
+EndSplineSet
+EndChar

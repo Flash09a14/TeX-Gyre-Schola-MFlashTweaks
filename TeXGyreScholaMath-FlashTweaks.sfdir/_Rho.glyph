@@ -1,0 +1,41 @@
+StartChar: Rho
+Encoding: 929 929 341
+Width: 761
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 343
+HStem: 0 31<80 164 164 176.5 331 415 80 164> 334 32<292 426 292 438> 691 31<80 164 80 449 292 292 292 426>
+VStem: 202 90<71 334 366 651 651 664> 581 100<490.5 542.5 490.5 581.5>
+LayerCount: 2
+Fore
+SplineSet
+681 530 m 0
+ 681 451 646 401 591 369 c 0
+ 552 345 497 334 426 334 c 2
+ 292 334 l 1
+ 292 71 l 2
+ 292 45 305 31 331 31 c 2
+ 415 31 l 1
+ 415 0 l 1
+ 80 0 l 1
+ 80 31 l 1
+ 164 31 l 2
+ 189 31 202 45 202 71 c 2
+ 202 651 l 2
+ 202 677 189 691 164 691 c 2
+ 80 691 l 1
+ 80 722 l 1
+ 449 722 l 2
+ 486 722 519 716 549 705 c 0
+ 603 686 643 649 665 600 c 0
+ 676 578 681 555 681 530 c 0
+581 530 m 0
+ 581 633 526 691 426 691 c 2
+ 292 691 l 1
+ 292 366 l 1
+ 438 366 l 2
+ 533 366 581 420 581 530 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Rho.st Rho.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Rho.st Rho.sts
+EndChar

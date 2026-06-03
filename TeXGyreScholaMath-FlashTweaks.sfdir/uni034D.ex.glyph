@@ -1,0 +1,17 @@
+StartChar: uni034D.ex
+Encoding: 1115521 -1 3515
+Width: 151
+GlyphClass: 2
+Flags: MW
+HStem: -216 60<0 151 0 151>
+VStem: 0 151<-216 -156 -216 -156>
+LayerCount: 2
+Fore
+SplineSet
+151 -156 m 1
+ 151 -216 l 1
+ 0 -216 l 1
+ 0 -156 l 1
+ 151 -156 l 1
+EndSplineSet
+EndChar

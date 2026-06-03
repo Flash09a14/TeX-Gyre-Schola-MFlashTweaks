@@ -1,0 +1,26 @@
+StartChar: uni27E0
+Encoding: 10208 10208 1043
+Width: 626
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<184 442 184 442>
+LayerCount: 2
+Fore
+SplineSet
+546 260 m 1
+ 343 -69 l 1
+ 283 -69 l 1
+ 80 260 l 1
+ 283 589 l 1
+ 343 589 l 1
+ 546 260 l 1
+442 295 m 1
+ 313 504 l 1
+ 184 295 l 1
+ 442 295 l 1
+442 225 m 1
+ 184 225 l 1
+ 313 16 l 1
+ 442 225 l 1
+EndSplineSet
+EndChar

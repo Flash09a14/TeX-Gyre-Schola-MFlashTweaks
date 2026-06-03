@@ -1,0 +1,21 @@
+StartChar: uni2225.v1
+Encoding: 1116088 -1 4082
+Width: 386
+GlyphClass: 2
+Flags: MW
+VStem: 80 63<-232 752> 243 63<-232 752>
+LayerCount: 2
+Fore
+SplineSet
+143 -232 m 1
+ 80 -232 l 1
+ 80 752 l 1
+ 143 752 l 1
+ 143 -232 l 1
+306 -232 m 1
+ 243 -232 l 1
+ 243 752 l 1
+ 306 752 l 1
+ 306 -232 l 1
+EndSplineSet
+EndChar

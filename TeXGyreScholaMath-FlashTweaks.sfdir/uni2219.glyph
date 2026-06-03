@@ -1,0 +1,17 @@
+StartChar: uni2219
+Encoding: 8729 8729 718
+Width: 480
+GlyphClass: 2
+Flags: MW
+HStem: 100 320<196 284>
+VStem: 80 320<216 304>
+LayerCount: 2
+Fore
+SplineSet
+400 260 m 0
+ 400 172 328 100 240 100 c 0
+ 152 100 80 172 80 260 c 0
+ 80 348 152 420 240 420 c 0
+ 328 420 400 348 400 260 c 0
+EndSplineSet
+EndChar

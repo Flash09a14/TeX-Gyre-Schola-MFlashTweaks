@@ -1,0 +1,17 @@
+StartChar: uni20E5
+Encoding: 8421 8421 549
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -269
+VStem: -421 304
+LayerCount: 2
+Fore
+SplineSet
+-117 -191 m 1
+ -179 -191 l 1
+ -421 711 l 1
+ -359 711 l 1
+ -117 -191 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: Rdsh.v1
+Encoding: 1115620 -1 3614
+Width: 771
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+HStem: -117 70<150 578 150 578>
+VStem: 80 70<-47 782 -47 782 -47 782>
+LayerCount: 2
+Fore
+SplineSet
+691 -103 m 1
+ 462 -289 l 1
+ 462 -232 l 1
+ 578 -117 l 1
+ 80 -117 l 1
+ 80 782 l 1
+ 150 782 l 1
+ 150 -47 l 1
+ 578 -47 l 1
+ 462 68 l 1
+ 462 125 l 1
+ 691 -61 l 1
+ 691 -82 l 1
+ 691 -103 l 1
+EndSplineSet
+EndChar

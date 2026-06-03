@@ -1,0 +1,21 @@
+StartChar: uni0394.sts
+Encoding: 1115015 -1 3009
+Width: 1067
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 528
+HStem: 0 87<220 784 220 950> 716 20G<531 565 565 565>
+LayerCount: 2
+Fore
+SplineSet
+950 0 m 1
+ 117 0 l 1
+ 531 736 l 1
+ 565 736 l 1
+ 950 0 l 1
+784 87 m 1
+ 512 606 l 1
+ 220 87 l 1
+ 784 87 l 1
+EndSplineSet
+EndChar

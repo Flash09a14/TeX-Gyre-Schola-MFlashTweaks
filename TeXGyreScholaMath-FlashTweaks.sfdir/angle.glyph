@@ -1,0 +1,19 @@
+StartChar: angle
+Encoding: 8736 8736 723
+Width: 819
+GlyphClass: 2
+Flags: MW
+HStem: 0 70<178 714 80 80>
+LayerCount: 2
+Fore
+SplineSet
+739 646 m 1
+ 178 70 l 1
+ 714 70 l 1
+ 714 0 l 1
+ 80 0 l 1
+ 80 70 l 1
+ 689 694 l 1
+ 739 646 l 1
+EndSplineSet
+EndChar

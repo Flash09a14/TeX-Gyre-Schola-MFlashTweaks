@@ -1,0 +1,20 @@
+StartChar: acutecomb
+Encoding: 769 769 298
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -231
+HStem: 544 171<-344 -144.5>
+VStem: -344 225<544 689.5>
+LayerCount: 2
+Fore
+SplineSet
+-119 680 m 0
+ -119 666 -129 650 -144 641 c 2
+ -303 544 l 1
+ -344 544 l 1
+ -204 684 l 2
+ -179 709 -169 715 -154 715 c 0
+ -135 715 -119 699 -119 680 c 0
+EndSplineSet
+EndChar

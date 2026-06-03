@@ -1,0 +1,52 @@
+StartChar: H
+Encoding: 72 72 41
+Width: 833
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 417
+HStem: 0 47<29 47 47 87.5 339 358 29 47 476 494 494 534.5 786 804> 347 54<249 584 249 584> 675 47<29 47 29 358 298.5 339 339 358 480 494 745.5 786 786 804>
+VStem: 137 112<94 347 401 628> 584 112<94 347 347 347 401 628>
+LayerCount: 2
+Fore
+SplineSet
+804 0 m 1
+ 476 0 l 1
+ 476 47 l 1
+ 494 47 l 2
+ 575 47 584 52 584 94 c 2
+ 584 347 l 1
+ 249 347 l 1
+ 249 94 l 2
+ 249 52 258 47 339 47 c 2
+ 358 47 l 1
+ 358 0 l 1
+ 29 0 l 1
+ 29 47 l 1
+ 47 47 l 2
+ 128 47 137 52 137 94 c 2
+ 137 628 l 2
+ 137 670 128 675 47 675 c 2
+ 29 675 l 1
+ 29 722 l 1
+ 358 722 l 1
+ 358 675 l 1
+ 339 675 l 2
+ 258 675 249 670 249 628 c 2
+ 249 401 l 1
+ 584 401 l 1
+ 584 628 l 2
+ 584 670 575 675 494 675 c 2
+ 480 675 l 1
+ 480 722 l 1
+ 804 722 l 1
+ 804 675 l 1
+ 786 675 l 2
+ 705 675 696 670 696 628 c 2
+ 696 94 l 2
+ 696 52 705 47 786 47 c 2
+ 804 47 l 1
+ 804 0 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" H.st H.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" H.st H.sts
+EndChar

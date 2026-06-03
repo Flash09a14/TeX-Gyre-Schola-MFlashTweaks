@@ -1,0 +1,39 @@
+StartChar: uni1ECF
+Encoding: 7887 7887 429
+Width: 500
+GlyphClass: 2
+Flags: MW
+HStem: -15 43<214 286 214 310> 438 43<214.5 287> 667 40<237 258>
+VStem: 34 105<166 300 166 302> 153 78<627.5 635.5 621 659> 224 33<514 530 514 545 514 552.5> 289 62<626.5 639> 361 105<166.5 299>
+LayerCount: 2
+Fore
+SplineSet
+466 233 m 0xf3
+ 466 95 370 -15 250 -15 c 0
+ 130 -15 34 95 34 232 c 0
+ 34 372 130 481 252 481 c 0
+ 370 481 466 370 466 233 c 0xf3
+361 233 m 0
+ 361 365 322 438 252 438 c 0
+ 177 438 139 368 139 232 c 0
+ 139 100 178 28 250 28 c 0
+ 322 28 361 100 361 233 c 0
+351 630 m 0
+ 351 606 339 594 289 567 c 0
+ 261 552 257 546 257 514 c 1
+ 224 514 l 1
+ 224 545 l 2xf7
+ 224 560 228 567 276 606 c 1
+ 275 606 l 1
+ 284 614 289 622 289 631 c 0
+ 289 647 272 667 244 667 c 0
+ 230 667 216 664 212 661 c 1
+ 223 651 231 641 231 630 c 0
+ 231 612 215 597 194 597 c 0
+ 170 597 153 616 153 639 c 0xfb
+ 153 679 196 707 257 707 c 0xf7
+ 318 707 351 664 351 630 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" uni1ECF.st uni1ECF.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" uni1ECF.st uni1ECF.sts
+EndChar

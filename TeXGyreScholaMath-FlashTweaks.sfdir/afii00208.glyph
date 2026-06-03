@@ -1,0 +1,16 @@
+StartChar: afii00208
+Encoding: 8213 8213 490
+Width: 1160
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<80 1080 80 1080>
+LayerCount: 2
+Fore
+SplineSet
+1080 225 m 1
+ 80 225 l 1
+ 80 295 l 1
+ 1080 295 l 1
+ 1080 225 l 1
+EndSplineSet
+EndChar

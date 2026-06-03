@@ -1,0 +1,21 @@
+StartChar: uni21E9.tp
+Encoding: 1115773 -1 3767
+Width: 622
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<205 247 205 205 375 417 375 375> 514 42<247 375 247 247>
+VStem: 205 42<0 514 0 556> 375 42<0 514 514 514>
+LayerCount: 2
+Fore
+SplineSet
+417 556 m 1
+ 417 0 l 1
+ 375 0 l 1
+ 375 514 l 1
+ 247 514 l 1
+ 247 0 l 1
+ 205 0 l 1
+ 205 556 l 1
+ 417 556 l 1
+EndSplineSet
+EndChar

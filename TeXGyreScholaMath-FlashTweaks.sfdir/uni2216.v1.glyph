@@ -1,0 +1,15 @@
+StartChar: uni2216.v1
+Encoding: 1116086 -1 4080
+Width: 903
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+823 -320 m 1
+ 750 -320 l 1
+ 80 840 l 1
+ 153 840 l 1
+ 823 -320 l 1
+EndSplineSet
+EndChar

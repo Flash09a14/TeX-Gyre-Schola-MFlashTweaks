@@ -1,0 +1,19 @@
+StartChar: uni27EE.tp
+Encoding: 1115998 -1 3992
+Width: 470
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<143 256 143 143>
+VStem: 143 113<0 408>
+LayerCount: 2
+Fore
+SplineSet
+374 1211 m 1
+ 276 1145 256 827 256 408 c 2
+ 256 0 l 1
+ 143 0 l 1
+ 144 408 l 2
+ 144 850 253 1168 357 1237 c 1
+ 374 1211 l 1
+EndSplineSet
+EndChar

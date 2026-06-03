@@ -1,0 +1,22 @@
+StartChar: uni21C8.bt
+Encoding: 1115681 -1 3675
+Width: 934
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<252 322 252 252 612 612 612 682>
+VStem: 252 70<0 465 0 465> 612 70<0 465>
+LayerCount: 2
+Fore
+SplineSet
+322 465 m 1
+ 322 0 l 1
+ 252 0 l 1
+ 252 465 l 1
+ 322 465 l 1
+682 0 m 1
+ 612 0 l 1
+ 612 465 l 1
+ 682 465 l 1
+ 682 0 l 1
+EndSplineSet
+EndChar

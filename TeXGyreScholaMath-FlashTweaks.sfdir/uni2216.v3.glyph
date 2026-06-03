@@ -1,0 +1,16 @@
+StartChar: uni2216.v3
+Encoding: 1116100 -1 4094
+Width: 1230
+GlyphClass: 2
+Flags: W
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+1150 -598 m 1
+ 1070 -598 l 1
+ 80 1118 l 1
+ 160 1118 l 1
+ 1150 -598 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: space_uni030F
+Encoding: 1114121 -1 2115
+Width: 333
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 122
+HStem: 527 166<24.5 104>
+VStem: 5 80<634 672.5> 123 80<634 672.5>
+LayerCount: 2
+Fore
+SplineSet
+238 536 m 1
+ 222 527 l 1
+ 141 625 l 2
+ 128 640 123 652 123 665 c 0
+ 123 680 135 693 150 693 c 0
+ 173 693 188 676 203 634 c 2
+ 238 536 l 1
+120 536 m 1
+ 104 527 l 1
+ 23 625 l 2
+ 10 641 5 652 5 665 c 0
+ 5 680 17 693 32 693 c 0
+ 55 693 70 676 85 634 c 2
+ 120 536 l 1
+EndSplineSet
+EndChar

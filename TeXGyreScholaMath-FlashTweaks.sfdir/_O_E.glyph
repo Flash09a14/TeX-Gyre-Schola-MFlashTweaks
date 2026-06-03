@@ -1,0 +1,48 @@
+StartChar: OE
+Encoding: 338 338 243
+Width: 1000
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 9
+HStem: 0 47<319 373 373 374 668 705 705 779> 350 47<596 615 596 619> 466 21G<921 965 921 921> 675 47<275.5 951 632 659 659 685>
+VStem: 19 132<315 456.5 255.5 465> 484 112<237 350 397 509 509 546> 749 47<206 534 206 534> 921 44<466 466> 937 44<267 267>
+LayerCount: 2
+Fore
+SplineSet
+981 267 m 1xfe80
+ 961 0 l 1
+ 373 0 l 2
+ 265 0 192 27 130 90 c 0
+ 60 162 19 264 19 366 c 0
+ 19 564 147 722 381 722 c 2
+ 951 722 l 1
+ 965 466 l 1
+ 921 466 l 1xff
+ 891 641 850 675 685 675 c 2
+ 659 675 l 2
+ 605 675 596 668 596 625 c 2
+ 596 397 l 1
+ 619 397 l 2
+ 714 397 744 436 749 534 c 1
+ 796 534 l 1
+ 796 206 l 1
+ 749 206 l 1
+ 746 300 739 350 615 350 c 2
+ 596 350 l 1
+ 596 95 l 2
+ 596 53 617 47 668 47 c 2
+ 705 47 l 2
+ 853 47 903 95 937 267 c 1
+ 981 267 l 1xfe80
+484 237 m 2
+ 484 509 l 2
+ 484 583 480 603 458 630 c 0
+ 435 659 395 675 347 675 c 0
+ 204 675 151 553 151 360 c 0
+ 151 151 216 47 348 47 c 0
+ 400 47 444 68 464 102 c 0
+ 480 130 484 160 484 237 c 2
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" OE.st OE.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" OE.st OE.sts
+EndChar

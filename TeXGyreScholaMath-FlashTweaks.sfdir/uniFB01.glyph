@@ -1,0 +1,50 @@
+StartChar: uniFB01
+Encoding: 64257 64257 1108
+Width: 611
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 5
+HStem: 0 36<31 45 45 77.5 270 284 31 45 335 349 349 381.5 574 588> 423 43<16 111 16 111 205 356 356 372> 453 20G<509 509> 696 40<307 366.5>
+VStem: 111 94<83 423 466 475 475 487> 398 108<621 685.5> 415 94<83 354 354 386.5>
+LayerCount: 2
+Fore
+SplineSet
+588 0 m 1xba
+ 335 0 l 1
+ 335 36 l 1
+ 349 36 l 2
+ 414 36 415 43 415 83 c 2
+ 415 354 l 2xba
+ 415 419 412 423 372 423 c 2
+ 205 423 l 1
+ 205 82 l 2
+ 205 43 206 36 270 36 c 2
+ 284 36 l 1
+ 284 0 l 1
+ 31 0 l 1
+ 31 36 l 1
+ 45 36 l 2
+ 110 36 111 43 111 83 c 2
+ 111 423 l 1
+ 16 423 l 1
+ 16 466 l 1
+ 111 466 l 1
+ 111 475 l 2
+ 111 657 215 736 358 736 c 0
+ 449 736 506 698 506 639 c 0
+ 506 603 481 579 443 579 c 0
+ 408 579 381 602 381 631 c 0
+ 381 652 398 676 398 680 c 0
+ 398 691 382 696 351 696 c 0
+ 263 696 205 637 205 487 c 2
+ 205 466 l 1
+ 356 466 l 2xdc
+ 404 466 437 468 509 473 c 1
+ 509 82 l 2
+ 509 43 510 36 574 36 c 2
+ 588 36 l 1
+ 588 0 l 1xba
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" f_i.st f_i.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" f_i.st f_i.sts
+EndChar

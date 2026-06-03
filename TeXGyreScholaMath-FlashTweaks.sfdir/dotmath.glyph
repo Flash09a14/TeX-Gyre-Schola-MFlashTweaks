@@ -1,0 +1,17 @@
+StartChar: dotmath
+Encoding: 8901 8901 886
+Width: 284
+GlyphClass: 2
+Flags: MW
+HStem: 198 124<125 159>
+VStem: 80 124<243 277>
+LayerCount: 2
+Fore
+SplineSet
+204 260 m 0
+ 204 226 176 198 142 198 c 0
+ 108 198 80 226 80 260 c 0
+ 80 294 108 322 142 322 c 0
+ 176 322 204 294 204 260 c 0
+EndSplineSet
+EndChar

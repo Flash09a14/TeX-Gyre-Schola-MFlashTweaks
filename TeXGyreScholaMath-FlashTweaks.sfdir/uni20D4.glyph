@@ -1,0 +1,28 @@
+StartChar: uni20D4
+Encoding: 8404 8404 537
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -269
+IsExtendedShape: 1
+HStem: 645 32<-296 -267> 746 60<-290.5 -229.5>
+VStem: -455 29
+LayerCount: 2
+Fore
+SplineSet
+-48 652 m 1
+ -105 632 l 1
+ -129 700 -193 746 -266 746 c 0
+ -315 746 -355 718 -392 684 c 1
+ -296 677 l 1
+ -267 645 l 1
+ -468 630 l 1
+ -479 642 l 1
+ -490 654 l 1
+ -455 853 l 1
+ -426 820 l 1
+ -428 730 l 1
+ -380 771 -329 806 -266 806 c 0
+ -168 806 -81 744 -48 652 c 1
+EndSplineSet
+EndChar

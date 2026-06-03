@@ -1,0 +1,30 @@
+StartChar: uni225C
+Encoding: 8796 8796 783
+Width: 780
+GlyphClass: 2
+Flags: MW
+HStem: 125 70<80 700 80 700> 325 70<80 700 80 700> 495 38<286 465 286 561>
+LayerCount: 2
+Fore
+SplineSet
+700 325 m 1
+ 80 325 l 1
+ 80 395 l 1
+ 700 395 l 1
+ 700 325 l 1
+700 125 m 1
+ 80 125 l 1
+ 80 195 l 1
+ 700 195 l 1
+ 700 125 l 1
+561 495 m 1
+ 219 495 l 1
+ 390 784 l 1
+ 410 784 l 1
+ 561 495 l 1
+465 533 m 1
+ 381 695 l 1
+ 286 533 l 1
+ 465 533 l 1
+EndSplineSet
+EndChar

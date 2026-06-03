@@ -1,0 +1,28 @@
+StartChar: arrowdblboth.lft
+Encoding: 1115717 -1 3711
+Width: 540
+GlyphClass: 2
+Flags: MW
+HStem: 140 70<215 540 215 215> 310 70<215 540 215 540 146 540>
+LayerCount: 2
+Fore
+SplineSet
+540 210 m 1
+ 540 140 l 1
+ 215 140 l 1
+ 273 80 l 1
+ 273 23 l 1
+ 0 239 l 1
+ 0 260 l 1
+ 0 281 l 1
+ 273 497 l 1
+ 273 440 l 1
+ 215 380 l 1
+ 540 380 l 1
+ 540 310 l 1
+ 146 310 l 1
+ 97 260 l 1
+ 146 210 l 1
+ 540 210 l 1
+EndSplineSet
+EndChar

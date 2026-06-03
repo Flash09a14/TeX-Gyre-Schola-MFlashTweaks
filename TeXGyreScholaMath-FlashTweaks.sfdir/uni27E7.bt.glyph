@@ -1,0 +1,23 @@
+StartChar: uni27E7.bt
+Encoding: 1116017 -1 4011
+Width: 594
+GlyphClass: 2
+Flags: MW
+HStem: 0 50<96 199 249 353 96 199>
+VStem: 199 50<50 833 50 833> 353 50<50 833>
+LayerCount: 2
+Fore
+SplineSet
+403 0 m 1
+ 96 0 l 1
+ 96 50 l 1
+ 199 50 l 1
+ 199 833 l 1
+ 249 833 l 1
+ 249 50 l 1
+ 353 50 l 1
+ 353 833 l 1
+ 403 833 l 1
+ 403 0 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,23 @@
+StartChar: arrowboth.rt
+Encoding: 1115549 -1 3543
+Width: 540
+GlyphClass: 2
+Flags: MW
+HStem: 225 70<0 427 0 427> 447 20G<311 311>
+LayerCount: 2
+Fore
+SplineSet
+540 239 m 1
+ 311 53 l 1
+ 311 110 l 1
+ 427 225 l 1
+ 0 225 l 1
+ 0 295 l 1
+ 427 295 l 1
+ 311 410 l 1
+ 311 467 l 1
+ 540 281 l 1
+ 540 260 l 1
+ 540 239 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,48 @@
+StartChar: ampersand
+Encoding: 38 38 7
+Width: 815
+GlyphClass: 2
+Flags: MW
+HStem: -15 68<282 302> -11 79<623.5 645> 361 43<471 491 471 753 732 732 732 753> 694 43<331.5 377>
+VStem: 51 107<193 234> 182 94<576.5 613> 433 80<565 627.5> 731 44<163 169>
+LayerCount: 2
+Fore
+SplineSet
+775 163 m 1x7f
+ 760 49 690 -11 600 -11 c 0x7f
+ 545 -11 506 7 458 56 c 1
+ 393 6 338 -15 266 -15 c 0xbf
+ 130 -15 51 83 51 189 c 0
+ 51 279 112 357 224 411 c 1
+ 193 477 182 516 182 560 c 0
+ 182 666 252 737 357 737 c 0
+ 450 737 513 682 513 602 c 0
+ 513 511 456 463 340 411 c 1
+ 400 301 452 221 501 163 c 1
+ 544 213 571 271 571 314 c 0
+ 571 345 550 361 491 361 c 2
+ 471 361 l 1
+ 471 404 l 1
+ 753 404 l 1
+ 753 361 l 1
+ 732 361 l 2
+ 700 360 681 351 664 334 c 0
+ 646 316 647 315 598 225 c 0
+ 576 185 574 181 532 129 c 1
+ 572 86 605 68 642 68 c 0
+ 686 68 719 106 731 169 c 1
+ 775 163 l 1x7f
+433 600 m 0
+ 433 655 400 694 354 694 c 0
+ 309 694 276 653 276 595 c 0
+ 276 558 290 513 319 453 c 1
+ 395 491 433 530 433 600 c 0
+427 90 m 1
+ 342 189 309 240 243 370 c 1
+ 183 335 158 298 158 243 c 0
+ 158 143 238 53 326 53 c 0xbf
+ 359 53 383 62 427 90 c 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" ampersand.st ampersand.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" ampersand.st ampersand.sts
+EndChar

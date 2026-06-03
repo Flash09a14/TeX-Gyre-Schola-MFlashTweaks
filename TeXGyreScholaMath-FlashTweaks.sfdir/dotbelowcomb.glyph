@@ -1,0 +1,18 @@
+StartChar: dotbelowcomb
+Encoding: 803 803 312
+Width: 0
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: -268
+HStem: -194 100<-281.5 -255>
+VStem: -318 100<-157.5 -130.5>
+LayerCount: 2
+Fore
+SplineSet
+-218 -144 m 0
+ -218 -172 -241 -194 -269 -194 c 0
+ -295 -194 -318 -171 -318 -144 c 0
+ -318 -117 -295 -94 -268 -94 c 0
+ -241 -94 -218 -117 -218 -144 c 0
+EndSplineSet
+EndChar

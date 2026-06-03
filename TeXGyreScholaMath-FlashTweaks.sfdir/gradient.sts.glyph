@@ -1,0 +1,21 @@
+StartChar: gradient.sts
+Encoding: 1115183 -1 3177
+Width: 1067
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 514
+HStem: -10 21G<503 537 503 503> 639 87<284 848 284 284>
+LayerCount: 2
+Fore
+SplineSet
+950 726 m 1
+ 537 -10 l 1
+ 503 -10 l 1
+ 117 726 l 1
+ 950 726 l 1
+848 639 m 1
+ 284 639 l 1
+ 555 120 l 1
+ 848 639 l 1
+EndSplineSet
+EndChar

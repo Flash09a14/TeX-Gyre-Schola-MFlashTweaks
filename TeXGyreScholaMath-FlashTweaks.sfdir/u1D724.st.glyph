@@ -1,0 +1,30 @@
+StartChar: u1D724.st
+Encoding: 1115052 -1 3046
+Width: 644
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 91
+TopAccentHorizontal: 466
+HStem: 0 58<60 184 184 193 389 491 43 184> 675 58<259 360 242 707 556 565 565 690>
+LayerCount: 2
+Fore
+SplineSet
+707 733 m 1
+ 690 675 l 1
+ 565 675 l 2
+ 547 675 544 669 539 653 c 2
+ 372 87 l 2
+ 367 70 368 58 389 58 c 2
+ 508 58 l 1
+ 491 0 l 1
+ 43 0 l 1
+ 60 58 l 1
+ 184 58 l 2
+ 202 58 205 65 208 80 c 2
+ 375 646 l 2
+ 381 665 382 675 360 675 c 2
+ 242 675 l 1
+ 259 733 l 1
+ 707 733 l 1
+EndSplineSet
+EndChar

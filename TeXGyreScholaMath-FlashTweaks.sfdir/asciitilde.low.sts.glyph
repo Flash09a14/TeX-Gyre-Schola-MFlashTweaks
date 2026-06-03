@@ -1,0 +1,24 @@
+StartChar: asciitilde.low.sts
+Encoding: 1114747 -1 2741
+Width: 773
+GlyphClass: 2
+Flags: MW
+HStem: -81 80<523 540 523 551> 1 80<233 250>
+LayerCount: 2
+Fore
+SplineSet
+692 26 m 1
+ 647 -39 580 -81 522 -81 c 0
+ 493 -81 460 -74 402 -50 c 2
+ 347 -27 l 2
+ 278 1 273 0 250 1 c 0
+ 216 1 179 -23 146 -64 c 1
+ 82 -26 l 1
+ 126 39 193 81 251 81 c 0
+ 281 81 308 74 371 49 c 2
+ 427 27 l 2
+ 491 1 499 -2 523 -1 c 0
+ 557 -1 595 23 627 64 c 1
+ 692 26 l 1
+EndSplineSet
+EndChar

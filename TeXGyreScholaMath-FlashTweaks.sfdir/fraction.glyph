@@ -1,0 +1,17 @@
+StartChar: fraction
+Encoding: 8260 8260 516
+Width: 464
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: fraction fraction.v1 fraction.v2 fraction.v3 fraction.v4 fraction.v5 fraction.v6
+VStem: 80 304
+LayerCount: 2
+Fore
+SplineSet
+384 711 m 1
+ 142 -191 l 1
+ 80 -191 l 1
+ 322 711 l 1
+ 384 711 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,17 @@
+StartChar: uni2223.v5
+Encoding: 1116115 -1 4109
+Width: 237
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+VStem: 80 77<-760 1280>
+LayerCount: 2
+Fore
+SplineSet
+157 -760 m 1
+ 80 -760 l 1
+ 80 1280 l 1
+ 157 1280 l 1
+ 157 -760 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,32 @@
+StartChar: twoheaduparrow.v1
+Encoding: 1115571 -1 3565
+Width: 574
+GlyphClass: 2
+Flags: MW
+IsExtendedShape: 1
+VStem: 252 70<-460 668 -460 668 763 867>
+LayerCount: 2
+Fore
+SplineSet
+494 552 m 1
+ 437 552 l 1
+ 322 668 l 1
+ 322 -460 l 1
+ 252 -460 l 1
+ 252 668 l 1
+ 137 552 l 1
+ 80 552 l 1
+ 252 763 l 1
+ 252 867 l 1
+ 137 751 l 1
+ 80 751 l 1
+ 266 980 l 1
+ 287 980 l 1
+ 308 980 l 1
+ 494 751 l 1
+ 437 751 l 1
+ 322 867 l 1
+ 322 763 l 1
+ 494 552 l 1
+EndSplineSet
+EndChar

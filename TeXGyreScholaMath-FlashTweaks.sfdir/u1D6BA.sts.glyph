@@ -1,0 +1,36 @@
+StartChar: u1D6BA.sts
+Encoding: 1115139 -1 3133
+Width: 1083
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 742
+IsExtendedShape: 1
+HStem: 0 113<371 781 781 798 371 803> 675 58<371 669 371 371>
+LayerCount: 2
+Fore
+SplineSet
+966 233 m 1
+ 880 -89 l 1
+ 786 -67 l 1
+ 803 0 l 1
+ 119 0 l 1
+ 119 45 l 1
+ 577 333 l 1
+ 118 683 l 1
+ 117 733 l 1
+ 740 733 l 1
+ 706 819 l 1
+ 807 840 l 1
+ 911 563 l 1
+ 804 564 l 1
+ 784 609 l 2
+ 769 649 731 675 669 675 c 2
+ 371 675 l 1
+ 771 367 l 1
+ 371 113 l 1
+ 781 113 l 2
+ 815 113 833 117 844 157 c 2
+ 868 233 l 1
+ 966 233 l 1
+EndSplineSet
+EndChar

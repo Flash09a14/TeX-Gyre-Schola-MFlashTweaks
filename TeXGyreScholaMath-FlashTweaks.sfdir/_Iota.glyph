@@ -1,0 +1,32 @@
+StartChar: Iota
+Encoding: 921 921 333
+Width: 494
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 247
+HStem: 0 31<80 164 164 176.5 330 414 80 164> 691 31<80 164 80 414 317.5 330 330 414>
+VStem: 202 90<71 651>
+LayerCount: 2
+Fore
+SplineSet
+414 0 m 1
+ 80 0 l 1
+ 80 31 l 1
+ 164 31 l 2
+ 189 31 202 45 202 71 c 2
+ 202 651 l 2
+ 202 677 189 691 164 691 c 2
+ 80 691 l 1
+ 80 722 l 1
+ 414 722 l 1
+ 414 691 l 1
+ 330 691 l 2
+ 305 691 292 677 292 651 c 2
+ 292 71 l 2
+ 292 45 305 31 330 31 c 2
+ 414 31 l 1
+ 414 0 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" Iota.st Iota.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" Iota.st Iota.sts
+EndChar

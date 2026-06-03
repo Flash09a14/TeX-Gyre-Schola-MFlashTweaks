@@ -1,0 +1,25 @@
+StartChar: shortdownarrow
+Encoding: 8595 8595 617
+Width: 574
+GlyphClass: 2
+Flags: MW
+GlyphVariantsVertical: shortdownarrow shortdownarrow.v1
+GlyphCompositionVertical: 3  shortdownarrow.bt%0,0,155,465 shortdownarrow.ex%1,310,310,310 shortdownarrow.tp%0,155,0,465
+VStem: 252 70<-37 670 -37 670>
+LayerCount: 2
+Fore
+SplineSet
+494 79 m 1
+ 308 -150 l 1
+ 287 -150 l 1
+ 266 -150 l 1
+ 80 79 l 1
+ 137 79 l 1
+ 252 -37 l 1
+ 252 670 l 1
+ 322 670 l 1
+ 322 -37 l 1
+ 437 79 l 1
+ 494 79 l 1
+EndSplineSet
+EndChar

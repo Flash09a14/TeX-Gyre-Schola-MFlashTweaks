@@ -1,0 +1,24 @@
+StartChar: u1D735
+Encoding: 120629 120629 1908
+Width: 839
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 95
+TopAccentHorizontal: 507
+HStem: -10 21G<327 327> 624 113<290 724 290 290>
+LayerCount: 2
+Fore
+SplineSet
+906 737 m 1
+ 327 -10 l 1
+ 263 -9 l 1
+ 107 737 l 1
+ 906 737 l 1
+724 624 m 1
+ 290 624 l 1
+ 381 182 l 1
+ 724 624 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" u1D735.st u1D735.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" u1D735.st u1D735.sts
+EndChar

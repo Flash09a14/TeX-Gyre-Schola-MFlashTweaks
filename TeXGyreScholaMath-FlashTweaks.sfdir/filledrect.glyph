@@ -1,0 +1,16 @@
+StartChar: filledrect
+Encoding: 9644 9644 1003
+Width: 780
+GlyphClass: 2
+Flags: MW
+HStem: 105 310<80 700 80 700>
+LayerCount: 2
+Fore
+SplineSet
+700 105 m 1
+ 80 105 l 1
+ 80 415 l 1
+ 700 415 l 1
+ 700 105 l 1
+EndSplineSet
+EndChar

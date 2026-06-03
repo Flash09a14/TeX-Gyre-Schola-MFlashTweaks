@@ -1,0 +1,18 @@
+StartChar: dotaccent.st
+Encoding: 1114280 -1 2274
+Width: 386
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 184
+HStem: 560 100<179 208>
+VStem: 139 110<596.5 623.5>
+LayerCount: 2
+Fore
+SplineSet
+249 610 m 0
+ 249 582 223 560 193 560 c 0
+ 164 560 139 583 139 610 c 0
+ 139 637 164 660 194 660 c 0
+ 223 660 249 637 249 610 c 0
+EndSplineSet
+EndChar

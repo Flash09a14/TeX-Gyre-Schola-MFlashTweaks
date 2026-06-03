@@ -1,0 +1,17 @@
+StartChar: macron.sts
+Encoding: 1114509 -1 2503
+Width: 443
+GlyphClass: 2
+Flags: MW
+TopAccentHorizontal: 202
+HStem: 583 54<32 411 32 411>
+LayerCount: 2
+Fore
+SplineSet
+411 583 m 1
+ 32 583 l 1
+ 32 637 l 1
+ 411 637 l 1
+ 411 583 l 1
+EndSplineSet
+EndChar

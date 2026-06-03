@@ -1,0 +1,45 @@
+StartChar: rcaron
+Encoding: 345 345 250
+Width: 444
+GlyphClass: 2
+Flags: MW
+ItalicCorrection: 19
+HStem: 0 36<25 39 39 71.5 273 292 25 39> 333 148<358 374.5 316.5 392> 412 43<21 62 21 21> 446 20G<198 198>
+VStem: 105 93<83 133 342 362 362 383.5> 319 116<380.5 397.5>
+LayerCount: 2
+Fore
+SplineSet
+435 401 m 0xcc
+ 435 360 410 333 374 333 c 0xcc
+ 342 333 319 356 319 388 c 0
+ 319 407 323 417 337 433 c 1
+ 295 428 261 397 237 341 c 0
+ 212 284 198 208 198 133 c 2
+ 198 83 l 2
+ 198 43 209 36 273 36 c 2
+ 292 36 l 1
+ 292 0 l 1
+ 25 0 l 1
+ 25 36 l 1
+ 39 36 l 2
+ 104 36 105 43 105 83 c 2
+ 105 362 l 2
+ 105 405 99 412 62 412 c 2
+ 21 412 l 1
+ 21 455 l 1xac
+ 198 466 l 1x9c
+ 198 342 l 1
+ 230 430 285 481 348 481 c 0
+ 401 481 435 449 435 401 c 0xcc
+354 693 m 1
+ 229 527 l 1
+ 166 527 l 1
+ 41 693 l 1
+ 77 693 l 1
+ 197 592 l 1
+ 318 693 l 1
+ 354 693 l 1
+EndSplineSet
+AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 2 subtable" rcaron.st rcaron.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical text layout lookup 0 subtable" rcaron.st rcaron.sts
+EndChar

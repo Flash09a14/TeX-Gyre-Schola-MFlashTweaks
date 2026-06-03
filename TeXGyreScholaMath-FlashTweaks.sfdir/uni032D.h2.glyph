@@ -1,0 +1,18 @@
+StartChar: uni032D.h2
+Encoding: 1115839 -1 3833
+Width: 783
+GlyphClass: 2
+Flags: MW
+HStem: -260 32<0 11>
+LayerCount: 2
+Fore
+SplineSet
+783 -228 m 1
+ 772 -260 l 1
+ 644 -225 517 -186 392 -144 c 1
+ 266 -186 139 -225 11 -260 c 1
+ 0 -228 l 1
+ 128 -172 259 -121 392 -76 c 1
+ 524 -121 655 -172 783 -228 c 1
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: uni21B6
+Encoding: 8630 8630 648
+Width: 931
+GlyphClass: 2
+Flags: MW
+GlyphVariantsHorizontal: uni21B6 uni21B6.h1
+HStem: 512 70<450 582>
+VStem: 781 70<260 331.5>
+LayerCount: 2
+Fore
+SplineSet
+851 260 m 1
+ 781 260 l 1
+ 781 403 655 512 509 512 c 0
+ 391 512 313 452 268 354 c 1
+ 418 428 l 1
+ 472 409 l 1
+ 221 253 l 1
+ 201 260 l 1
+ 181 267 l 1
+ 80 544 l 1
+ 134 525 l 1
+ 203 382 l 1
+ 259 507 359 582 509 582 c 0
+ 694 582 851 441 851 260 c 1
+EndSplineSet
+EndChar

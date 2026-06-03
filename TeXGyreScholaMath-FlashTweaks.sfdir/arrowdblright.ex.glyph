@@ -1,0 +1,22 @@
+StartChar: arrowdblright.ex
+Encoding: 1115707 -1 3701
+Width: 310
+GlyphClass: 2
+Flags: MW
+HStem: 140 70<0 310 0 310> 310 70<0 310 0 310>
+VStem: 0 310<140 210 140 210 310 380 140 380>
+LayerCount: 2
+Fore
+SplineSet
+310 380 m 1
+ 310 310 l 1
+ 0 310 l 1
+ 0 380 l 1
+ 310 380 l 1
+310 140 m 1
+ 0 140 l 1
+ 0 210 l 1
+ 310 210 l 1
+ 310 140 l 1
+EndSplineSet
+EndChar
