@@ -25,5 +25,5 @@ Just like all OpenType fonts (OTF), you require the `LuaLatex` or `XeLatex` comp
 ![With tweaks](WithTweaks.png)
 
 Notice the difference in integral height and how much the summation sign protrudes out. I personally prefer those changes.
-## License
-Distributed under the **GUST Font License (GFL)**. See the `LICENSE` file for the full license text. This font is a derivative work, renamed to prevent confusion with the official upstream release.
+## Legal
+Distributed under the **GUST Font License (GFL)**, which is practically identical to LPPL-1.3c. See the `LICENSE` file for the full license text. This font is a derivative work, renamed to prevent confusion with the official upstream release.
