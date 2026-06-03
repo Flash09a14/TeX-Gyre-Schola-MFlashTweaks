@@ -1,0 +1,8 @@
+*.glyph text eol=lf
+*.plist text eol=lf
+*.tag text eol=lf
+*.otf binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.glyph diff
