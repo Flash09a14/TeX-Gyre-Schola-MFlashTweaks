@@ -24,3 +24,6 @@ Any ideas, suggestions, or talking points? Please open a thread in the **Discuss
 
 * **No Trademarks:** Please respect the project's open-source license. Do not attempt to trademark any assets, names, or code associated with this repository. 
 * For more information, please read the repository's `LICENSE` file or visit the [TL;DR Legal LPPL-1.3c Page](https://www.tldrlegal.com/license/latex-project-public-license-v1-3c-lppl-1-3c).
+
+#### PR Template: 
+Use the `pull_request_template.md` for the checklist of the guidelines, unless it is a Draft Pull Request, in which case it is not required.
