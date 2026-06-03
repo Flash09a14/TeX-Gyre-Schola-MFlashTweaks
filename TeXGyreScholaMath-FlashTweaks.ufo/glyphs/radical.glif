@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="2">
+	<unicode hex="221A"/>
+	<advance width="705"/>
+	<outline>
+		<contour>
+			<point x="740" y="561" type="line"/>
+			<point x="693" y="561" type="line"/>
+			<point x="425" y="-76" type="line"/>
+			<point x="377" y="-76" type="line"/>
+			<point x="329" y="-76" type="line"/>
+			<point x="205" y="134" type="line"/>
+			<point x="120" y="134" type="line"/>
+			<point x="120" y="194" type="line"/>
+			<point x="287" y="194" type="line"/>
+			<point x="390" y="20" type="line"/>
+			<point x="647" y="631" type="line"/>
+			<point x="740" y="631" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>134</integer>
+						<key>width</key>
+						<integer>60</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>561</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

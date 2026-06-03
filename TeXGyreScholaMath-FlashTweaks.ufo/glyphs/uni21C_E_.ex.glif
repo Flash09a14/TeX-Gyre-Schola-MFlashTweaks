@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni21CE.ex" format="2">
+	<advance width="103"/>
+	<outline>
+		<contour>
+			<point x="103" y="380" type="line"/>
+			<point x="103" y="310" type="line"/>
+			<point x="0" y="310" type="line"/>
+			<point x="0" y="380" type="line"/>
+		</contour>
+		<contour>
+			<point x="103" y="210" type="line"/>
+			<point x="103" y="140" type="line"/>
+			<point x="0" y="140" type="line"/>
+			<point x="0" y="210" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>140</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>310</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>103</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

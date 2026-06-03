@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni21CC.lft" format="2">
+	<advance width="465"/>
+	<outline>
+		<contour>
+			<point x="465" y="195" type="line"/>
+			<point x="465" y="125" type="line"/>
+			<point x="128" y="125" type="line"/>
+			<point x="245" y="10" type="line"/>
+			<point x="245" y="-47" type="line"/>
+			<point x="0" y="153" type="line"/>
+			<point x="0" y="195" type="line"/>
+		</contour>
+		<contour>
+			<point x="465" y="395" type="line"/>
+			<point x="465" y="325" type="line"/>
+			<point x="0" y="325" type="line"/>
+			<point x="0" y="395" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>125</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>325</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

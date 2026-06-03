@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni23DC.lft" format="2">
+	<advance width="1761"/>
+	<outline>
+		<contour>
+			<point x="1761" y="812" type="line"/>
+			<point x="1761" y="700" type="line"/>
+			<point x="1323" y="700" type="line" smooth="yes"/>
+			<point x="661" y="700"/>
+			<point x="150" y="660"/>
+			<point x="23" y="532" type="curve"/>
+			<point x="0" y="555" type="line"/>
+			<point x="131" y="686"/>
+			<point x="643" y="812"/>
+			<point x="1323" y="812" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>700</integer>
+						<key>width</key>
+						<integer>112</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

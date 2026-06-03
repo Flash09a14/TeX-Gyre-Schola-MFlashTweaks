@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightthreearrows" format="2">
+	<unicode hex="21F6"/>
+	<advance width="980"/>
+	<outline>
+		<contour>
+			<point x="900" y="641" type="line"/>
+			<point x="900" y="620" type="line"/>
+			<point x="900" y="599" type="line"/>
+			<point x="704" y="440" type="line"/>
+			<point x="900" y="281" type="line"/>
+			<point x="900" y="260" type="line"/>
+			<point x="900" y="239" type="line"/>
+			<point x="704" y="80" type="line"/>
+			<point x="900" y="-79" type="line"/>
+			<point x="900" y="-100" type="line"/>
+			<point x="900" y="-121" type="line"/>
+			<point x="671" y="-307" type="line"/>
+			<point x="671" y="-250" type="line"/>
+			<point x="787" y="-135" type="line"/>
+			<point x="80" y="-135" type="line"/>
+			<point x="80" y="-65" type="line"/>
+			<point x="787" y="-65" type="line"/>
+			<point x="671" y="50" type="line"/>
+			<point x="671" y="107" type="line"/>
+			<point x="787" y="225" type="line"/>
+			<point x="80" y="225" type="line"/>
+			<point x="80" y="295" type="line"/>
+			<point x="787" y="295" type="line"/>
+			<point x="671" y="410" type="line"/>
+			<point x="671" y="467" type="line"/>
+			<point x="787" y="585" type="line"/>
+			<point x="80" y="585" type="line"/>
+			<point x="80" y="655" type="line"/>
+			<point x="787" y="655" type="line"/>
+			<point x="671" y="770" type="line"/>
+			<point x="671" y="827" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-135</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>225</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>585</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

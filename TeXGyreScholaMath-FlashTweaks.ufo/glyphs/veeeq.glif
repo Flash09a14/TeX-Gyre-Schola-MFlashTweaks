@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="veeeq" format="2">
+	<unicode hex="225A"/>
+	<advance width="780"/>
+	<outline>
+		<contour>
+			<point x="700" y="120" type="line"/>
+			<point x="80" y="120" type="line"/>
+			<point x="80" y="190" type="line"/>
+			<point x="700" y="190" type="line"/>
+		</contour>
+		<contour>
+			<point x="700" y="-80" type="line"/>
+			<point x="80" y="-80" type="line"/>
+			<point x="80" y="-10" type="line"/>
+			<point x="700" y="-10" type="line"/>
+		</contour>
+		<contour>
+			<point x="616" y="600" type="line"/>
+			<point x="425" y="290" type="line"/>
+			<point x="355" y="290" type="line"/>
+			<point x="164" y="600" type="line"/>
+			<point x="246" y="600" type="line"/>
+			<point x="390" y="367" type="line"/>
+			<point x="534" y="600" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-80</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>120</integer>
+						<key>width</key>
+						<integer>70</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
