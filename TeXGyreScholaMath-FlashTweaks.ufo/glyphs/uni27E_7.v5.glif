@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni27E7.v5" format="2">
-	<advance width="572"/>
-	<outline>
-		<contour>
-			<point x="387" y="-784" type="line"/>
-			<point x="93" y="-784" type="line"/>
-			<point x="93" y="-736" type="line"/>
-			<point x="192" y="-736" type="line"/>
-			<point x="192" y="1256" type="line"/>
-			<point x="93" y="1256" type="line"/>
-			<point x="93" y="1304" type="line"/>
-			<point x="387" y="1304" type="line"/>
-		</contour>
-		<contour>
-			<point x="339" y="1256" type="line"/>
-			<point x="240" y="1256" type="line"/>
-			<point x="240" y="-736" type="line"/>
-			<point x="339" y="-736" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-784</integer>
-						<key>width</key>
-						<integer>48</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1256</integer>
-						<key>width</key>
-						<integer>48</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>192</integer>
-						<key>width</key>
-						<integer>48</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>339</integer>
-						<key>width</key>
-						<integer>48</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="572"/>
+  <outline>
+    <contour>
+      <point x="387" y="-784" type="line"/>
+      <point x="93" y="-784" type="line"/>
+      <point x="93" y="-736" type="line"/>
+      <point x="192" y="-736" type="line"/>
+      <point x="192" y="1256" type="line"/>
+      <point x="93" y="1256" type="line"/>
+      <point x="93" y="1304" type="line"/>
+      <point x="387" y="1304" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="1256" type="line"/>
+      <point x="240" y="1256" type="line"/>
+      <point x="240" y="-736" type="line"/>
+      <point x="339" y="-736" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-784</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1256</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>192</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>339</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

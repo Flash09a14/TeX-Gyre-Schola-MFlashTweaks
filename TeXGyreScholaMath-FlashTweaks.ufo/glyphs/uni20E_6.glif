@@ -1,40 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni20E6" format="2">
-	<unicode hex="20E6"/>
-	<outline>
-		<contour>
-			<point x="-319" y="-150" type="line"/>
-			<point x="-379" y="-150" type="line"/>
-			<point x="-379" y="670" type="line"/>
-			<point x="-319" y="670" type="line"/>
-		</contour>
-		<contour>
-			<point x="-159" y="-150" type="line"/>
-			<point x="-219" y="-150" type="line"/>
-			<point x="-219" y="670" type="line"/>
-			<point x="-159" y="670" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-379</integer>
-						<key>width</key>
-						<integer>60</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>-219</integer>
-						<key>width</key>
-						<integer>60</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="0"/>
+  <unicode hex="20E6"/>
+  <outline>
+    <contour>
+      <point x="-319" y="-150" type="line"/>
+      <point x="-379" y="-150" type="line"/>
+      <point x="-379" y="670" type="line"/>
+      <point x="-319" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="-159" y="-150" type="line"/>
+      <point x="-219" y="-150" type="line"/>
+      <point x="-219" y="670" type="line"/>
+      <point x="-159" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-379</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-219</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

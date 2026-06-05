@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gradient" format="2">
-	<unicode hex="2207"/>
-	<advance width="849"/>
-	<outline>
-		<contour>
-			<point x="769" y="726" type="line"/>
-			<point x="427" y="-10" type="line"/>
-			<point x="399" y="-10" type="line"/>
-			<point x="80" y="726" type="line"/>
-		</contour>
-		<contour>
-			<point x="684" y="639" type="line"/>
-			<point x="218" y="639" type="line"/>
-			<point x="442" y="120" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-10</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>639</integer>
-						<key>width</key>
-						<integer>87</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="849"/>
+  <unicode hex="2207"/>
+  <outline>
+    <contour>
+      <point x="769" y="726" type="line"/>
+      <point x="427" y="-10" type="line"/>
+      <point x="399" y="-10" type="line"/>
+      <point x="80" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="684" y="639" type="line"/>
+      <point x="218" y="639" type="line"/>
+      <point x="442" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-10</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>639</integer>
+            <key>width</key>
+            <integer>87</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

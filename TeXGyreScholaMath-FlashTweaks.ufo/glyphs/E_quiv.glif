@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Equiv" format="2">
-	<unicode hex="2263"/>
-	<advance width="780"/>
-	<outline>
-		<contour>
-			<point x="700" y="525" type="line"/>
-			<point x="80" y="525" type="line"/>
-			<point x="80" y="595" type="line"/>
-			<point x="700" y="595" type="line"/>
-		</contour>
-		<contour>
-			<point x="700" y="325" type="line"/>
-			<point x="80" y="325" type="line"/>
-			<point x="80" y="395" type="line"/>
-			<point x="700" y="395" type="line"/>
-		</contour>
-		<contour>
-			<point x="700" y="125" type="line"/>
-			<point x="80" y="125" type="line"/>
-			<point x="80" y="195" type="line"/>
-			<point x="700" y="195" type="line"/>
-		</contour>
-		<contour>
-			<point x="700" y="-75" type="line"/>
-			<point x="80" y="-75" type="line"/>
-			<point x="80" y="-5" type="line"/>
-			<point x="700" y="-5" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-75</integer>
-						<key>width</key>
-						<integer>70</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>125</integer>
-						<key>width</key>
-						<integer>70</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>325</integer>
-						<key>width</key>
-						<integer>70</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>525</integer>
-						<key>width</key>
-						<integer>70</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="780"/>
+  <unicode hex="2263"/>
+  <outline>
+    <contour>
+      <point x="700" y="525" type="line"/>
+      <point x="80" y="525" type="line"/>
+      <point x="80" y="595" type="line"/>
+      <point x="700" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="325" type="line"/>
+      <point x="80" y="325" type="line"/>
+      <point x="80" y="395" type="line"/>
+      <point x="700" y="395" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="125" type="line"/>
+      <point x="80" y="125" type="line"/>
+      <point x="80" y="195" type="line"/>
+      <point x="700" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="-75" type="line"/>
+      <point x="80" y="-75" type="line"/>
+      <point x="80" y="-5" type="line"/>
+      <point x="700" y="-5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-75</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>125</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>325</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>525</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

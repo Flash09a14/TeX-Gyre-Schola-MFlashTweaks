@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign.sts" format="2">
-	<advance width="713"/>
-	<outline>
-		<contour>
-			<point x="654" y="416" type="line"/>
-			<point x="522" y="416" type="line"/>
-			<point x="499" y="284" type="line"/>
-			<point x="621" y="284" type="line"/>
-			<point x="621" y="228" type="line"/>
-			<point x="489" y="228" type="line"/>
-			<point x="450" y="0" type="line"/>
-			<point x="371" y="0" type="line"/>
-			<point x="411" y="228" type="line"/>
-			<point x="262" y="228" type="line"/>
-			<point x="222" y="0" type="line"/>
-			<point x="143" y="0" type="line"/>
-			<point x="183" y="228" type="line"/>
-			<point x="60" y="228" type="line"/>
-			<point x="60" y="284" type="line"/>
-			<point x="193" y="284" type="line"/>
-			<point x="216" y="416" type="line"/>
-			<point x="93" y="416" type="line"/>
-			<point x="93" y="472" type="line"/>
-			<point x="226" y="472" type="line"/>
-			<point x="263" y="686" type="line"/>
-			<point x="342" y="686" type="line"/>
-			<point x="304" y="472" type="line"/>
-			<point x="453" y="472" type="line"/>
-			<point x="491" y="686" type="line"/>
-			<point x="569" y="686" type="line"/>
-			<point x="532" y="472" type="line"/>
-			<point x="654" y="472" type="line"/>
-		</contour>
-		<contour>
-			<point x="444" y="416" type="line"/>
-			<point x="295" y="416" type="line"/>
-			<point x="272" y="284" type="line"/>
-			<point x="421" y="284" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>228</integer>
-						<key>width</key>
-						<integer>56</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>416</integer>
-						<key>width</key>
-						<integer>56</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="713"/>
+  <outline>
+    <contour>
+      <point x="654" y="416" type="line"/>
+      <point x="522" y="416" type="line"/>
+      <point x="499" y="284" type="line"/>
+      <point x="621" y="284" type="line"/>
+      <point x="621" y="228" type="line"/>
+      <point x="489" y="228" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="371" y="0" type="line"/>
+      <point x="411" y="228" type="line"/>
+      <point x="262" y="228" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="183" y="228" type="line"/>
+      <point x="60" y="228" type="line"/>
+      <point x="60" y="284" type="line"/>
+      <point x="193" y="284" type="line"/>
+      <point x="216" y="416" type="line"/>
+      <point x="93" y="416" type="line"/>
+      <point x="93" y="472" type="line"/>
+      <point x="226" y="472" type="line"/>
+      <point x="263" y="686" type="line"/>
+      <point x="342" y="686" type="line"/>
+      <point x="304" y="472" type="line"/>
+      <point x="453" y="472" type="line"/>
+      <point x="491" y="686" type="line"/>
+      <point x="569" y="686" type="line"/>
+      <point x="532" y="472" type="line"/>
+      <point x="654" y="472" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="416" type="line"/>
+      <point x="295" y="416" type="line"/>
+      <point x="272" y="284" type="line"/>
+      <point x="421" y="284" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>228</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>416</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

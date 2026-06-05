@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2216.v2" format="2">
-	<advance width="1052"/>
-	<outline>
-		<contour>
-			<point x="972" y="-446" type="line"/>
-			<point x="896" y="-446" type="line"/>
-			<point x="80" y="966" type="line"/>
-			<point x="156" y="966" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1052"/>
+  <outline>
+    <contour>
+      <point x="972" y="-446" type="line"/>
+      <point x="896" y="-446" type="line"/>
+      <point x="80" y="966" type="line"/>
+      <point x="156" y="966" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2A7D" format="2">
-	<unicode hex="2A7D"/>
-	<advance width="787"/>
-	<outline>
-		<contour>
-			<point x="707" y="37" type="line"/>
-			<point x="80" y="318" type="line"/>
-			<point x="80" y="388" type="line"/>
-			<point x="707" y="670" type="line"/>
-			<point x="707" y="593" type="line"/>
-			<point x="173" y="353" type="line"/>
-			<point x="707" y="114" type="line"/>
-		</contour>
-		<contour>
-			<point x="707" y="-150" type="line"/>
-			<point x="87" y="128" type="line"/>
-			<point x="87" y="205" type="line"/>
-			<point x="707" y="-73" type="line"/>
-		</contour>
-	</outline>
+  <advance width="787"/>
+  <unicode hex="2A7D"/>
+  <outline>
+    <contour>
+      <point x="707" y="37" type="line"/>
+      <point x="80" y="318" type="line"/>
+      <point x="80" y="388" type="line"/>
+      <point x="707" y="670" type="line"/>
+      <point x="707" y="593" type="line"/>
+      <point x="173" y="353" type="line"/>
+      <point x="707" y="114" type="line"/>
+    </contour>
+    <contour>
+      <point x="707" y="-150" type="line"/>
+      <point x="87" y="128" type="line"/>
+      <point x="87" y="205" type="line"/>
+      <point x="707" y="-73" type="line"/>
+    </contour>
+  </outline>
 </glyph>

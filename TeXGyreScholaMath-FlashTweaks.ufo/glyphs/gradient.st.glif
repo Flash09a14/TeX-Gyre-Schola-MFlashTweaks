@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gradient.st" format="2">
-	<advance width="954"/>
-	<outline>
-		<contour>
-			<point x="856" y="726" type="line"/>
-			<point x="480" y="-10" type="line"/>
-			<point x="449" y="-10" type="line"/>
-			<point x="98" y="726" type="line"/>
-		</contour>
-		<contour>
-			<point x="762" y="639" type="line"/>
-			<point x="250" y="639" type="line"/>
-			<point x="496" y="120" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-10</integer>
-						<key>width</key>
-						<integer>21</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>639</integer>
-						<key>width</key>
-						<integer>87</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="954"/>
+  <outline>
+    <contour>
+      <point x="856" y="726" type="line"/>
+      <point x="480" y="-10" type="line"/>
+      <point x="449" y="-10" type="line"/>
+      <point x="98" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="639" type="line"/>
+      <point x="250" y="639" type="line"/>
+      <point x="496" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-10</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>639</integer>
+            <key>width</key>
+            <integer>87</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

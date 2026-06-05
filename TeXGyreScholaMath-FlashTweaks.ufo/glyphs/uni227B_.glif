@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni227B" format="2">
-	<unicode hex="227B"/>
-	<advance width="808"/>
-	<outline>
-		<contour>
-			<point x="728" y="225" type="line"/>
-			<point x="495" y="222"/>
-			<point x="277" y="111"/>
-			<point x="136" y="-74" type="curve"/>
-			<point x="80" y="-32" type="line"/>
-			<point x="187" y="109"/>
-			<point x="335" y="210"/>
-			<point x="500" y="260" type="curve"/>
-			<point x="335" y="310"/>
-			<point x="187" y="411"/>
-			<point x="80" y="552" type="curve"/>
-			<point x="136" y="594" type="line"/>
-			<point x="277" y="409"/>
-			<point x="495" y="298"/>
-			<point x="728" y="295" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>225</integer>
-						<key>width</key>
-						<integer>70</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="808"/>
+  <unicode hex="227B"/>
+  <outline>
+    <contour>
+      <point x="728" y="225" type="line"/>
+      <point x="495" y="222"/>
+      <point x="277" y="111"/>
+      <point x="136" y="-74" type="curve"/>
+      <point x="80" y="-32" type="line"/>
+      <point x="187" y="109"/>
+      <point x="335" y="210"/>
+      <point x="500" y="260" type="curve"/>
+      <point x="335" y="310"/>
+      <point x="187" y="411"/>
+      <point x="80" y="552" type="curve"/>
+      <point x="136" y="594" type="line"/>
+      <point x="277" y="409"/>
+      <point x="495" y="298"/>
+      <point x="728" y="295" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>225</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

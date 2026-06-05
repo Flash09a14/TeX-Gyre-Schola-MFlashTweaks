@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nearrow" format="2">
-	<unicode hex="21D7"/>
-	<advance width="1080"/>
-	<outline>
-		<contour>
-			<point x="1000" y="655" type="line"/>
-			<point x="959" y="309" type="line"/>
-			<point x="919" y="349" type="line"/>
-			<point x="918" y="433" type="line"/>
-			<point x="250" y="-235" type="line"/>
-			<point x="200" y="-185" type="line"/>
-			<point x="917" y="531" type="line"/>
-			<point x="916" y="602" type="line"/>
-			<point x="846" y="602" type="line"/>
-			<point x="129" y="-115" type="line"/>
-			<point x="80" y="-65" type="line"/>
-			<point x="748" y="603" type="line"/>
-			<point x="664" y="604" type="line"/>
-			<point x="624" y="644" type="line"/>
-			<point x="970" y="685" type="line"/>
-			<point x="985" y="670" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>604</integer>
-						<key>width</key>
-						<integer>40</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>919</integer>
-						<key>width</key>
-						<integer>40</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1080"/>
+  <unicode hex="21D7"/>
+  <outline>
+    <contour>
+      <point x="1000" y="655" type="line"/>
+      <point x="959" y="309" type="line"/>
+      <point x="919" y="349" type="line"/>
+      <point x="918" y="433" type="line"/>
+      <point x="250" y="-235" type="line"/>
+      <point x="200" y="-185" type="line"/>
+      <point x="917" y="531" type="line"/>
+      <point x="916" y="602" type="line"/>
+      <point x="846" y="602" type="line"/>
+      <point x="129" y="-115" type="line"/>
+      <point x="80" y="-65" type="line"/>
+      <point x="748" y="603" type="line"/>
+      <point x="664" y="604" type="line"/>
+      <point x="624" y="644" type="line"/>
+      <point x="970" y="685" type="line"/>
+      <point x="985" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>604</integer>
+            <key>width</key>
+            <integer>40</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>919</integer>
+            <key>width</key>
+            <integer>40</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

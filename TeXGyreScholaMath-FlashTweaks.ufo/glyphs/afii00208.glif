@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii00208" format="2">
-	<unicode hex="2015"/>
-	<advance width="1160"/>
-	<outline>
-		<contour>
-			<point x="1080" y="225" type="line"/>
-			<point x="80" y="225" type="line"/>
-			<point x="80" y="295" type="line"/>
-			<point x="1080" y="295" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>225</integer>
-						<key>width</key>
-						<integer>70</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1160"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="1080" y="225" type="line"/>
+      <point x="80" y="225" type="line"/>
+      <point x="80" y="295" type="line"/>
+      <point x="1080" y="295" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>225</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

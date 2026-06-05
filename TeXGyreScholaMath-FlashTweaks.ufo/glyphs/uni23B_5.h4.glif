@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni23B5.h4" format="2">
-	<advance width="1875"/>
-	<outline>
-		<contour>
-			<point x="1875" y="-326" type="line"/>
-			<point x="0" y="-326" type="line"/>
-			<point x="0" y="-78" type="line"/>
-			<point x="48" y="-78" type="line"/>
-			<point x="48" y="-234" type="line"/>
-			<point x="1827" y="-234" type="line"/>
-			<point x="1827" y="-78" type="line"/>
-			<point x="1875" y="-78" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-326</integer>
-						<key>width</key>
-						<integer>92</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>48</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1827</integer>
-						<key>width</key>
-						<integer>48</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="1875"/>
+  <outline>
+    <contour>
+      <point x="1875" y="-326" type="line"/>
+      <point x="0" y="-326" type="line"/>
+      <point x="0" y="-78" type="line"/>
+      <point x="48" y="-78" type="line"/>
+      <point x="48" y="-234" type="line"/>
+      <point x="1827" y="-234" type="line"/>
+      <point x="1827" y="-78" type="line"/>
+      <point x="1875" y="-78" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-326</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1827</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

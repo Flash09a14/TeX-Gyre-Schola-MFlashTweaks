@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SF110000" format="2">
-	<unicode hex="2502"/>
-	<advance width="620"/>
-	<outline>
-		<contour>
-			<point x="345" y="-150" type="line"/>
-			<point x="275" y="-150" type="line"/>
-			<point x="275" y="670" type="line"/>
-			<point x="345" y="670" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>275</integer>
-						<key>width</key>
-						<integer>70</integer>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="620"/>
+  <unicode hex="2502"/>
+  <outline>
+    <contour>
+      <point x="345" y="-150" type="line"/>
+      <point x="275" y="-150" type="line"/>
+      <point x="275" y="670" type="line"/>
+      <point x="345" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>275</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
